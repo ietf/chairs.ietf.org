@@ -1,8 +1,8 @@
 ---
-title: Managing Meetings
+title: Organizing Meetings
 description: Organizing and running effective meetings that achieve clear outcomes.
 published: true
-date: 2021-12-14T17:38:19.863Z
+date: 2021-12-14T17:39:36.286Z
 tags: training
 editor: markdown
 dateCreated: 2021-09-15T16:09:32.177Z
