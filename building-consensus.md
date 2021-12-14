@@ -2,7 +2,7 @@
 title: Building consensus
 description: Arriving at solutions supported by the group, even when they are not in full agreement.
 published: true
-date: 2021-12-14T23:57:25.279Z
+date: 2021-12-14T23:57:45.993Z
 tags: training
 editor: markdown
 dateCreated: 2021-09-15T16:37:14.768Z
@@ -22,4 +22,4 @@ Arriving at solutions supported by the group, even when they are not in full agr
 + [Slides](https://drive.google.com/file/d/10EEWLSDoqKe-Y85XK0p6kgGhsnTQchP6/view?usp=sharing)
 
 **Other resources**
-[On Consensus and Humming in the IETF (RFC7282)](https://www.rfc-editor.org/info/rfc7282)
+[On Consensus and Humming in the IETF (RFC7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
