@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-14T18:28:37.299Z
+date: 2021-12-14T18:29:40.081Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -16,16 +16,16 @@ Welcome to a resource site for IETF working group chairs and others providing le
 ## General resources
 This section provides general information about IETF WG nad the WG chair role.
 
-[WG Guidelines & Procedures (BCP 25)](https://www.rfc-editor.org/info/rfc2418)
+### [WG Guidelines & Procedures (BCP 25)](https://www.rfc-editor.org/info/rfc2418)
 These are the formally documented procedures for IETF working groups
 
-[WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
+### [WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
 Photos of all current IETF WG chairs. (If you are a WG chair and would like to add or update your photo, send email with an attachement to support@ietf.org)
 
-[The Internet Standards Process (RFC 2026)](https://www.rfc-editor.org/rfc/rfc2026.html) 
+### [The Internet Standards Process (RFC 2026)](https://www.rfc-editor.org/rfc/rfc2026.html) 
 Published in 1996, this is the foundational document describing the IETF standards process. An [informal guide](https://www.ietf.org/standards/process/informal/) provides another view of various aspects of the Internet standards process.
 
-[IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
+### [IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
 
 ## Getting started
 A quick guide for new IETF Working Group chairs.
