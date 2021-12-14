@@ -2,7 +2,7 @@
 title: Organizing Meetings
 description: Organizing and running effective meetings that achieve clear outcomes.
 published: true
-date: 2021-12-14T17:39:36.286Z
+date: 2021-12-14T17:40:05.290Z
 tags: training
 editor: markdown
 dateCreated: 2021-09-15T16:09:32.177Z
@@ -11,11 +11,11 @@ dateCreated: 2021-09-15T16:09:32.177Z
 # Organizing meetings
 
 ## Tools
-IETF Meeting session requests
-Interim WG meeting session request
-Scheduling a virtual interim meeting - Guide
-Meeting materials submission and management (current WG Chair IETF Datatracker login required)
-WG session planning spreadsheet
+[IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)
+[Interim WG meeting session request](https://datatracker.ietf.org/meeting/interim/request/)
+[Scheduling a virtual interim meeting - Guide](scheduling-interim-meetings)
+Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) (current WG Chair IETF Datatracker login required)
+[WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)
 
 ## Information and resources
 ### Presentations
