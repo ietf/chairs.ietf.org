@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-14T18:45:28.442Z
+date: 2021-12-14T18:56:15.851Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -48,6 +48,8 @@ These pages provide information, tools, and resources related to common IETF WG 
 A guide for updating working group milestones in the IETF Datatracker.
 
 [Liaison Statements](https://datatracker.ietf.org/liaison/)
+Find and access liaison statments. The Internet Architecture Board ([IAB](https://www.iab.org)) appoints [liaisons wiht other organizations](https://www.ietf.org/about/liaisons/) on behalf of the IETF.
+
 [IETF Datatracker sandbox](https://sandbox.ietf.org) ([about](https://www.ietf.org/chairs/datatracker-sandbox/))
 
 ## Other IETF tools and resources
