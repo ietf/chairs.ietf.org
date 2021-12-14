@@ -2,13 +2,11 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-14T18:06:29.977Z
+date: 2021-12-14T18:11:32.850Z
 tags: meetings
 editor: markdown
 dateCreated: 2021-12-14T18:06:29.977Z
 ---
-
-# Organizing meetings
 
 ## Tools
 [IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)
