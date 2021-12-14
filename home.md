@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-14T18:56:15.851Z
+date: 2021-12-14T19:00:03.114Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -26,12 +26,7 @@ Photos of all current IETF WG chairs. (If you are a WG chair and would like to a
 Published in 1996, this is the foundational document describing the IETF standards process. An [informal guide](https://www.ietf.org/standards/process/informal/) provides another view of various aspects of the Internet standards process.
 
 ### [IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
-This page provides a mechanism for filing disclosures about intellectual property rights (IPR) and for finding out what IPR disclosures have been filed. The IETF intellectual property rights rules are defined in RFC 8179, ["Intellectual Property Rights in IETF Technology"](https://www.rfc-editor.org/rfc/rfc8179.html).
-
-## Getting started
-A quick guide for new IETF Working Group chairs.
->  This section is currently under development
-{.is-warning}
+This page provides a mechanism for filing disclosures about intellectual property rights (IPR) and for finding out what IPR disclosures have been filed. The IETF intellectual property rights rules are defined in RFC 8179, "[Intellectual Property Rights in IETF Technology]"(https://www.rfc-editor.org/rfc/rfc8179.html).
 
 ## Common tasks
 These pages provide information, tools, and resources related to common IETF WG chair tasks:
@@ -63,9 +58,14 @@ The information page and subscription form for the discussion email list for IET
 A web-based public archive of the IETF Working Group chairs email list.
 
 ## Other services
-Webex [quick guide](https://help.webex.com/en-US/article/nhww3xz/Host-a-Webex-Meeting-or-Event---Quick-Reference-Tasks) [How-to videos](https://www.youtube.com/playlist?list=PL_YnWo4XhzTfhkcwB6M1a-wJ9dTlz58yz)
-Meetecho [Guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/)
-[Github Use for Working Groups](https://www.ietf.org/chairs/github/)
+### Webex 
+[Webex](https://www.webex.com) is used by many IETF groups. Webex provides a [quick guide](https://help.webex.com/en-US/article/nhww3xz/Host-a-Webex-Meeting-or-Event---Quick-Reference-Tasks) and [How-to videos](https://www.youtube.com/playlist?list=PL_YnWo4XhzTfhkcwB6M1a-wJ9dTlz58yz)
+
+### Meetecho 
+[Meetecho](https://www.meetecho.com/en/) is used for remote participation in IETF Meetings. A [guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) and a [guide for participants] are available.
+
+### Github
+Github is used by [Github Use for Working Groups](https://www.ietf.org/chairs/github/)
 
 ## Chair training courses
 These IETF Working Group Chairs training courses aim to help new and experienced chairs develop and enhance skills that are important to effectively manage working group discussions.
