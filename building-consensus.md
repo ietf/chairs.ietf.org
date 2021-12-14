@@ -2,7 +2,7 @@
 title: Building consensus
 description: Arriving at solutions supported by the group, even when they are not in full agreement.
 published: true
-date: 2021-12-14T23:57:45.993Z
+date: 2021-12-14T23:59:52.998Z
 tags: training
 editor: markdown
 dateCreated: 2021-09-15T16:37:14.768Z
