@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-14T18:14:43.501Z
+date: 2021-12-14T23:55:12.866Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -11,7 +11,7 @@ dateCreated: 2021-12-14T18:14:43.501Z
 ## Tools
 [IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)
 [Interim WG meeting session request](https://datatracker.ietf.org/meeting/interim/request/)
-[Scheduling a virtual interim meeting - Guide](scheduling-interim-meetings)
+[Scheduling a virtual interim meeting - Guide](https://chairs.ietf.org/en/scheduling-interim-meetings)
 Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) (current WG Chair IETF Datatracker login required)
 [WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)
 
