@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-14T19:01:29.870Z
+date: 2021-12-14T19:11:07.173Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -74,5 +74,3 @@ These IETF Working Group Chairs training courses aim to help new and experienced
 + [Promoting contribution](/promoting-contribution)
 + [Resolving conflict](/resolving-conflict)
 + [Building consensus](building-consensus)
-
-## Improving this site
