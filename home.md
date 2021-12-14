@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-14T17:40:23.109Z
+date: 2021-12-14T17:45:05.620Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -27,7 +27,7 @@ This section provides general information about the IETF WG Chair role and
 ### Tools
 [IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)
 [Interim WG meeting session request](https://datatracker.ietf.org/meeting/interim/request/)
-[Scheduling a virtual interim meeting - Guide](scheduling-interim-meetings)
+[Scheduling a virtual interim meeting - Guide](https://chairs.ietf.org/scheduling-interim-meetings)
 Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) (current WG Chair IETF Datatracker login required)
 [WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)
 
