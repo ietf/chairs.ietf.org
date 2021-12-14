@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-14T19:11:07.173Z
+date: 2021-12-14T19:42:59.753Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -27,16 +27,6 @@ Published in 1996, this is the foundational document describing the IETF standar
 
 ### [IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
 This page provides a mechanism for filing disclosures about intellectual property rights (IPR) and for finding out what IPR disclosures have been filed. The IETF intellectual property rights rules are defined in RFC 8179, "[Intellectual Property Rights in IETF Technology]"(https://www.rfc-editor.org/rfc/rfc8179.html).
-
-## Common tasks
-These pages provide information, tools, and resources related to common IETF WG chair tasks:
-
-- [Managing mailing lists](mailing-lists)
-- [Organizing WG meetings](meetings)
-- [Managing WG docuemnts](/docuemnts)
-
-[IESG statement on moderating mailing Lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/)
-
 
 ## IETF Datatracker resources
 [Updating WG milestones](https://www.ietf.org/chairs/updating-working-group-milestones/)
@@ -66,6 +56,16 @@ A web-based public archive of the IETF Working Group chairs email list.
 
 ### Github
 Github is used by some IETF WGs. A [Github Use for Working Groups](https://www.ietf.org/chairs/github/) is available.
+
+## Common tasks
+These pages provide information, tools, and resources related to common IETF WG chair tasks:
+
+- [Managing mailing lists](mailing-lists)
+- [Organizing WG meetings](meetings)
+- [Managing WG docuemnts](/docuemnts)
+
+[IESG statement on moderating mailing Lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/)
+
 
 ## Chair training courses
 These IETF Working Group Chairs training courses aim to help new and experienced chairs develop and enhance skills that are important to effectively manage working group discussions.
