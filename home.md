@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-14T19:00:03.114Z
+date: 2021-12-14T19:01:29.870Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -65,7 +65,7 @@ A web-based public archive of the IETF Working Group chairs email list.
 [Meetecho](https://www.meetecho.com/en/) is used for remote participation in IETF Meetings. A [guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) and a [guide for participants] are available.
 
 ### Github
-Github is used by [Github Use for Working Groups](https://www.ietf.org/chairs/github/)
+Github is used by some IETF WGs. A [Github Use for Working Groups](https://www.ietf.org/chairs/github/) is available.
 
 ## Chair training courses
 These IETF Working Group Chairs training courses aim to help new and experienced chairs develop and enhance skills that are important to effectively manage working group discussions.
