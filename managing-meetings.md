@@ -2,14 +2,38 @@
 title: Managing Meetings
 description: Organizing and running effective meetings that achieve clear outcomes.
 published: true
-date: 2021-11-04T14:21:51.107Z
+date: 2021-12-14T17:38:19.863Z
 tags: training
 editor: markdown
 dateCreated: 2021-09-15T16:09:32.177Z
 ---
 
-# Managing meetings training
-Organizing and running effective meetings that achieve clear outcomes.
+# Organizing meetings
+
+## Tools
+IETF Meeting session requests
+Interim WG meeting session request
+Scheduling a virtual interim meeting - Guide
+Meeting materials submission and management (current WG Chair IETF Datatracker login required)
+WG session planning spreadsheet
+
+## Information and resources
+### Presentations
+Slide template (includes Note Well) ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
+Tips for presenters - Tutorial ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
+
+### Meeting documents
+[Formatting & Content of Meeting Materials Guidelines](https://www.ietf.org/chairs/wg-agendas-minutes-formatting-content/)
+[Submitting meeting materials](https://www.ietf.org/chairs/meeting-materials/)
+Meeting agenda template ([MD]())
+Meeting notes template ([MD]())
+
+### Processes
+[On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
+[In-person meeting Chromebook instructions](https://www.ietf.org/media/documents/Loading_Your_Presentation_-_Rainbow.pdf)
+
+## Managing meetings training
+These courses were first presented in 2021 with the goal of helping WG Chairs organize and run effective meetings that achieve clear outcomes.
 
 **Class 1**
 Learn how to prepare for an IETF meeting, set meeting expectations, create a meeting agenda, and more.
