@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-14T17:45:05.620Z
+date: 2021-12-14T18:28:37.299Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -14,16 +14,34 @@ Welcome to a resource site for IETF working group chairs and others providing le
 {.is-warning}
 
 ## General resources
-This section provides general information about the IETF WG Chair role and 
-[WG Guidelines & Procedures (BCP 25)](https://www.rfc-editor.org/info/rfc2418)
-[The Internet Standards Process (RFC 2026)](https://www.rfc-editor.org/rfc/rfc2026.html) 
-[IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
-[WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
+This section provides general information about IETF WG nad the WG chair role.
 
-## Managing WG mailing lists
+[WG Guidelines & Procedures (BCP 25)](https://www.rfc-editor.org/info/rfc2418)
+These are the formally documented procedures for IETF working groups
+
+[WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
+Photos of all current IETF WG chairs. (If you are a WG chair and would like to add or update your photo, send email with an attachement to support@ietf.org)
+
+[The Internet Standards Process (RFC 2026)](https://www.rfc-editor.org/rfc/rfc2026.html) 
+Published in 1996, this is the foundational document describing the IETF standards process. An [informal guide](https://www.ietf.org/standards/process/informal/) provides another view of various aspects of the Internet standards process.
+
+[IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
+
+## Getting started
+A quick guide for new IETF Working Group chairs.
+>  This section is currently under development
+{.is-warning}
+
+## Common tasks
+These pages provide information, tools, and resources related to common IETF WG chair tasks:
+
+- [Managing mailing lists](mailing-lists)
+- [Organizing WG meetings](meetings)
+- [
+
 [IESG statement on moderating mailing Lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/)
 
-## Organizing WG meetings
+### Organizing WG meetings
 ### Tools
 [IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)
 [Interim WG meeting session request](https://datatracker.ietf.org/meeting/interim/request/)
@@ -54,7 +72,6 @@ IETF Internet-Draft [status](https://datatracker.ietf.org/submit/status/) and [a
 [Document writeup guides](https://www.ietf.org/chairs/document-writeups/)
 [Internet-Draft author resources](https://authors.ietf.org)
 
-<a name="datatracker"></a> 
 ## IETF Datatracker resources
 [Updating WG milestones](https://www.ietf.org/chairs/updating-working-group-milestones/)
 A guide for updating working group milestones in the IETF Datatracker.
