@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2021-12-14T18:44:13.129Z
+date: 2021-12-14T19:42:15.394Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
