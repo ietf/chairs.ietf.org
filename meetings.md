@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-15T00:39:53.294Z
+date: 2021-12-15T00:45:48.895Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -16,6 +16,9 @@ Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_procee
 
 
 ## Information and resources
+
+[IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance-2016-01-16/)
+This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual. (May 2020)
 
 ### Templates
 [WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)
