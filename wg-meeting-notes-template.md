@@ -2,7 +2,7 @@
 title: wg-meeting-notes-template
 description: A template for wg meeting notes that works with IETF Datatracker
 published: true
-date: 2021-12-15T00:33:22.967Z
+date: 2021-12-15T00:50:43.551Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-15T00:08:11.891Z
@@ -12,7 +12,8 @@ dateCreated: 2021-12-15T00:08:11.891Z
 
 +++
 **Notes about this template:**
-- This template (created 2021-12-14) is offered as an example starting point only—there is no required format for IETF WG meeting notes; 
+- This template (created 2021-12-14) is offered as an example starting point only
+- See [suggestions about the form and content of Working Group agendas and minutes](https://www.ietf.org/chairs/wg-agendas-minutes-formatting-content/)
 - It is thought to work with the IETF Datatracker but should be double-checked
 - Values to replace
    . WGNAME = Working Group abbreviation
