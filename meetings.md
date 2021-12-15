@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-14T23:55:12.866Z
+date: 2021-12-15T00:23:15.978Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -14,6 +14,8 @@ dateCreated: 2021-12-14T18:14:43.501Z
 [Scheduling a virtual interim meeting - Guide](https://chairs.ietf.org/en/scheduling-interim-meetings)
 Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) (current WG Chair IETF Datatracker login required)
 [WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)
+Meeting agenda template ([MD]())
+Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
 
 ## Information and resources
 ### Presentations
@@ -23,8 +25,6 @@ Tips for presenters - Tutorial ([Slides](https://www.ietf.org/documents/141/91-P
 ### Meeting documents
 [Formatting & Content of Meeting Materials Guidelines](https://www.ietf.org/chairs/wg-agendas-minutes-formatting-content/)
 [Submitting meeting materials](https://www.ietf.org/chairs/meeting-materials/)
-Meeting agenda template ([MD]())
-Meeting notes template ([MD]())
 
 ### Processes
 [On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
