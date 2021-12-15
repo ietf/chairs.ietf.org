@@ -2,7 +2,7 @@
 title: wg-meeting-notes-template
 description: A template for wg meeting notes that works with IETF Datatracker
 published: true
-date: 2021-12-15T00:34:34.329Z
+date: 2021-12-15T00:36:51.005Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-15T00:34:34.329Z
@@ -17,7 +17,7 @@ dateCreated: 2021-12-15T00:34:34.329Z
 - Values to replace
    . WGNAME = Working Group abbreviation
    . NNN = IETF meeting number (if not an interim session)
-- The source for this template is [available on Github](https://github.com/ietf-chairs/chairs.ietf.org/blob/main/wg-meeting-notes-template.md)
+- The source for this template is [available on Github](https://github.com/ietf-chairs/chairs.ietf.org/blob/main/wg-meeting-agenda-template.md)
 - Thanks to Glenn Deen for providing the initial version from which this is adapted
 +++
 
