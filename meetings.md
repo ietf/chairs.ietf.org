@@ -2,36 +2,36 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-15T00:45:48.895Z
+date: 2021-12-15T00:48:23.409Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
 ---
-
-## Tools
-[IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)
-[Interim WG meeting session request](https://datatracker.ietf.org/meeting/interim/request/)
-[Scheduling a virtual interim meeting - Guide](https://chairs.ietf.org/en/scheduling-interim-meetings)
-Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) (current WG Chair IETF Datatracker login required)
-
 
 ## Information and resources
 
 [IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance-2016-01-16/)
 This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual. (May 2020)
 
-### Templates
+## Tools
+[IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)
+[Interim WG meeting session request](https://datatracker.ietf.org/meeting/interim/request/)
+Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) (current WG Chair IETF Datatracker login required)
+
+## Meeting planning templates and guides
+[Scheduling a virtual interim meeting - Guide](https://chairs.ietf.org/en/scheduling-interim-meetings)
 [WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)
+[Submitting meeting materials](https://www.ietf.org/chairs/meeting-materials/)
+[Formatting & Content of Meeting Materials Guidelines](https://www.ietf.org/chairs/wg-agendas-minutes-formatting-content/)
 Meeting agenda template ([MD](https://chairs.ietf.org/en/wg-meeting-agenda-template))
 Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
 
-### Presentations
+## Presentation templates and guides
 Slide template (includes Note Well) ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
 Tips for presenters - Tutorial ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
 
 ### Meeting document guides
-[Formatting & Content of Meeting Materials Guidelines](https://www.ietf.org/chairs/wg-agendas-minutes-formatting-content/)
-[Submitting meeting materials](https://www.ietf.org/chairs/meeting-materials/)
+
 
 ### Processes
 [On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
