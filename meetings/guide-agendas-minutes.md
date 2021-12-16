@@ -2,7 +2,7 @@
 title: Formatting and Content of IETF Working Group Agendas and Minutes
 description: This document provides suggestions about the form and content of Working Group agendas and minutes.
 published: true
-date: 2021-12-16T15:33:18.805Z
+date: 2021-12-16T15:40:11.334Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-16T15:29:24.352Z
@@ -195,6 +195,8 @@ Finally, the minutes may include any other additional information that the worki
 
 In order to unambiguously identify the minutes they should, just like agendas, have a clear and unambiguous header. The content should at least contain the name of the working group, the IETF number, the date and time of the meeting and the name of the scribes. A version number is recommended. Figure 3 (Example Minutes Header) provides an example Minutes Header.
 
+```
+
      Formatting of IETF Workflow Documents Group (FIWD) Minutes
 
 
@@ -210,6 +212,7 @@ In order to unambiguously identify the minutes they should, just like agendas, h
 
      ==============================================================
 Figure 3: Example Minutes Header
+```
 
 ### 4.3.2.  The Body
 
@@ -224,7 +227,7 @@ Figure 4 (Example Minutes Body) contains an example of the formatting of a the b
 ### 4.3.3.  Length of Submitted Minutes
 
 Minutes should provide a thorough summary of the issues discussed during the working group/BOF sessions, and should be limited in size. As a guideline we suggest three pages of text per hour of meeting.
-
+```
   =======================================================
   AGENDA
     A. Meeting Administrivia
@@ -306,6 +309,7 @@ Minutes should provide a thorough summary of the issues discussed during the wor
 
     D. Possible Work Items                                 (total: 15 min)
      (...)
+```
 Figure 4: Example Minutes Body
 
 ## 4.4.  Encoding
@@ -370,18 +374,16 @@ Corrections to minutes will be accepted until the Friday six weeks from the Frid
 The Working Group Chair can make changes to submitted minutes or presentation materials for six weeks from the Friday of meeting week; However, the chair must have submitted some form of the materials to the IETF Secretariat by the forth Friday following the meeting week.
 
 # 6.  Acknowledgments
-
 Rebecca Bunch, Leslie Daigle and Allison Mankin made several helpful and clarifying comments on earlier versions of this document.
 
 # 7.  Security Considerations
-
 This document specifies neither a protocol nor an operational practice, and as such, it creates no new security considerations.
 
 # 8.  IANA Considerations
 
 This document creates a no new requirements on IANA namespaces[RFC2434] (Narten, T. and H. Alvestrand, “Guidelines for Writing an IANA Considerations Section in RFCs,” October 1998.).
 
-## 9.  References
+# 9.  References
 
 ## 9.1. Normative References
 
@@ -412,7 +414,7 @@ Narten, T. and H. Alvestrand, “Guidelines for Writing an IANA Considerations S
 # Appendix A.  Templates
 
 ## A.1.  Agenda Template
-
+```
 <Working Group Name> (<working group abbreviation&gt); AGENDA
 Meeting : IETF<Number>  <Scheduled Date of Meeting>Location: <Hotel and room information>, <timeslot>Chairs  : <chair name> <chair email address>          <co-chair1 name> <co-chair1 email address>Jabber  : <jabber room URL>URL     : <Working Group or URL>Agenda  : version: <Agenda Version>=========================================================
 AGENDA
@@ -453,11 +455,11 @@ AGENDA
    Other
    -----
    <misc stuff>
-
+```
 ### A.2.  Minutes Template
 
 Instead of using this template it is probably easiest to use the published agenda to derive the actual minutes template
-
+```
 <Working Group Name> (<working group abbreviation>) MINUTES
 
 Meeting : IETF<Number>  <Scheduled Date of Meeting>
@@ -478,7 +480,6 @@ AGENDA
 
 Meeting Report
   A. Meeting Administrivia
-
       <Minute Scribe> volunteered as minutes scribe.
       <Jabber Scribe> volunteered as jabber scribe.      < status previous minutes >
 
@@ -499,7 +500,7 @@ Meeting Report
       < Meeting prose >
 
       < Action Items >
-
+```
 ## Authors' Addresses
 
 David Meyer
