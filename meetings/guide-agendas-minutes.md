@@ -2,7 +2,7 @@
 title: Formatting and Content of IETF Working Group Agendas and Minutes
 description: This document provides suggestions about the form and content of Working Group agendas and minutes.
 published: true
-date: 2021-12-16T15:30:21.348Z
+date: 2021-12-16T15:33:18.805Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-16T15:29:24.352Z
@@ -63,7 +63,7 @@ This mandate serves a number of needs. It allows working group chairs to careful
 
 There are a couple of considerations that can help one to produce an agenda that serves everybody's needs. One will always have to try to make trade-offs between the size of the formatted document and the amount of detail to add. This document suggests some content and some hints to present this content in a uniform way. According to ( "Submitting Meeting Materials for IETF Working Group and BOF Sessions," Jan 2006.), agendas can be submitted in HTML and TXT encoding. Since a clearly formatted agenda can be used as a template for the construction of the minutes one should clearly structure the source text. When submitting HTML you could consider ``<pre>`` tags to preserve the formatting.
 
-#### 2.1.1.  The Header
+### 2.1.1.  The Header
 To unambiguously identify the agenda the header should at least contain the name of the working group and its acronym and the IETF meeting to which this meeting relates.
 
 By adding some standard information to your header the agenda can be used as a 'one-stop-shop' for all information regarding the meeting. Consider adding the location and time of the meeting, pointers to the jabber room, pointers to audio- or web-cast and a pointer to the working groups web pages. This document provide that guidance together with a few templates that may assist the reader in constructing the artifacts. The use of the templates is not mandatory and the guidence herein may be neglected. Versioning the agenda is also a recommended practice. Finally, don't forget to add the contact information of the chairs.
@@ -85,7 +85,7 @@ Figure 1 (Agenda Section Header) provides an example Agenda Section Header.
      ==============================================================
 Figure 1: Agenda Section Header
 
-#### 2.1.2.  The Body
+### 2.1.2.  The Body
 
 The body of the agenda presents the structure of the meeting. In our experience the meeting can usually be split in 'topics'. The meeting-administrivia is one 'topic', the administrivia concerning the working group documents is another 'topic'. By trying to structure the agenda by 'topic' a chair brings structure to the meeting. Stated from a meeting-centric point of view: The structure of a meeting should be represented in the agenda.
 
@@ -157,21 +157,21 @@ When using HTML to encode the agenda we suggest you put in links to the document
            Chair summarizes WGLC.
 Figure 2: Example Agenda Body
 
-### 2.2.  Submission Procedure and Deadlines
+## 2.2.  Submission Procedure and Deadlines
 
 Submitting Meeting Materials for IETF Working Group and BOF Sessions is the authoritative source for the submission procedure and the deadlines. Note that submission of an agenda is mandatory.
 
-## 3.  The brief meeting report
+# 3.  The brief meeting report
 
 RFC 2418, section 6.1 instructs WG Chairs "to provide the Area Director with a very short report (approximately one paragraph on email) on the session". This information is used by the Area directors during the IETF week and is of most value when sent immediately after the session. The practice is not common for all areas so chairs should check with their ADs if they expect such report.
 
 If the responsible AD for the WG requests them, then the chairs should consider to copy their working group on this report.
 
-## 4.  Minutes
+# 4.  Minutes
 
 Section 3.1 of RFC 2418 mandates that "All working group sessions (including those held outside of the IETF meetings) shall be reported by making minutes available". And while there is a brief discussion of the desired content (note that this is not required content), including the session agenda, an account of the discussion including any decisions made, and the list of attendees, it gives little other guidance. Further, while the IETF secretariat maintains "instructions" web pages ([“Minutes for the IETF Proceedings,” 2005](https://www.ietf.org/chairs/wg-agendas-minutes-formatting-content/#MINUTES).), they provide only vague guidelines, and note that the format and content of the minutes is to be "is defined by the chair and minute-taker". As a result, IETF session minutes are of widely varying content and quality. In the following sections we suggest a format for IETF session minutes.
 
-### 4.1.  The Purpose of Session Minutes
+## 4.1.  The Purpose of Session Minutes
 
 RFC 2418 states that "It is also good practice to note important decisions/consensus reached by email in the minutes of the next 'live' session, and to summarize briefly the decision-making history in the final documents the WG produces." Note that decisions reached during a face-to-face meeting about topics or issues which have not been discussed on the mailing list, or are significantly different from previously arrived mailing list consensus must be reviewed on the mailing list. This suggests the importance of the working group's minutes: while the working group minutes just reporting and critical record-keeping, there are times when a working group's minutes play an important role in signaling the subsequent confirmation process (post working group meeting) on the mailing list.
 
@@ -179,7 +179,7 @@ The suggestion here is that the purpose of the minutes is to summarize and docum
 
 The guiding principle behind the minutes, then, is that they must convey enough information to a non-attending reader to be able to review the meeting activity and understand the meeting outcome. In general, the minutes must be of sufficient detail and accuracy such that if an event cannot be understood to have happened from the minutes, then the event in question "did not happen" at the meeting.
 
-### 4.2.  Minutes Content Considerations
+## 4.2.  Minutes Content Considerations
 
 In general, session minutes serve two main functions. First, they provide a record of the issues discussed during the meeting, and those participating in the discussions for those who weren't in attendance. Second, they provide a record that can be used to review decisions that were made (such as those items on which the WG has reached consensus, etc). As such, standardized format, as well as quality and completeness, are essential to the operation of the IETF process.
 
@@ -189,9 +189,9 @@ The main body of the Minutes section must be a prose description of the issues d
 
 Finally, the minutes may include any other additional information that the working group chair deems appropriate as as appendices or attachments.
 
-### 4.3.  Minutes Formatting Considerations
+## 4.3.  Minutes Formatting Considerations
 
-#### 4.3.1.  The Header
+### 4.3.1.  The Header
 
 In order to unambiguously identify the minutes they should, just like agendas, have a clear and unambiguous header. The content should at least contain the name of the working group, the IETF number, the date and time of the meeting and the name of the scribes. A version number is recommended. Figure 3 (Example Minutes Header) provides an example Minutes Header.
 
@@ -211,7 +211,7 @@ In order to unambiguously identify the minutes they should, just like agendas, h
      ==============================================================
 Figure 3: Example Minutes Header
 
-#### 4.3.2.  The Body
+### 4.3.2.  The Body
 
 The minutes body should occur just below the minutes header. To improve readability, we suggest that details are skipped and only the main topics are listed. We suggest that the sub-topic structure is maintained in the minutes.
 
@@ -221,7 +221,7 @@ Enumeration room consensus or actions for each topic is helpful.
 
 Figure 4 (Example Minutes Body) contains an example of the formatting of a the body of a set of minutes for our imaginary working group. We try to present an example for a style that captures the gist of the meeting and a formatting that represents the structure of the meeting.
 
-#### 4.3.3.  Length of Submitted Minutes
+### 4.3.3.  Length of Submitted Minutes
 
 Minutes should provide a thorough summary of the issues discussed during the working group/BOF sessions, and should be limited in size. As a guideline we suggest three pages of text per hour of meeting.
 
@@ -308,29 +308,29 @@ Minutes should provide a thorough summary of the issues discussed during the wor
      (...)
 Figure 4: Example Minutes Body
 
-### 4.4.  Encoding
+## 4.4.  Encoding
 
 (“Submitting Meeting Materials for IETF Working Group and BOF Sessions,” Jan 2006.) allows HTML encoded minutes. We suggest that TXT encoding is used except for those cases in which the working group chair wants to emphasize flow or other formatting.
 
-In summary, the minutes for the IETF proceedings must be submitted in ASCII form, and formatted either in either plain text format or in HTML (where <pre> tags can be used to preserve formatting). That is, non-ASCII binary formats such as JPEG (“The JPEG Image Format,” 2005.) or executable code such as Java (“The JAVA Programming Language,” 2005.) must not be included in submitted minutes.
+In summary, the minutes for the IETF proceedings must be submitted in ASCII form, and formatted either in either plain text format or in HTML (where ``<pre>`` tags can be used to preserve formatting). That is, non-ASCII binary formats such as JPEG (“The JPEG Image Format,” 2005.) or executable code such as Java (“The JAVA Programming Language,” 2005.) must not be included in submitted minutes.
 
-### 4.5.  Submission Procedure and Deadlines
+## 4.5.  Submission Procedure and Deadlines
 
 (“Submitting Meeting Materials for IETF Working Group and BOF Sessions,” Jan 2006.) is the authoritative source for the submission procedure and the deadlines.
 
-### 4.6.  Minutes Errata -- Correcting Mistakes
+## 4.6.  Minutes Errata -- Correcting Mistakes
 
 Corrections to minutes will be accepted until the Friday six weeks from the Friday of the meeting week. Such corrections should be sent to minutes@ietf.org. In general, the rule can be stated as follows:
 
 The Working Group Chair can make changes to submitted minutes or presentation materials for six weeks from the Friday of meeting week; However, the chair must have submitted some form of the materials to the IETF Secretariat by the forth Friday following the meeting week.
 
-## 5.  Other meeting materials such as presentations
+# 5.  Other meeting materials such as presentations
 
 The IETF secretariat webpages on the submission of meeting materials (“Submitting Meeting Materials for IETF Working Group and BOF Sessions,” Jan 2006.) also outlines acceptable encodings (outlined below), and layout guidelines for session presentation materials. However, these guidelines are (possibly necessarily) vague, and provide no procedures for working group chairs to ensure consistent cross-working group presentation quality. As a result, IETF session presentation materials are of widely varying content and quality. In the following sections we outline a standard format for IETF session materials, and a process for their submission.
 
 In general, in order to have presentation materials included in the meeting proceedings, an on-line copy set of the slides in an approved format, must be submitted within two weeks following the meeting (see discussion of formats and deadlines below). Presentation slides covering information reported in the minutes need not be submitted.
 
-### 5.1.  Encoding
+## 5.1.  Encoding
 
 (“Submitting Meeting Materials for IETF Working Group and BOF Sessions,” Jan 2006.) lays out the accepted presentation formats. In particular, the presentation materials must be provided one following encodings in order to be accepted for publication in the meeting proceedings:
 
@@ -347,7 +347,7 @@ File Name Encoding
 
 Many presenters are currently use MagicPoint (“MagicPoint,” 2005.) as a presentation tool, MagicPoint format documents must be converted to one of the above formats for submission to the secretariat.
 
-### 5.2.  Submission Procedure and Deadlines
+## 5.2.  Submission Procedure and Deadlines
 
 (“Submitting Meeting Materials for IETF Working Group and BOF Sessions,” Jan 2006.) is the authoritative source for the submission procedure and the deadlines.
 
@@ -363,27 +363,27 @@ Hard copies must not be submitted, as they will not be used. Finally, slides sho
 
 Note: The materials must be in electronic form, but the form is PDF (not amenable to editing, etc).
 
-### 5.3.  Presentation Errata -- Correcting Mistakes
+## 5.3.  Presentation Errata -- Correcting Mistakes
 
 Corrections to minutes will be accepted until the Friday six weeks from the Friday of the meeting week. Such corrections should be sent to proceedings@ietf.org. In general, the rule can be stated as follows:
 
 The Working Group Chair can make changes to submitted minutes or presentation materials for six weeks from the Friday of meeting week; However, the chair must have submitted some form of the materials to the IETF Secretariat by the forth Friday following the meeting week.
 
-## 6.  Acknowledgments
+# 6.  Acknowledgments
 
 Rebecca Bunch, Leslie Daigle and Allison Mankin made several helpful and clarifying comments on earlier versions of this document.
 
-## 7.  Security Considerations
+# 7.  Security Considerations
 
 This document specifies neither a protocol nor an operational practice, and as such, it creates no new security considerations.
 
-## 8.  IANA Considerations
+# 8.  IANA Considerations
 
 This document creates a no new requirements on IANA namespaces[RFC2434] (Narten, T. and H. Alvestrand, “Guidelines for Writing an IANA Considerations Section in RFCs,” October 1998.).
 
 ## 9.  References
 
-### 9.1. Normative References
+## 9.1. Normative References
 
 [RFC2418]
 
@@ -393,7 +393,7 @@ Bradner, S., “IETF Working Group Guidelines and Procedures,” BCP 25, RFC 241
 
 Narten, T. and H. Alvestrand, “Guidelines for Writing an IANA Considerations Section in RFCs,” BCP 26, RFC 2434, October 1998 (TXT, HTML, XML).
 
-### 9.2. Informative References
+## 9.2. Informative References
 
 [MEETINGTOOL] “The IETF Meeting Materials Management Tool,” Web Page: http://www.ietf.org/instructions/meeting_materials_tool.html, 2005.
 
@@ -409,9 +409,9 @@ Narten, T. and H. Alvestrand, “Guidelines for Writing an IANA Considerations S
 
 [MGP] “MagicPoint,” Web Page: http://member.wide.ad.jp/wg/mgp, 2005.
 
-## Appendix A.  Templates
+# Appendix A.  Templates
 
-### A.1.  Agenda Template
+## A.1.  Agenda Template
 
 <Working Group Name> (<working group abbreviation&gt); AGENDA
 Meeting : IETF<Number>  <Scheduled Date of Meeting>Location: <Hotel and room information>, <timeslot>Chairs  : <chair name> <chair email address>          <co-chair1 name> <co-chair1 email address>Jabber  : <jabber room URL>URL     : <Working Group or URL>Agenda  : version: <Agenda Version>=========================================================
