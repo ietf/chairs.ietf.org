@@ -2,7 +2,7 @@
 title: IETF Meeting session request tool
 description: These instructions are for the Session Request Tool provided on the IETF Datatracker.
 published: true
-date: 2021-12-17T15:26:25.931Z
+date: 2021-12-17T15:28:14.218Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T15:26:25.931Z
@@ -39,7 +39,7 @@ To request a new session at an upcoming IETF meeting, complete all the required 
 - Chair Conflicts: Enter a list of acronyms of working groups separated by commas to indicate other WGs the chairs also lead or actively participate in.
 - Technology Overlap: Enter a list of acronyms of working groups separated by commas for other WGs with related technology or a closely related charter.
 - Key Participant Conflict: Enter a list of acronyms of working groups separated by commas for WGs with which key participation (like presenters) may overlap. 
-- BOF Sessions: Specify in free-form text any potential BOF groups that you wish to avoid for the sessions being requested. 
+- Birds of a Feather (BOF) Sessions: Specify in free-form text any potential BOF groups that you wish to avoid for the sessions being requested. 
 - Special Requests: Specify any special requests in this free-form text box, e.g., preferred days or times for your sessions. Also use this field to indicate BoFs or potential BoFs that will be conflicts.
 - Save: Click on the 'Save' button when you have finished entering the information. You will have the opportunity to review the information, and revise it, if necessary. 
 
@@ -62,14 +62,13 @@ This screen is displayed after you click the 'Save' button on the request form (
 
 This interface allows you to either modify the information for a previously requested session, or cancel the session.  If the session request tool has closed, send email to agenda@ietf.org with your request.
 
-1. Review of previously entered information
-When you click on the acronym of a working group for which a session has been previously requested, all of the information that was previously entered for this working group will be displayed as read only text. Two buttons are provided at the bottom of this page: 'Edit' and 'Cancel'.
+When you click on the acronym of a working group for which a session has been previously requested, all of the information that was previously entered for this working group will be displayed as read only text. Two buttons are provided at the bottom of this page: `Edit` and `Cancel`.
 
 1.1. Edit
-Edit the previously entered information by clicking on the 'Edit' button. When you click on this button, a form is displayed that contains all of the information previously entered for this session. Just as for the original request, update the information, confirm that the updated information is accurate, and click Save. Notifications will be sent to the Secretariat, working group, chairs, and Area Director(s) as appropriate.
+Edit the previously entered information by clicking on the `Edit` button. When you click on this button, a form is displayed that contains all of the information previously entered for this session. Just as for the original request, update the information, confirm that the updated information is accurate, and click Save. Notifications will be sent to the Secretariat, working group, chairs, and Area Director(s) as appropriate.
 
 1.2. Cancel
-Cancel a previously requested session by clicking on the 'Cancel' button. The tool will confirm this action via a pop-up window. Once confirmed, a notification will be sent to the Secretariat and Cc'd to the Area Director(s) of the subject working group. Any links and information related to the subject working group will be deleted from the IETF Meeting Materials Management tool and the IETF Web site.
+Cancel a previously requested session by clicking on the `Cancel` button. The tool will confirm this action via a pop-up window. Once confirmed, a notification will be sent to the Secretariat and CC'd to the Area Director(s) of the subject working group. Any links and information related to the subject working group will be deleted from the IETF Meeting Materials Management tool and the IETF Web site.
 
 # Error Messages
 
