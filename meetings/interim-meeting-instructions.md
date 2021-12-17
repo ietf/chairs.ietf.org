@@ -2,7 +2,7 @@
 title: Scheduling virtual interim meetings
 description: A step-by-step guide to scheduling virtual interim working group meetings. 
 published: true
-date: 2021-12-17T15:09:58.580Z
+date: 2021-12-17T15:10:47.151Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T15:02:53.271Z
@@ -25,7 +25,7 @@ Any conferencing platform may be chosen by chairs for a virtual interim meeting.
 7. Then in the Meetecho session request form, enter in the session name assigned from the IETF Datatracker (e.g. interim-2021-wgname-01) into the `SESSION` field, and complete the rest of the Meetecho form (e.g. start date and time, as well as the duration).
 > If you have completed the the steps for using Meetecho, you may skip to section 4. below.
 ## Using Webex
-1. Log into the IETF Webex dashboard using the IETF-provided Webex account credentials. (A WG chair may request an account via the Webex Account Request form.)
+1. Log into the [IETF Webex dashboard](https://ietf.webex.com/webappng/sites/ietf/dashboard/home) using the IETF-provided Webex account credentials. (A WG chair may request an account via the Webex Account Request form.)
 2. Click the `Schedule a Meeting` button.
 3. Set the meeting topic to `[WG ACRONYM] working group interim`.
 4. Select the planned date and  time.
