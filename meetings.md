@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-17T15:17:44.946Z
+date: 2021-12-17T17:49:04.788Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -10,10 +10,16 @@ dateCreated: 2021-12-14T18:14:43.501Z
 
 ## Information and resources
 
-[IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance-2016-01-16/)
+**[General workflow diagram for scheduling, holding, and following up on Working Group meetings]()**
+To be developed
+
+**[IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance-2016-01-16/)**
 This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual. (May 2020)
 
-[Important dates for upcoming IETF meetings](https://datatracker.ietf.org/meeting/important-dates/)
+**[Important dates for upcoming IETF meetings](https://datatracker.ietf.org/meeting/important-dates/)**
+Provides deadlines related to requesting sessions and registering for IETF meetings.
+
+**[Managing meetings training](../managing-meetings/)**
 
 ## Scheduling tools
 The IETF Datatracker tools for meetings require login and are restricted to individuals with specific roles.
@@ -39,8 +45,9 @@ Tips for presenters - Tutorial ([Slides](https://www.ietf.org/documents/141/91-P
 
 ### Meeting document guides
 
+## Meeting materials
 
-### Processes
+## Processes
 [On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
 [In-person meeting Chromebook instructions](https://www.ietf.org/media/documents/Loading_Your_Presentation_-_Rainbow.pdf)
 
