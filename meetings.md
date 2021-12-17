@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-17T17:51:31.863Z
+date: 2021-12-17T17:52:01.663Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -44,7 +44,7 @@ Slide template (includes Note Well) ([PPT](https://www.ietf.org/media/documents/
 Tips for presenters - Tutorial ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
 
 ## Following up
-[Submitting meeting materials](meeting-materials)**
+**[Submitting meeting materials](meeting-materials)**
 What materials must be submitted after a working group session and how to submit them.
 
 ## Meeting materials
