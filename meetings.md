@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-17T17:54:40.657Z
+date: 2021-12-17T18:02:11.650Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -20,6 +20,7 @@ This statement provides IESG guidance on interim IETF working group meetings, bo
 Provides deadlines related to requesting sessions and registering for IETF meetings.
 
 **[Managing meetings training](../managing-meetings/)**
+These courses were first presented in 2021 with the goal of helping WG Chairs organize and run effective meetings that achieve clear outcomes.
 
 ## Scheduling tools
 The IETF Datatracker tools for meetings require login and are restricted to individuals with specific roles.
