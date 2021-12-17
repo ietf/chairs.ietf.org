@@ -2,7 +2,7 @@
 title: Scheduling virtual interim meetings
 description: A step-by-step guide to scheduling virtual interim working group meetings. 
 published: true
-date: 2021-12-17T15:04:41.899Z
+date: 2021-12-17T15:07:24.658Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T15:02:53.271Z
@@ -39,7 +39,8 @@ Any conferencing platform may be chosen by chairs for a virtual interim meeting.
 > NOTE: This step has already been completed if you have followed step 2 in the instructions for Meetecho above.
 {.is-info}
 
-1. Fill out the Interim Meeting Request form. (NOTE: You will need to log into IETF Datatracker as WG chair and will need details about the meeting, including the URL for the conferencing system being used.)
+1. Fill out the [Interim Meeting Request form](https://datatracker.ietf.org/meeting/interim/request/)
+(NOTE: You will need to log into IETF Datatracker as WG chair and will need details about the meeting, including the URL for the conferencing system being used.)
 2. You may later update or add information (such as the agenda).
 
 # Communicating about the meeting
@@ -60,17 +61,17 @@ Any conferencing platform may be chosen by chairs for a virtual interim meeting.
 2. Provide a reminder of the [IETF Note Well](https://www.ietf.org/about/note-well/).
 
 
-Following up from the meeting
-Upload recording to the IETF YouTube channel: 
-This will be done automatically within a week if the meeting was held using IETF Webex or Meetecho.
-If the meeting was held using another platform, send email to support@ietf.org to have the recording uploaded.
-Upload the meeting minutes to the  IETF Datatracker when logged into IETF Datatracker as a WG Chair. (Or, if this is not possible, send email to support@ietf.org).
-You may also post notes to the working group meeting email list.
+# Following up from the meeting
+1. Upload recording to the IETF YouTube channel: 
+1.1. This will be done automatically within a week if the meeting was held using IETF Webex or Meetecho.
+1.2. If the meeting was held using another platform, send email to support@ietf.org to have the recording uploaded.
+3. Upload the meeting minutes to the  IETF Datatracker when logged into IETF Datatracker as a WG Chair. (Or, if this is not possible, send email to support@ietf.org).
+3. You may also post notes to the working group meeting email list.
 
 
-Getting help
+# Getting help
 At any time, if you run into difficulty or have questions, please send email to: support@ietf.org 
 
-Further background:
-IESG Statement: Guidance on Face-to-Face and Interim Virtual Meetings
-RFC 2418: IETF Working Group Guidelines and Procedures
+# Further background:
+[IESG Statement: Guidance on Face-to-Face and Interim Virtual Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance-2016-01-16/)
+[RFC 2418: IETF Working Group Guidelines and Procedures](https://datatracker.ietf.org/doc/html/rfc2418)
