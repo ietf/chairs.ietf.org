@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-17T15:12:16.890Z
+date: 2021-12-17T15:17:35.979Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -13,7 +13,11 @@ dateCreated: 2021-12-14T18:14:43.501Z
 [IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance-2016-01-16/)
 This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual. (May 2020)
 
-## Tools
+[Important dates for upcoming IETF meetings](https://datatracker.ietf.org/meeting/important-dates/)
+
+
+
+## Scheduling tools
 The IETF Datatracker tools for meetings require login and are restricted to individuals with specific roles.
 
 **[IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)**
@@ -25,7 +29,6 @@ See [instructions for organizing interim meetings](/meetings/interim-meeting-ins
 **Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi)**
 
 ## Meeting planning templates and guides
-[Scheduling a virtual interim meeting - Guide](https://chairs.ietf.org/en/scheduling-interim-meetings)
 [WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)
 [Submitting meeting materials](https://www.ietf.org/chairs/meeting-materials/)
 [Formatting & Content of Meeting Materials Guidelines](/meetings/guide-agendas-minutes)
