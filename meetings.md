@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-17T17:52:01.663Z
+date: 2021-12-17T17:54:40.657Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -24,20 +24,23 @@ Provides deadlines related to requesting sessions and registering for IETF meeti
 ## Scheduling tools
 The IETF Datatracker tools for meetings require login and are restricted to individuals with specific roles.
 
-**[IETF Meeting session requests](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)**
+**[IETF Meeting session request tool](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)**
 See [instructions for using the session request tool](/meetings/session-request-instructions)
 
-**[Interim WG meeting session requests](https://datatracker.ietf.org/meeting/interim/request/)**
+**[Interim WG meeting session request tool](https://datatracker.ietf.org/meeting/interim/request/)**
 See [instructions for organizing interim meetings](/meetings/interim-meeting-instructions)
 
 **Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi)**
 
 ## Meeting planning templates and guides
-[WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)
-[Submitting meeting materials](https://www.ietf.org/chairs/meeting-materials/)
-[Formatting & Content of Meeting Materials Guidelines](/meetings/guide-agendas-minutes)
-Meeting agenda template ([MD](https://chairs.ietf.org/en/wg-meeting-agenda-template))
-Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
+**[WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)**
+A sample to help organize working group meeting sessions.
+
+**[Formatting & Content of Meeting Materials Guidelines](/meetings/guide-agendas-minutes)**
+This document provides suggestions about the form and content of Working Group agendas and minutes.
+
+- Meeting agenda template ([MD](https://chairs.ietf.org/en/wg-meeting-agenda-template))
+- Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
 
 ## Presentation templates and guides
 Slide template (includes Note Well) ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
@@ -46,8 +49,6 @@ Tips for presenters - Tutorial ([Slides](https://www.ietf.org/documents/141/91-P
 ## Following up
 **[Submitting meeting materials](meeting-materials)**
 What materials must be submitted after a working group session and how to submit them.
-
-## Meeting materials
 
 ## Processes
 [On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
