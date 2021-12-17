@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-17T15:17:35.979Z
+date: 2021-12-17T15:17:44.946Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -14,8 +14,6 @@ dateCreated: 2021-12-14T18:14:43.501Z
 This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual. (May 2020)
 
 [Important dates for upcoming IETF meetings](https://datatracker.ietf.org/meeting/important-dates/)
-
-
 
 ## Scheduling tools
 The IETF Datatracker tools for meetings require login and are restricted to individuals with specific roles.
