@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2021-12-17T17:49:04.788Z
+date: 2021-12-17T17:51:31.863Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -43,26 +43,12 @@ Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-templat
 Slide template (includes Note Well) ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
 Tips for presenters - Tutorial ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
 
-### Meeting document guides
+## Following up
+[Submitting meeting materials](meeting-materials)**
+What materials must be submitted after a working group session and how to submit them.
 
 ## Meeting materials
 
 ## Processes
 [On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
 [In-person meeting Chromebook instructions](https://www.ietf.org/media/documents/Loading_Your_Presentation_-_Rainbow.pdf)
-
-## Managing meetings training
-These courses were first presented in 2021 with the goal of helping WG Chairs organize and run effective meetings that achieve clear outcomes.
-
-**Class 1**
-Learn how to prepare for an IETF meeting, set meeting expectations, create a meeting agenda, and more.
-+ [Video](https://youtu.be/xMCF4aI1b2k)
-+ [Slides](https://drive.google.com/open?id=1TdypL5qbTzQPZPRpsTo--7CibhoNlLId)
-+ Other resources
-
-**Class 2**
-Learn how to facilitate IETF virtual and in-person meetings differently and encourage attendee engagement.
-+ [Video](https://youtu.be/p1FxGxmoZXM)
-+ [Slides](https://drive.google.com/open?id=1crVfe4n17mQ7Q5AsCrdcUZDzdLmJ1Sop)
-+ Other resources
-  
