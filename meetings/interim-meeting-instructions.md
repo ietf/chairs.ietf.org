@@ -2,7 +2,7 @@
 title: Scheduling virtual interim meetings
 description: A step-by-step guide to scheduling virtual interim working group meetings. 
 published: true
-date: 2021-12-17T15:04:08.216Z
+date: 2021-12-17T15:04:41.899Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T15:02:53.271Z
@@ -43,7 +43,7 @@ Any conferencing platform may be chosen by chairs for a virtual interim meeting.
 2. You may later update or add information (such as the agenda).
 
 # Communicating about the meeting
-1. Adding the meeting to the IETF Datatracker will cause the IETF Secretariat to announce the meeting. Once the meeting has been announced, it will be visible from the Meetings tab on the WG's Datatracker page and in the IETF Datatracker’s upcoming meeting list.
+1. Adding the meeting to the IETF Datatracker will cause the IETF Secretariat to announce the meeting. Once the meeting has been announced, it will be visible from the Meetings tab on the WG's Datatracker page and in the [IETF Datatracker’s upcoming meeting list](https://datatracker.ietf.org/meeting/upcoming).
 2. Working Group chairs or secretaries should send an email reminder to the WG email list several days before the meeting with links to the agenda and conferencing coordinates.
 
 
