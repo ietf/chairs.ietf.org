@@ -2,30 +2,32 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2021-12-16T20:59:59.593Z
+date: 2021-12-20T23:14:07.016Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
 ---
 
-## Information and resources
-
 IETF mailing lists are the primary discussion forums for IETF Working Groups. While groups may also use in-person or online meetings, and platforms such as Github to raise, suggest or discuss issues initially, these should be brought to the WG mailing list so that a group position can be determined.
 
-### Mechanics
+IETF Working Group lists are generally open to anyone with an email address.
+
+## General information and resources
+
+### Mailing lists
 Addresses of Working Group lists (as well as informaiton about WG charters and other roles) are provided at:
 
 https://datatracker.ietf.org/group/WGNAME/email/
 
-Where "WGNAME" is replaced by the 
+Where "WGNAME" is replaced by the Working Group abbreviation.
 
-IETF Working Group lists are generally open to anyone with an email address
-#### Archives
+### Mailing list archives
+Archives of IETF Working Groups are publicly available. A searchable repository is available via the [IETF Mail Archive site](https://mailarchive.ietf.org/arch/).
 
-#### Updating email addresses on lists
-
-### Processes
+## Use of Working Group mailing list
+Beyond discussion of relevant topics and documents relevant to a particular working group, 
 WG Announcing interim meetings
+
 Sharing meeting notes
 
 ### Moderation
@@ -34,5 +36,8 @@ Sharing meeting notes
 Managing subscribers
 
 Disruptive posting
+
+#### Updating email addresses on lists
+It is possible to update 
 
 
