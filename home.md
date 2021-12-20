@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-20T22:10:32.978Z
+date: 2021-12-20T23:34:45.205Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -16,7 +16,7 @@ Welcome to a resource site for IETF working group chairs and others providing le
 ## General resources
 This section provides general information about IETF WG nad the WG chair role.
 
-### [WG Guidelines & Procedures (BCP 25)](https://www.rfc-editor.org/info/rfc2418)
+### [WG Guidelines & Procedures (BCP 25)](https://www.rfc-editor.org/rfc/rfc2418.html)
 These are the formally documented procedures for IETF working groups
 
 ### [WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
