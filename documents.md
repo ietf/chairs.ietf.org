@@ -2,17 +2,19 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2021-12-20T22:19:49.662Z
+date: 2021-12-20T22:22:16.464Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
 ---
 
 ## Managing documents
+
 ### Templates
+
 **Document shepherd write-up templates**
-The IESG has approved "essay style" and "question-and-answer style" shepherd writeups.
-- 
+The IESG has approved two styles of document shepherd writeups for Internet-Drafts 
+- [Essay style document writeup template](/documents/essay-style-writeup template)
 
 ### IETF Datatracker tools
 NOTE: These require IETF Datatracker login.
