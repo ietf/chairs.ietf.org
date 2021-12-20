@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-20T17:53:05.947Z
+date: 2021-12-20T21:58:13.404Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -50,7 +50,7 @@ A web-based public archive of the IETF Working Group chairs email list.
 
 ## Other services
 ### Webex 
-[Webex](https://www.webex.com) is used by many IETF groups. Webex provides a [quick guide](https://help.webex.com/en-US/article/nhww3xz/Host-a-Webex-Meeting-or-Event---Quick-Reference-Tasks) and [How-to videos](https://www.youtube.com/playlist?list=PL_YnWo4XhzTfhkcwB6M1a-wJ9dTlz58yz)
+[Webex](https://www.webex.com) is used by many IETF groups. Webex provides a [quick guide](https://help.webex.com/en-US/article/nhww3xz/Host-a-Webex-Meeting-or-Event---Quick-Reference-Tasks) and [How-to videos](https://www.youtube.com/playlist?list=PL_YnWo4XhzTfhkcwB6M1a-wJ9dTlz58yz). Some [Webex tips](webex-tips) have been developed based on IETF experience.
 
 ### Meetecho 
 [Meetecho](https://www.meetecho.com/en/) is used for remote participation in IETF Meetings. A [guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) and a [guide for participants] are available.
