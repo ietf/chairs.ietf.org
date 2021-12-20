@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-20T22:10:09.670Z
+date: 2021-12-20T22:10:32.978Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -63,7 +63,7 @@ These pages provide information, tools, and resources related to common IETF WG 
 
 - [Managing mailing lists](mailing-lists)
 - [Organizing WG meetings](meetings)
-- [Managing WG docuemnts](/docuemnts)
+- [Managing WG documents](/documents)
 
 [IESG statement on moderating mailing Lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/)
 
