@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-20T17:47:40.739Z
+date: 2021-12-20T17:53:05.947Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -29,7 +29,7 @@ Published in 1996, this is the foundational document describing the IETF standar
 This page provides a mechanism for filing disclosures about intellectual property rights (IPR) and for finding out what IPR disclosures have been filed. The IETF intellectual property rights rules are defined in RFC 8179, "[Intellectual Property Rights in IETF Technology]"(https://www.rfc-editor.org/rfc/rfc8179.html).
 
 ## IETF Datatracker resources
-[Updating WG milestones](https://www.ietf.org/chairs/updating-working-group-milestones/)
+[Updating WG milestones](updating-working-group-milestones/)
 A guide for updating working group milestones in the IETF Datatracker.
 
 [Liaison Statements](https://datatracker.ietf.org/liaison/)
