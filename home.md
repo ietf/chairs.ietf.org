@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-20T22:08:45.779Z
+date: 2021-12-20T22:10:09.670Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -49,14 +49,14 @@ The information page and subscription form for the discussion email list for IET
 A web-based public archive of the IETF Working Group chairs email list.
 
 ## Other services
-### Webex 
-[Webex](https://www.webex.com) is used by many IETF groups. Webex provides a [quick guide](https://help.webex.com/en-US/article/nhww3xz/Host-a-Webex-Meeting-or-Event---Quick-Reference-Tasks) and [How-to videos](https://www.youtube.com/playlist?list=PL_YnWo4XhzTfhkcwB6M1a-wJ9dTlz58yz). Some [Webex tips](webex-tips) have been developed based on IETF experience.
-
-### Meetecho 
-[Meetecho](https://www.meetecho.com/en/) is used for remote participation in IETF Meetings. A [guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) and a [guide for participants] are available.
-
 ### Github
 Github is used by some IETF WGs. A [Github Use for Working Groups](github) is available.
+
+### Meetecho 
+[Meetecho](https://www.meetecho.com/en/) is used for remote participation in IETF Meetings. A [guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) and a [guide for participants](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) are available.
+
+### Webex 
+[Webex](https://www.webex.com) is used by many IETF groups. Webex provides a [quick guide](https://help.webex.com/en-US/article/nhww3xz/Host-a-Webex-Meeting-or-Event---Quick-Reference-Tasks) and [How-to videos](https://www.youtube.com/playlist?list=PL_YnWo4XhzTfhkcwB6M1a-wJ9dTlz58yz). Some [Webex tips](webex-tips) have been developed based on IETF experience.
 
 ## Common tasks
 These pages provide information, tools, and resources related to common IETF WG chair tasks:
