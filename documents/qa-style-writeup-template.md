@@ -2,7 +2,7 @@
 title: Document Writeup for Individual Submissions
 description: As required by RFC 4858, this is the current template for the Document Shepherd Write-Up. Changes are expected over time.
 published: true
-date: 2022-03-01T20:56:33.458Z
+date: 2022-03-01T21:01:13.784Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-20T22:53:41.098Z
