@@ -2,7 +2,7 @@
 title: Document Writeup for Individual Submissions
 description: As required by RFC 4858, this is the current template for the Document Shepherd Write-Up. Changes are expected over time.
 published: true
-date: 2022-03-01T21:01:13.784Z
+date: 2022-03-01T21:25:44.848Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-20T22:53:41.098Z
@@ -15,13 +15,13 @@ Thank you for your service as a document shepherd. Among the responsibilities is
 Note that some numbered items contain multiple related questions; please be sure to answer all of them.
 
 ## Document History
-**Option 1: For documents coming from IETF Working Groups**
+*Option 1: For documents coming from IETF Working Groups*
 
 (1) Does the working group (WG) consensus represent the strong concurrence of a few individuals, with others being silent, or did it reach broad agreement?
 
 (2) Was there controversy about particular points, or were there decisions where the consensus was particularly rough? 
 
-**Option 2: For individual documents**
+*Option 2: For individual documents*
 
 (1) Was the document considered in any WG, and if so, why was it not adopted as a work item there?
  
