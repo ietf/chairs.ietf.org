@@ -2,7 +2,7 @@
 title: Document Writeup for Individual Submissions
 description: As required by RFC 4858, this is the current template for the Document Shepherd Write-Up. Changes are expected over time.
 published: true
-date: 2022-03-01T20:08:30.221Z
+date: 2022-03-01T20:16:14.178Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-20T22:53:41.098Z
@@ -39,7 +39,7 @@ Note that some numbered items contain multiple related questions; please be sure
 
 (6) Describe how the document meets any required formal expert review criteria, such as the MIB Doctor, YANG Doctor, media type, and URI type reviews. 
 
-(7) If the document contains a YANG module, has the final version of the module been checked with any of the recommended validation tools (https://trac.ietf.org/trac/ops/wiki/yang-review-tools) for syntax and formatting validation? If there are any resulting errors or warnings, what is the justification for not fixing them at this time? Does the YANG module comply with the Network Management Datastore Architecture (NMDA) as specified in RFC8342?
+(7) If the document contains a YANG module, has the final version of the module been checked with any of the recommended validation tools (https://trac.ietf.org/trac/ops/wiki/yang-review-tools) for syntax and formatting validation? If there are any resulting errors or warnings, what is the justification for not fixing them at this time? Does the YANG module comply with the Network Management Datastore Architecture (NMDA) as specified in [RFC 8342](https://www.rfc-editor.org/rfc/rfc8342.html)?
 
 (8) Describe reviews and automated checks performed to validate sections of the final version of the document written in a formal language, such as XML code, BNF rules, MIB definitions, CBOR’s CDDL, etc.
 
@@ -50,7 +50,7 @@ Note that some numbered items contain multiple related questions; please be sure
 
 (11) What type of RFC publication is being requested on the IETF stream (Best Current Practice, Proposed Standard, Internet Standard, Informational, Experimental, or Historic)? Why is this the proper type of RFC? Do all datatracker state attributes correctly reflect this intent?
 
-(12) Has the interested community confirmed that any and all appropriate IPR disclosures required by BCP 78 and BCP 79 have been filed? If not, explain why. If yes, summarize any discussion and conclusion regarding the IPR disclosures, including links to relevant emails.
+(12) Has the interested community confirmed that any and all appropriate IPR disclosures required by [BCP 78](https://www.rfc-editor.org/info/bcp78) and [BCP 79](https://www.rfc-editor.org/info/bcp79) have been filed? If not, explain why. If yes, summarize any discussion and conclusion regarding the IPR disclosures, including links to relevant emails.
 
 (13) Has each Author or Contributor confirmed their willingness to be listed as such? If the number of Authors/Editors on the front page is greater than 5, please provide a justification.
 
