@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2021-12-20T23:01:13.236Z
+date: 2022-03-01T20:58:30.787Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -19,17 +19,11 @@ This site is the central resource site for authors of an I-D, with information o
 
 # Templates
 
-**Document shepherd write-up templates**
-The IESG has approved two styles of document shepherd writeups for I-Ds.
+**Document shepherd write-up template**
+The IESG has developed and approved a template for document shepherd writeups for Internet-Draftss. This may be used for both working group and individual submissions I-Ds.
 
-- [Essay style document writeup template](essay-style-writeup-template)
-This may be used for both working group and individual submissions I-Ds ([examples](https://trac.ietf.org/trac/iesg/wiki/WriteupAlternateExamples))
-
-- [Q&A style document writeup template for Individual submission I-Ds](qa-style-writeup-individual-template)
+- [Q&A style document shepherd writeup template for Individual submission I-Ds](qa-style-writeup-individual-template)
 This template may be used for the Document Shepherd Write-Ups of Individual submission I-Ds.
-
-- [Q&A style document writeup template for Working Group I-Ds](qa-style-writeup-wg-template)
-This template may be used for the Document Shepherd Write-Ups of Working Group I-Ds.
 
 # IETF Datatracker tools
 NOTE: These require IETF Datatracker login.
