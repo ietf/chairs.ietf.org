@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2021-12-20T23:34:45.205Z
+date: 2022-03-01T20:52:37.404Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -10,7 +10,7 @@ dateCreated: 2021-09-11T01:09:46.017Z
 
 Welcome to a resource site for IETF working group chairs and others providing leadership and support for IETF Working Groups (WGs), and [IRTF](https://www.irtf.org) Research Groups.
 
-> ** NOTE: As of December 2021, this site is under construction and will be evolving considerably over the next several months. !!**
+> ** NOTE: As of March 2022, this site is still in development construction and will be evolving over the next several months.**
 {.is-warning}
 
 ## General resources
