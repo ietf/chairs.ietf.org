@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2021-12-20T23:18:31.497Z
+date: 2022-03-02T19:46:50.228Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -28,12 +28,16 @@ Where "WGNAME" is replaced by the Working Group abbreviation.
 Archives of IETF Working Groups are publicly available. A searchable repository is available via the [IETF Mail Archive site](https://mailarchive.ietf.org/arch/).
 
 ## Uses of Working Group mailing list
-Beyond discussion of relevant topics and documents relevant to a particular working group, lists  WG Announcing interim meetings
-
-Sharing meeting notes
+Beyond discussion of relevant topics and documents relevant to a particular working group, Working Group email lists are used to:
+- Announce WG interim meetings
+- Announce WG sessions at IETF meeting notes
+- Share meeting notes
 
 ## List management
+There are 
+
 ### Moderation
+The IESG has provided [guidance on moderating IETF WG mailing lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/).
 
 ### Managing subscribers
 
