@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2022-03-02T19:46:50.228Z
+date: 2022-03-02T19:48:14.096Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
