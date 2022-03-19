@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2022-03-19T11:46:31.998Z
+date: 2022-03-19T11:47:28.532Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -28,7 +28,7 @@ To be developed.
 ## Scheduling tools
 The IETF Datatracker tools for meetings require login and are restricted to individuals with specific roles.
 
-**[IETF Meeting session request tool](https://datatracker.ietf.org/cgi-bin/wg/wg_session_requester.cgi)**
+**[IETF Meeting session request tool](https://datatracker.ietf.org/secr/sreq/)**
 See [instructions for using the session request tool](/meetings/session-request-instructions)
 
 **[Interim WG meeting session request tool](https://datatracker.ietf.org/meeting/interim/request/)**
