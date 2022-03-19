@@ -2,16 +2,13 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2022-02-10T23:17:36.342Z
+date: 2022-03-19T11:46:31.998Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
 ---
 
 ## Information and resources
-
-**[General workflow diagram for scheduling, holding, and following up on Working Group meetings]()**
-To be developed.
 
 **[Information for chairing WG & BOF sessions](chairing-sessions)**
 This page provides a guide to chairing IETF Working Group or Birds-of-a-Feather sessions.
@@ -24,6 +21,9 @@ Provides deadlines related to requesting sessions and registering for IETF meeti
 
 **[Managing meetings training](../managing-meetings/)**
 These courses were first presented in 2021 with the goal of helping WG Chairs organize and run effective meetings that achieve clear outcomes.
+
+**[General workflow diagram for scheduling, holding, and following up on Working Group meetings]()**
+To be developed.
 
 ## Scheduling tools
 The IETF Datatracker tools for meetings require login and are restricted to individuals with specific roles.
