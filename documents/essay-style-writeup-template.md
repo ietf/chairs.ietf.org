@@ -1,7 +1,7 @@
 ---
 title: Essay Style Document Writeup
 description: This essay style template may be used for working group documents and for individual submissions.
-published: true
+published: false
 date: 2021-12-20T22:30:11.957Z
 tags: 
 editor: markdown
