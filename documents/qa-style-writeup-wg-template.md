@@ -1,7 +1,7 @@
 ---
 title: Document Writeup for Working Group Documents
 description: As required by RFC 4858, this is the current template for the Document Shepherd Write-Up.
-published: true
+published: false
 date: 2021-12-20T22:58:32.180Z
 tags: 
 editor: markdown
