@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T22:53:41.098Z
 
 # Document Shepherd Writeup
 
-*This version is dated 2 March 2023.*
+*This version is dated 8 April 2023.*
 
 Thank you for your service as a document shepherd. Among the responsibilities is
 answering the questions in this writeup to give helpful context to Last Call and
@@ -27,6 +27,9 @@ to answer all of them.
 
 
 ## Document History
+
+Answer either of the two options below (depending on the document type), then
+continue with the common part.
 
 ### Option 1: For Documents Coming from IETF Working Groups
 
