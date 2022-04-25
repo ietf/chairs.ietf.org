@@ -37,7 +37,7 @@ Any conferencing platform may be chosen by chairs for a virtual interim meeting.
 > **NOTE**: During these steps, be sure to leave open both the browser windows for the IETF Datatracker and Meetecho.
 
 1. Ensure you are logged into the IETF Datatracker as a WG Chair or WG Secretary.
-1. Open the Meetecho session request form in a new web browser window (keeping the IETF Datatracker window open) and press the green “plus” icon next to the working group acronym.
+1. Open the [Meetecho session request form](https://gce.conf.meetecho.com/admin-ietf/) in a new web browser window (keeping the IETF Datatracker window open) and press the green “plus” icon next to the working group acronym.
 1. Copy the URL in the Meetecho Link field, which will be used in the IETF Datatracker session request form’s “Remote Instructions” field. 
 1. In a separate web browser window (keeping the Meetecho webpage open), use the IETF Datatracker session request form , and enter the requested information, including the URL from Meetecho in the “Remote Instructions” field.
 1. When complete, press the submit button on the IETF Datatracker sesion request form.
