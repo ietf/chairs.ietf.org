@@ -1,18 +1,16 @@
 ---
-title: Document Shepherd Writeup Template for Working Group and Individual
-       Submissions
-description: As required by RFC 4858, this is the current template for the
-             Document Shepherd Write-Up. Changes are expected over time.
+title: Document Shepherd Writeup Template for Working Group and Individual Submissions
+description: As required by RFC 4858, this is the current template for the Document Shepherd Write-Up. Changes are expected over time.
 published: true
-date: 2022-03-04T21:56:22.746Z
-tags:
+date: 2022-04-29T12:15:14.510Z
+tags: 
 editor: markdown
 dateCreated: 2021-12-20T22:53:41.098Z
 ---
 
 # Document Shepherd Writeup
 
-*This version is dated 8 April 2023.*
+*This version is dated 8 April 2022.*
 
 Thank you for your service as a document shepherd. Among the responsibilities is
 answering the questions in this writeup to give helpful context to Last Call and
