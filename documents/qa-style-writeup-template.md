@@ -2,7 +2,7 @@
 title: Document Shepherd Writeup Template for Working Group and Individual Submissions
 description: As required by RFC 4858, this is the current template for the Document Shepherd Write-Up. Changes are expected over time.
 published: true
-date: 2022-05-03T12:58:34.506Z
+date: 2022-05-03T13:00:18.128Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-20T22:53:41.098Z
@@ -12,9 +12,7 @@ dateCreated: 2021-12-20T22:53:41.098Z
 
 *This version is dated 8 April 2022.*
 
-Thank you for your service as a document shepherd. Among the responsibilities is
-answering the questions in this writeup to give helpful context to Last Call and
-Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)) reviewers, and your diligence in completing it, is appreciated. The full role of the shepherd is further described in [RFC 4858](https://www.rfc-editor.org/rfc/rfc4858.html), and informally. You will need the cooperation of authors to complete these checks.
+Thank you for your service as a document shepherd. Among the responsibilities is answering the questions in this writeup to give helpful context to Last Call and Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)) reviewers, and your diligence in completing it, is appreciated. The full role of the shepherd is further described in [RFC 4858](https://www.rfc-editor.org/rfc/rfc4858.html), and informally. You will need the cooperation of authors to complete these checks.
 
 Note that some numbered items contain multiple related questions; please be sure to answer all of them.
 
@@ -25,16 +23,13 @@ Answer either of the two options below (depending on the document type), then co
 
 ### Option 1: For Documents Coming from IETF Working Groups
 
-1. Does the working group (WG) consensus represent the strong concurrence of a
-   few individuals, with others being silent, or did it reach broad agreement?
+1. Does the working group (WG) consensus represent the strong concurrence of a few individuals, with others being silent, or did it reach broad agreement?
 
-2. Was there controversy about particular points, or were there decisions where
-   the consensus was particularly rough?
+2. Was there controversy about particular points, or were there decisions where the consensus was particularly rough?
 
 ### Option 2: For Individual Documents
 
-1. Was the document considered in any WG, and if so, why was it not adopted as a
-   work item there?
+1. Was the document considered in any WG, and if so, why was it not adopted as a work item there?
  
 2. Was there controversy about particular points that caused the WG to not adopt
    the document?
