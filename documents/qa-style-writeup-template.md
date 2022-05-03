@@ -2,7 +2,7 @@
 title: Document Shepherd Writeup Template for Working Group and Individual Submissions
 description: As required by RFC 4858, this is the current template for the Document Shepherd Write-Up. Changes are expected over time.
 published: true
-date: 2022-04-29T12:15:14.510Z
+date: 2022-05-03T12:58:34.506Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-20T22:53:41.098Z
@@ -14,20 +14,14 @@ dateCreated: 2021-12-20T22:53:41.098Z
 
 Thank you for your service as a document shepherd. Among the responsibilities is
 answering the questions in this writeup to give helpful context to Last Call and
-Internet Engineering Steering Group
-([IESG](https://www.ietf.org/about/groups/iesg/)) reviewers, and your diligence
-in completing it, is appreciated. The full role of the shepherd is further
-described in [RFC 4858](https://www.rfc-editor.org/rfc/rfc4858.html), and
-informally. You will need the cooperation of authors to complete these checks.
+Internet Engineering Steering Group ([IESG](https://www.ietf.org/about/groups/iesg/)) reviewers, and your diligence in completing it, is appreciated. The full role of the shepherd is further described in [RFC 4858](https://www.rfc-editor.org/rfc/rfc4858.html), and informally. You will need the cooperation of authors to complete these checks.
 
-Note that some numbered items contain multiple related questions; please be sure
-to answer all of them.
+Note that some numbered items contain multiple related questions; please be sure to answer all of them.
 
 
 ## Document History
 
-Answer either of the two options below (depending on the document type), then
-continue with the common part.
+Answer either of the two options below (depending on the document type), then continue with the common part.
 
 ### Option 1: For Documents Coming from IETF Working Groups
 
@@ -55,9 +49,7 @@ continue with the common part.
 4. For protocol documents, are there existing implementations of the contents of
    the document? Have a significant number of potential implementers indicated
    plans to implement? Are any existing implementations reported somewhere,
-   either in the document itself (as [RFC
-   7942](https://www.rfc-editor.org/rfc/rfc7942.html) recommends) or elsewhere
-   (where)?
+   either in the document itself (as [RFC 7942](https://www.rfc-editor.org/rfc/rfc7942.html) recommends) or elsewhere (where)?
 
 ### Additional Reviews
 
