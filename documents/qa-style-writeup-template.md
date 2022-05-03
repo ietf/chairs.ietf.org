@@ -2,7 +2,7 @@
 title: Document Shepherd Writeup Template for Working Group and Individual Submissions
 description: As required by RFC 4858, this is the current template for the Document Shepherd Write-Up. Changes are expected over time.
 published: true
-date: 2022-05-03T13:03:53.269Z
+date: 2022-05-03T13:06:44.981Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-20T22:53:41.098Z
@@ -53,65 +53,28 @@ Answer either of the two options below (depending on the document type), then co
 
 ### Document Shepherd Checks
 
-9. Based on the shepherd's review of the document, is it their opinion that this
-   document is needed, clearly written, complete, correctly designed, and ready
-   to be handed off to the responsible Area Director?
+9. Based on the shepherd's review of the document, is it their opinion that this document is needed, clearly written, complete, correctly designed, and ready to be handed off to the responsible Area Director?
 
-10. Several IETF Areas have assembled [lists of common issues that their
-    reviewers encounter](https://trac.ietf.org/trac/iesg/wiki/ExpertTopics). Do
-    any such issues remain that would merit specific attention from subsequent
-    reviews?
+10. Several IETF Areas have assembled [lists of common issues that their reviewers encounter](https://trac.ietf.org/trac/iesg/wiki/ExpertTopics). Do any such issues remain that would merit specific attention from subsequent reviews?
 
-11. What type of RFC publication is being requested on the IETF stream (Best
-    Current Practice, Proposed Standard, Internet Standard, Informational,
-    Experimental, or Historic)? Why is this the proper type of RFC? Do all
-    Datatracker state attributes correctly reflect this intent?
+11. What type of RFC publication is being requested on the IETF stream (Best  Current Practice, Proposed Standard, Internet Standard, Informational, Experimental, or Historic)? Why is this the proper type of RFC? Do all Datatracker state attributes correctly reflect this intent?
 
-12. Has the interested community confirmed that any and all appropriate IPR
-    disclosures required by [BCP 78](https://www.rfc-editor.org/info/bcp78) and
-    [BCP 79](https://www.rfc-editor.org/info/bcp79) have been filed? If not,
-    explain why. If yes, summarize any discussion and conclusion regarding the
-    intellectual property rights (IPR) disclosures, including links to relevant
-    emails.
+12. Has the interested community confirmed that any and all appropriate IPR disclosures required by [BCP 78](https://www.rfc-editor.org/info/bcp78) and [BCP 79](https://www.rfc-editor.org/info/bcp79) have been filed? If not, explain why. If yes, summarize any discussion and conclusion regarding the intellectual property rights (IPR) disclosures, including links to relevant emails.
 
-13. Has each Author or Contributor confirmed their willingness to be listed as
-    such? If the number of Authors/Editors on the front page is greater than 5,
-    please provide a justification.
+13. Has each Author or Contributor confirmed their willingness to be listed as such? If the number of Authors/Editors on the front page is greater than 5, please provide a justification.
 
-14. Identify any remaining I-D nits in this document. (See [the idnits
-    tool](http://www.ietf.org/tools/idnits/) and the checkbox items found in
-    Guidelines to Authors of Internet-Drafts). Simply running the idnits tool is
-    not enough; please review the entire guidelines document.
+14. Identify any remaining I-D nits in this document. (See [the idnits tool](http://www.ietf.org/tools/idnits/) and the checkbox items found in Guidelines to Authors of Internet-Drafts). Simply running the idnits tool is not enough; please review the entire guidelines document.
 
 15. Should any informative references be normative or vice-versa?
 
-16. List any normative references that are not freely available to anyone. Did
-    the community have sufficient access to review any such normative
-    references?
+16. List any normative references that are not freely available to anyone. Did the community have sufficient access to review any such normative references?
 
-17. Are there any normative downward references (see [RFC
-    3967](https://www.rfc-editor.org/rfc/rfc3967.html), [BCP
-    97](https://www.rfc-editor.org/info/bcp97))? If so, list them.
+17. Are there any normative downward references (see [RFC 3967](https://www.rfc-editor.org/rfc/rfc3967.html), [BCP 97](https://www.rfc-editor.org/info/bcp97))? If so, list them.
 
-18. Are there normative references to documents that are not ready for
-    advancement or are otherwise in an unclear state? If they exist, what is the
-    plan for their completion?
+18. Are there normative references to documents that are not ready for advancement or are otherwise in an unclear state? If they exist, what is the plan for their completion?
 
-19. Will publication of this document change the status of any existing RFCs? If
-    so, does the Datatracker metadata correctly reflect this and are those RFCs
-    listed on the title page, in the abstract, and discussed in the
-    introduction? If not, explain why and point to the part of the document
-    where the relationship of this document to these other RFCs is discussed.
+19. Will publication of this document change the status of any existing RFCs? If so, does the Datatracker metadata correctly reflect this and are those RFCs  listed on the title page, in the abstract, and discussed in the  introduction? If not, explain why and point to the part of the document where the relationship of this document to these other RFCs is discussed.
 
-20. Describe the document shepherd's review of the IANA considerations section,
-    especially with regard to its consistency with the body of the document.
-    Confirm that all aspects of the document requiring IANA assignments are
-    associated with the appropriate reservations in IANA registries. Confirm
-    that any referenced IANA registries have been clearly identified. Confirm
-    that each newly created IANA registry specifies its initial contents,
-    allocations procedures, and a reasonable name (see [RFC
-    8126](https://www.rfc-editor.org/rfc/rfc8126.html)).
+20. Describe the document shepherd's review of the IANA considerations section, especially with regard to its consistency with the body of the document. Confirm that all aspects of the document requiring IANA assignments are associated with the appropriate reservations in IANA registries. Confirm that any referenced IANA registries have been clearly identified. Confirm that each newly created IANA registry specifies its initial contents, allocations procedures, and a reasonable name (see [RFC 8126](https://www.rfc-editor.org/rfc/rfc8126.html)).
 
-21. List any new IANA registries that require Designated Expert Review for
-    future allocations. Are the instructions to the Designated Expert clear?
-    Please include suggestions of designated experts, if appropriate.
+21. List any new IANA registries that require Designated Expert Review for future allocations. Are the instructions to the Designated Expert clear? Please include suggestions of designated experts, if appropriate.
