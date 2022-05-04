@@ -47,7 +47,7 @@ Answer either of the two options below (depending on the document type), then co
 
 7. If the document contains a YANG module, has the final version of the module been checked with any of the [recommended validation tools](https://trac.ietf.org/trac/ops/wiki/yang-review-tools) for syntax and formatting validation? If there are any resulting errors or warnings, what is the justification for not fixing them at this time? Does the YANG module comply with the Network Management Datastore Architecture (NMDA) as specified in [RFC 8342](https://www.rfc-editor.org/rfc/rfc8342.html)?
 
-8. Describe reviews and automated checks performed to validate sections of the final version of the document written in a formal language, such as XML code, BNF rules, MIB definitions, CBOR's CDDL, etc.
+8. Describe reviews and automated checks performed to validate sections of the final version of the document written in a formal language, such as XML code, BNF rules, MIB definitions, CBOR's CDDL, ASN.1 modules, etc.
 
 ### Document Shepherd Checks
 
