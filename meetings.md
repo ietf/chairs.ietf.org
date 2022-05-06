@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2022-03-19T11:50:46.745Z
+date: 2022-05-06T20:19:11.240Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -36,9 +36,12 @@ See [instructions for organizing interim meetings](/meetings/interim-meeting-ins
 
 **Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi)**
 
-## Meeting planning templates and guides
+## Meeting planning templates, guides, and tools
 **[WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)**
 A sample to help organize working group meeting sessions.
+
+** [IETF Notes too](https://notes.ietf.org)
+A collaborative notepad is automatically generated for IETF meeting sessions and interim meetings scheduled via the [IETF Meeting session request tool](https://datatracker.ietf.org/secr/sreq/).
 
 **[Formatting & Content of Meeting Materials Guidelines](/meetings/guide-agendas-minutes)**
 This document provides suggestions about the form and content of Working Group agendas and minutes.
