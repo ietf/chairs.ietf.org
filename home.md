@@ -2,8 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2022-04-22T12:30:48.250Z
-
+date: 2022-05-06T20:06:51.667Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -34,7 +33,7 @@ This page provides a mechanism for filing disclosures about intellectual propert
 A guide for updating working group milestones in the IETF Datatracker.
 
 [Liaison Statements](https://datatracker.ietf.org/liaison/)
-Find and access liaison statments. The Internet Architecture Board ([IAB](https://www.iab.org)) appoints [liaisons wiht other organizations](https://www.ietf.org/about/liaisons/) on behalf of the IETF.
+Find and access liaison statments. The Internet Architecture Board ([IAB](https://www.iab.org)) appoints [liaisons with other organizations](https://www.ietf.org/about/liaisons/) on behalf of the IETF.
 
 [IETF Datatracker sandbox](https://sandbox.ietf.org) 
 This non-production instance of the IETF Datatracker allows [training and testing](datatracker-sandbox) of features and capabilities.
