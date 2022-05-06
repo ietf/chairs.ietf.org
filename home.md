@@ -2,7 +2,7 @@
 title: Home
 description: Home
 published: true
-date: 2022-05-06T20:06:51.667Z
+date: 2022-05-06T20:08:41.230Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
@@ -26,7 +26,7 @@ Photos of all current IETF WG chairs. (If you are a WG chair and would like to a
 Published in 1996, this is the foundational document describing the IETF standards process. An [informal guide](https://www.ietf.org/standards/process/informal/) provides another view of various aspects of the Internet standards process.
 
 ### [IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
-This page provides a mechanism for filing disclosures about intellectual property rights (IPR) and for finding out what IPR disclosures have been filed. The IETF intellectual property rights rules are defined in RFC 8179, "[Intellectual Property Rights in IETF Technology]"(https://www.rfc-editor.org/rfc/rfc8179.html).
+This page provides a mechanism for filing disclosures about intellectual property rights (IPR) and for finding out what IPR disclosures have been filed. The IETF intellectual property rights rules are defined in RFC 8179, ["Intellectual Property Rights in IETF Technology"](https://www.rfc-editor.org/rfc/rfc8179.html).
 
 ## IETF Datatracker resources
 [Working Group milestones](working-group-milestones/)
