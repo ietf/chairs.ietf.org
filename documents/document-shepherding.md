@@ -1,8 +1,8 @@
 ---
 title: Document shepherding
-description: Document shepherds help documents progress through the working group process.
+description: A short informal description of how shepherds help documents progress through the working group process.
 published: true
-date: 2022-05-09T14:30:39.887Z
+date: 2022-05-09T14:31:49.860Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T14:28:44.149Z
