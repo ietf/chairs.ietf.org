@@ -2,19 +2,26 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2022-05-09T14:32:22.387Z
+date: 2022-05-09T14:58:14.367Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
 ---
 
-# Information and resources
+# Roles in managing documents
+
+## Editors
+Working Group chairs often appoint document editors who are not involved directly in the topic a document addresses to help distribute work (e.g. allowing chairs to focus on chairing the working group) and avoid conflicts when decisions need to be taken. 
+
+## Shepherds
 
 [Document Shepherding from Working Group Last Call to Publication (RFC 4858)](https://www.rfc-editor.org/rfc/rfc4858.html)
 This document describes methodologies that have been designed to improve and facilitate IETF document flow processing by specifying a set of procedures under which a working group chair or secretary serves as the primary Document Shepherd for a document that has been submitted to the IESG for publication.
 
 [About document shepherding](/documents/document-shepherding)
 A short informal description of how document shepherds help documents progress through the working group process.
+
+## Authors
    
 [Internet-Draft author resources](https://authors.ietf.org)
 This site is the central resource site for authors of an I-D, with information on how to write an I-D and the tools available to support this.
