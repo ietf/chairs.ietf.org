@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2022-05-06T20:19:11.240Z
+date: 2022-05-09T15:09:16.461Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -40,7 +40,7 @@ See [instructions for organizing interim meetings](/meetings/interim-meeting-ins
 **[WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)**
 A sample to help organize working group meeting sessions.
 
-** [IETF Notes too](https://notes.ietf.org)
+**[IETF Notes tool](https://notes.ietf.org)**
 A collaborative notepad is automatically generated for IETF meeting sessions and interim meetings scheduled via the [IETF Meeting session request tool](https://datatracker.ietf.org/secr/sreq/).
 
 **[Formatting & Content of Meeting Materials Guidelines](/meetings/guide-agendas-minutes)**
@@ -48,6 +48,20 @@ This document provides suggestions about the form and content of Working Group a
 
 - Meeting agenda template ([MD](https://chairs.ietf.org/en/wg-meeting-agenda-template))
 - Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
+
+## Meeting participation and chairing technology guides
+The following information and guides are usually reviewed and updated as needed before each [IETF meeting](https://www.ietf.org/how/meetings/).
+
+**[General Meeting technology information](https://www.ietf.org/how/meetings/technology/)**
+
+**[Meetecho guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/)**
+Information and actions for chairs of sessions using Meetecho conferencing.
+
+**[Meetecho guide for participants](https://www.ietf.org/how/meetings/technology/meetecho-guide-participant/)**
+Information and actions for participants to review in advance of joining and IETF meeting using Meetecho.
+
+**[IETF Meetecho documentation](https://www.ietf.org/media/documents/IETF-Meetecho-Documentation.pdf)**
+Details about using Meetecho as a session chair or participant.
 
 ## Presentation templates and guides
 Slide template (includes Note Well) ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
