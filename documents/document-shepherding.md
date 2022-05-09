@@ -2,7 +2,7 @@
 title: Document shepherding
 description: Document shepherds help documents progress through the working group process.
 published: true
-date: 2022-05-09T14:28:44.149Z
+date: 2022-05-09T14:30:39.887Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T14:28:44.149Z
@@ -28,23 +28,3 @@ The write up should be explicit about which document the writeup is about its th
 * Check that WG documents have the right intended status header. This is occasionally in error.
 * When performing a WG last call, write explicitly in the WG last call message what the intended status is.
 * When doing the shepherd writeup, be explicit about which document the writeup is about, and what the target status is.
-
-
-## Things to remember about shepherding
-
-### Purpose
-
-
-
-
-
-Document Shepherding is not Just About the Writeup
-
-
-
-Intended Status
-
-
-
-Check that WG documents have the right intended status header. This is occasionally in error.
-When performing a WG last call, write explicitly in the WG last call message what the intended status is.
