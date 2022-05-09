@@ -2,13 +2,14 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2022-05-09T15:48:00.788Z
+date: 2022-05-09T15:56:04.873Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
 ---
 
 # Roles in managing documents
+This page describes the roles various individuals have in the document lifecycle process within the IETF.
 
 ## Working group chairs
 
