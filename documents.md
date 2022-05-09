@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2022-05-09T14:29:45.177Z
+date: 2022-05-09T14:32:22.387Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -14,6 +14,7 @@ dateCreated: 2021-12-14T18:15:39.427Z
 This document describes methodologies that have been designed to improve and facilitate IETF document flow processing by specifying a set of procedures under which a working group chair or secretary serves as the primary Document Shepherd for a document that has been submitted to the IESG for publication.
 
 [About document shepherding](/documents/document-shepherding)
+A short informal description of how document shepherds help documents progress through the working group process.
    
 [Internet-Draft author resources](https://authors.ietf.org)
 This site is the central resource site for authors of an I-D, with information on how to write an I-D and the tools available to support this.
