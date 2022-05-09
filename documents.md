@@ -2,13 +2,30 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2022-05-09T14:58:14.367Z
+date: 2022-05-09T15:48:00.788Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
 ---
 
 # Roles in managing documents
+
+## Working group chairs
+
+### Early codepoint allocation by IANA
+[RFC 7210](https://www.rfc-editor.org/rfc/rfc7120.html) describes the process for documents intended to be published in the RFC IETF Stream for early allocation of code points by IANA from registries  when "Specification Required", "RFC Required", "IETF Review", or "Standards Action" policies apply to alleviate the problem where code point allocation is needed to facilitate desired or required implementation and deployment experience prior to publication of an RFC which would normally trigger code point allocation. 
+
+In summary:
+
+1) A request is sent to the Working Group chair by the editor/author
+
+2) The WG chairs determine whether the conditions for early allocations described in Section 2 are met, particularly conditions (c) and (d).
+
+3) The WG chairs gauge whether there is consensus within the WG that early allocation is appropriate for the given document.
+
+4) If steps 2) and 3) are satisfied, the WG chairs request approval from the Area Director(s). The Area Director(s) may apply judgement to the request, especially if there is a risk of registry depletion.
+
+5) If the Area Directors approve step 4), the WG chairs request IANA to make an early allocation.
 
 ## Editors
 Working Group chairs often appoint document editors who are not involved directly in the topic a document addresses to help distribute work (e.g. allowing chairs to focus on chairing the working group) and avoid conflicts when decisions need to be taken. 
