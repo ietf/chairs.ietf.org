@@ -1,8 +1,8 @@
 ---
-title: Document shepherding
-description: Detailed document lifecycle
+title: Document lifecycle
+description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:28:32.713Z
+date: 2022-05-10T15:46:47.330Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
