@@ -2,85 +2,53 @@
 title: Document shepherding
 description: Detailed document lifecycle
 published: true
-date: 2022-05-10T14:46:37.419Z
+date: 2022-05-10T14:57:34.475Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
 ---
 
-# Document Shepherding Throughout a Document's Lifecycle [document_shepherding_throughout_a_documents_lifecycle]
+# Document Shepherding Throughout a Document's Lifecycle
 
-[RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about
-"Document Shepherding from Working Group Last Call to Publication".
-There's a significant part of a document's life that happens before
-working group last call, starting at the time that a working group
-begins discussing a version of the idea that's been posted as an
-individual draft. This discusses the potential for extending shepherding
-and what tasks might be involved throughout a working group document's
-lifecycle, from start to finish.
+[RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before working group last call, starting at the time that a working group begins discussing a version of the idea that's been posted as an
+individual draft. This discusses the potential for extending shepherding and what tasks might be involved throughout a working group document's lifecycle, from start to finish.
 
 ## Outline
 
-`1. [#a1.Introduction Introduction]`  
-`  1. [#a1.1.NotationalConventions Notational Conventions]`  
-`1. [#a2.TheDocumentShepherdasaFunction The Document Shepherd as a "Function"]`  
-`1. [#a3.StagesinaDocumentsLifecycle Stages in a Document's Lifecycle]`  
-`  1. [#a3.1.PreparingforAdoptionandShepherding Preparing for Adoption and Shepherding]`  
-`  1. [#a3.2.Stage:CallforAdoption Stage: Call for Adoption]`  
-`  1. [#a3.3.Stage:WorkingGroupDocument Stage: Working Group Document]`  
-`  1. [#a3.4.Stage:WorkingGroupLastCall Stage: Working Group Last Call]`  
-`  1. [#a3.5.Stage:ShepherdWriteupUnderway Stage: Shepherd Writeup Underway]`  
-`  1. [#a3.6.Stage:ADEvaluation Stage: AD Evaluation]`  
-`  1. [#a3.7.Stage:IETFLastCall Stage: IETF Last Call]`  
-`  1. [#a3.8.Stage:WaitingforADGo-Ahead Stage: Waiting for AD Go-Ahead]`  
-`  1. [#a3.9.Stage:IESGEvaluation Stage: IESG Evaluation]`  
-`  1. [#a3.10.Stage:ApprovedbytheIESG Stage: Approved by the IESG]`  
-`  1. [#a3.11.Stage:InRFCEditorQueue Stage: In RFC Editor Queue]`  
-`  1. [#a3.12.Stage:AUTH48 Stage: AUTH48]`  
-`  1. [#a3.13.Stage:Published Stage: Published]`  
-`1. [#a4.SomeFinalNotes Some Final Notes]`  
-`1. [#a5.Acknowledgments Acknowledgments]`  
-`1. [#a6.References References]`  
-`1. [#a7.LifecycleStagesandCorrespondingDocumentStates Lifecycle Stages and Corresponding Document States]`
+1. [#a1.Introduction Introduction]  
+   1. [#a1.1.NotationalConventions Notational Conventions]
+2. [#a2.TheDocumentShepherdasaFunction The Document Shepherd as a "Function"]
+3. [#a3.StagesinaDocumentsLifecycle Stages in a Document's Lifecycle]
+   1. [#a3.1.PreparingforAdoptionandShepherding Preparing for Adoption and Shepherding]
+   1. [#a3.2.Stage:CallforAdoption Stage: Call for Adoption]
+   1. [#a3.3.Stage:WorkingGroupDocument Stage: Working Group Document]
+   1. [#a3.4.Stage:WorkingGroupLastCall Stage: Working Group Last Call]  
+   1. [#a3.5.Stage:ShepherdWriteupUnderway Stage: Shepherd Writeup Underway]
+   1. [#a3.6.Stage:ADEvaluation Stage: AD Evaluation]
+   1. [#a3.7.Stage:IETFLastCall Stage: IETF Last Call]
+   1. [#a3.8.Stage:WaitingforADGo-Ahead Stage: Waiting for AD Go-Ahead]
+   1. [#a3.9.Stage:IESGEvaluation Stage: IESG Evaluation]
+   1. [#a3.10.Stage:ApprovedbytheIESG Stage: Approved by the IESG]
+   1. [#a3.11.Stage:InRFCEditorQueue Stage: In RFC Editor Queue]
+   1. [#a3.12.Stage:AUTH48 Stage: AUTH48]
+   1. [#a3.13.Stage:Published Stage: Published]
+1. [#a4.SomeFinalNotes Some Final Notes]
+1. [#a5.Acknowledgments Acknowledgments]  
+1. [#a6.References References]
+1. [#a7.LifecycleStagesandCorrespondingDocumentStates Lifecycle Stages and Corresponding Document States]
 
 ## 1. Introduction
 
-[RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about
-"Document Shepherding from Working Group Last Call to Publication".
-There's a significant part of a document's life that happens before
-Working Group Last Call, starting, really, at the time that a working
-group begins discussing a version of the idea that's been posted as an
-individual draft. It seems reasonable and helpful in many situations to
-begin shepherding when there's a call for adoption as a working group
-document. This document extends [RFC
-4858](https://datatracker.ietf.org/doc/rfc4858/), describing how that
-extended shepherding function might work and what tasks might be
-involved throughout the document's lifecycle, and suggesting how Working
-Group Chairs might choose to implement extended shepherding.
+[RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before Working Group Last Call, starting, really, at the time that a working group begins discussing a version of the idea that's been posted as an
+individual draft. It seems reasonable and helpful in many situations to begin shepherding when there's a call for adoption as a working group document. This document extends [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), describing how that extended shepherding function might work and what tasks might be involved throughout the document's lifecycle, and suggesting how Working Group Chairs might choose to implement extended shepherding.
 
-It is very common to see documents progress far too slowly, sometimes
-languishing for many months and even for years due to neglect. Sometimes
-a working group will intentionally set a document aside, put it on a
-back burner while it works on more pressing things. But it's often not
-intentional: the document sits around because of lack of follow-through,
-waking up occasionally when someone realizes that the last version has
-expired and an IETF meeting is coming up soon.
+It is very common to see documents progress far too slowly, sometimes languishing for many months and even for years due to neglect. Sometimes a working group will intentionally set a document aside, put it on a back burner while it works on more pressing things. But it's often not intentional: the document sits around because of lack of follow-through, waking up occasionally when someone realizes that the last version has expired and an IETF meeting is coming up soon.
 
-We would really prefer to process documents efficiently, ensuring that
-whatever happens is intentional: that documents are set aside only when
-it makes sense to do so, and that active documents move forward in the
-process, with someone responsible for making sure that happens.
+We would really prefer to process documents efficiently, ensuring that whatever happens is intentional: that documents are set aside only when it makes sense to do so, and that active documents move forward in the process, with someone responsible for making sure that happens.
 
-This document suggests specific tasks a Working Group Chair should be
-doing or delegating in order to maintain forward progress,
-accountability, and quality control on a working group document. It adds
-to what's in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/),
-intending to extend it, not replace it. Major extensions involve
-assigning a Shepherd and defining specific tasks earlier in a document's
-life, and possibly delegating Document Shepherd tasks to a Shepherd who
-is neither a Chair nor the Working Group Secretary (consistent with the
-[IESG Statement on Document
-Shepherds](http://www.ietf.org/iesg/statement/document-shepherds.html)).
+This document suggests specific tasks a Working Group Chair should be doing or delegating in order to maintain forward progress, accountability, and quality control on a working group document. It adds to what's in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), intending to extend it, not replace it. Major extensions involve
+assigning a Shepherd and defining specific tasks earlier in a document's life, and possibly delegating Document Shepherd tasks to a Shepherd who is neither a Chair nor the Working Group Secretary (consistent with the
+[IESG Statement on Document Shepherds](http://www.ietf.org/iesg/statement/document-shepherds.html)).
 
 The summaries in each section of the tasks expected at that stage in the
 document's lifecycle can make this an easy reference and checklist for
@@ -153,24 +121,22 @@ the working group and the responsible AD if the work lags.
 
 From the time a working group is asked to take on a document as one of
 its work items, the document will go through a number of stages, most of
-which correspond closely to working group document states ([RFC
-6174](https://datatracker.ietf.org/doc/rfc6174/)) or IESG document
-states in the datatracker (see
-\[#a7.LifecycleStagesandCorrespondingDocumentStates Section 7\] for a
+which correspond closely to working group document states ([RFC 6174](https://datatracker.ietf.org/doc/rfc6174/)) or IESG document
+states in the datatracker (see\[#a7.LifecycleStagesandCorrespondingDocumentStates Section 7\] for a
 mapping):
 
-`1.  Call for Adoption`  
-`1.  Working Group Document`  
-`1.  Working Group Last Call`  
-`1.  Shepherd Writeup Underway`  
-`1.  AD Evaluation`  
-`1.  IETF Last Call`  
-`1.  Waiting for AD Go-Ahead`  
-`1.  IESG Evaluation`  
-`1.  Approved by the IESG`  
-`1.  In RFC Editor Queue`  
-`1.  AUTH48`  
-`1.  Published`
+1.  Call for Adoption
+2.  Working Group Document
+3.  Working Group Last Call
+4.  Shepherd Writeup Underway
+5.  AD Evaluation
+6.  IETF Last Call
+7. Waiting for AD Go-Ahead
+8. IESG Evaluation
+9. Approved by the IESG  
+10.  In RFC Editor Queue
+12.  AUTH48
+13.  Published
 
 Through most of those stages steps will have to be taken, tasks will
 need to be performed, to make sure the document moves forward, that
@@ -185,42 +151,19 @@ stage, and will suggest how Working Group Chairs might handle those
 tasks and their delegation -- how the Document Shepherd Function might
 work. The details will vary, depending upon how each working group is
 managed, but what follows should be a good example, and will provide a
-basis for adaptation. And see also [RFC
-4858](https://datatracker.ietf.org/doc/rfc4858/), Section 3.
+basis for adaptation. And see also [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), Section 3.
 
 ## 3.1. Preparing for Adoption and Shepherding [preparing_for_adoption_and_shepherding]
 
-At the point that the working group begins considering adoption of a
-document, the Working Group Chairs have some decisions to make,
-beginning with confirming that the document is within the scope of the
-working group's charter. This is the time to choose a Responsible Chair
-for the document, much as it will eventually have a Responsible Area
-Director later in its life. The Responsible Chair will be the one who
-oversees the Document Shepherd Function and has primary responsibility
-for making sure that everything gets done.
+At the point that the working group begins considering adoption of a document, the Working Group Chairs have some decisions to make, beginning with confirming that the document is within the scope of the working group's charter. This is the time to choose a Responsible Chair for the document, much as it will eventually have a Responsible Area
+Director later in its life. The Responsible Chair will be the one who oversees the Document Shepherd Function and has primary responsibility for making sure that everything gets done.
 
-The Responsible Chair should then (perhaps in consultation with the
-other Chair(s), depending upon the Chairs' agreement about division of
-work) decide how much of the Document Shepherd Function to handle
-herself, and which pieces, if any, to delegate. Examples might be as
-follows:
+The Responsible Chair should then (perhaps in consultation with the other Chair(s), depending upon the Chairs' agreement about division of work) decide how much of the Document Shepherd Function to handle herself, and which pieces, if any, to delegate. Examples might be as follows:
 
-`* The Responsible Chair will be the sole Document Shepherd.`
-
-`* The Responsible Chair will be the Document Shepherd through the`  
-`  end of the Working Group Document stage, and will appoint a non-`  
-`  chair Shepherd during that stage to handle subsequent shepherding`  
-`  tasks (similar to what's set out in `[`RFC`` ``4858`](https://datatracker.ietf.org/doc/rfc4858/)`).`
-
-`* The Responsible Chair will appoint a non-chair Shepherd to handle`  
-`  the early shepherding tasks, and the Responsible Chair will take`  
-`  over the Document Shepherd tasks for Working Group Last Call and`  
-`  beyond (the converse of the previous example).`
-
-`* The Responsible Chair will appoint a non-chair Shepherd to handle`  
-`  all shepherding tasks from start to end.  The delegate will work`  
-`  closely with the Responsible Chair, heavily supervised (perhaps`  
-`  this is a training situation).`
+* The Responsible Chair will be the sole Document Shepherd.
+* The Responsible Chair will be the Document Shepherd through the end of the Working Group Document stage, and will appoint a non-chair Shepherd during that stage to handle subsequent shepherding tasks (similar to what's set out in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/)).
+* The Responsible Chair will appoint a non-chair Shepherd to handle the early shepherding tasks, and the Responsible Chair will take over the Document Shepherd tasks for Working Group Last Call and beyond (the converse of the previous example).
+* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will work closely with the Responsible Chair, heavily supervised (perhaps this is a training situation).
 
 `* The Responsible Chair will appoint a non-chair Shepherd to handle`  
 `  all shepherding tasks from start to end.  The delegate will report`  
@@ -229,7 +172,7 @@ follows:
 
 `* The Responsible Chair will appoint a non-chair Shepherd to handle`  
 `  all shepherding tasks autonomously (perhaps for a very experienced`  
-`  Shepherd, well trusted by the Chairs).`
+`  Shepherd, well trusted by the Chairs).
 
 And so on... there may be many combinations, many levels of supervision
 vs autonomy, many ways to divide the work. It's also possible to
@@ -278,12 +221,11 @@ if the Shepherd is not a Chair, to check that the Shepherd's email
 address in the datatracker is correct and current.
 
 Tasks that need to be taken in preparation might be as follows:
-
-`1. Chairs: Confirm that the document falls within the working group's charter.`  
-`1. Chairs: Select a Responsible Chair to handle the document.`  
-`1. Responsible Chair: Decide on a work/delegation plan.`  
-`1. Responsible Chair: Possibly appoint a non-chair Shepherd; else the`  
-`  Responsible Chair becomes the Shepherd.`  
+1. Chairs: Confirm that the document falls within the working group's charter.  
+1. Chairs: Select a Responsible Chair to handle the document.`  
+1. Responsible Chair: Decide on a work/delegation plan.`  
+1. Responsible Chair: Possibly appoint a non-chair Shepherd; else the`  
+  Responsible Chair becomes the Shepherd.`  
 `1. Check that the Shepherd's email address in the datatracker is correct.`
 
 ## 3.2. Stage: Call for Adoption [stage_call_for_adoption]
@@ -314,10 +256,10 @@ the Shepherd is copied on necessary email later.
 In summary, the tasks at the Call for Adoption stage might be as
 follows:
 
-`1. Shepherd: Make the call for adoption; set deadlines and schedule.`  
-`1. Shepherd: Communicate the result to the Chairs;`  
-`1. Chairs: Announce the result and appoint Document Editor(s) for the WG document.`  
-`1. Chairs: Update the datatracker; approve -00 version submission.`
+1. Shepherd: Make the call for adoption; set deadlines and schedule.
+2. Shepherd: Communicate the result to the Chairs;
+3. Chairs: Announce the result and appoint Document Editor(s) for the WG document.
+4. Chairs: Update the datatracker; approve -00 version submission.
 
 ## 3.3. Stage: Working Group Document [stage_working_group_document]
 
@@ -528,12 +470,10 @@ IESG section of the IETF web site.
 
 The tasks at the Shepherd Writeup Underway stage might be as follows:
 
-`1.  Shepherd: Complete the shepherd writeup and send it to the Chairs for approval.`  
-`1.  Chairs: Work with the Shepherd to finalize the writeup.`  
-`1.  Chairs: Put the writeup into the datatracker, and change the`  
-`  tracker document state to the appropriate one for requesting publication.`  
-`1.  Shepherd: Send the writeup to the working group mailing list and`  
-`  inform the working group that publication has been requested.`
+1.  Shepherd: Complete the shepherd writeup and send it to the Chairs for approval.
+2.  Chairs: Work with the Shepherd to finalize the writeup.
+3.  Chairs: Put the writeup into the datatracker, and change the tracker document state to the appropriate one for requesting publication.
+1.  Shepherd: Send the writeup to the working group mailing list and inform the working group that publication has been requested.`
 
 ## 3.6. Stage: AD Evaluation [stage_ad_evaluation]
 
