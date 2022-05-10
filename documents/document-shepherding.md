@@ -2,7 +2,7 @@
 title: Document shepherding
 description: A short informal description of how shepherds help documents progress through the working group process.
 published: true
-date: 2022-05-09T14:31:49.860Z
+date: 2022-05-10T22:02:05.093Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T14:28:44.149Z
@@ -13,11 +13,11 @@ Someone, sometimes a Working Group Chair or Secretary but often another designat
 
 More detail about the document shepherding process can be found in:
 * [RFC 4858](https://www.rfc-editor.org/rfc/rfc4858.html)
-* [a description of the document lifecycle]
+* [A description of the document lifecyle](/documents/lifecycle)
 
 ## Document shepherd writeup
 
-The purpose of the shepherd writeup is to make sure that the document has been properly reviewed and to provide information to the IESG for use in IESG Evaluation.
+One of the key things a document shephrd does is to write up the history of a document's path through the WG process. The purpose of the shepherd writeup is to make sure that the document has been properly reviewed and to provide information to the IESG for use in IESG Evaluation. The IESG has provided a [writeup template](/documents/qa-style-writeup-template) as a guide.
 
 The document shepherd writeup is not subject to working group consensus. Quite the opposite, it's the place for the shepherd to communicate with the Area Directors, and SHOULD include information that the shepherd thinks is important, even or especially if the WG isn't in agreement.
 
