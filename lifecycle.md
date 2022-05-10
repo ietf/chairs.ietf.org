@@ -2,7 +2,7 @@
 title: Document shepherding
 description: Detailed document lifecycle
 published: true
-date: 2022-05-10T15:14:33.081Z
+date: 2022-05-10T15:18:34.705Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -50,79 +50,38 @@ This document suggests specific tasks a Working Group Chair should be doing or d
 assigning a Shepherd and defining specific tasks earlier in a document's life, and possibly delegating Document Shepherd tasks to a Shepherd who is neither a Chair nor the Working Group Secretary (consistent with the
 [IESG Statement on Document Shepherds](http://www.ietf.org/iesg/statement/document-shepherds.html)).
 
-The summaries in each section of the tasks expected at that stage in the
-document's lifecycle can make this an easy reference and checklist for
-Working Group Chairs and Document Shepherds.
+The summaries in each section of the tasks expected at that stage in the document's lifecycle can make this an easy reference and checklist for Working Group Chairs and Document Shepherds.
 
-The specific mechanism suggested here will not be suitable for all
-working groups, all management models, and all situations. While it's a
-good idea to have the stages laid out and the tasks at each stage
-identified, not all working groups will benefit from having a single
-document shepherd designated at the start. Indeed, when a document is
-legitimately years in the making, personnel may come and go and changes
-will be necessary. A particular working group might be working only on
-one document at a time, with all tasks shared between the chairs.
+The specific mechanism suggested here will not be suitable for all working groups, all management models, and all situations. While it's a good idea to have the stages laid out and the tasks at each stage identified, not all working groups will benefit from having a single
+document shepherd designated at the start. Indeed, when a document is legitimately years in the making, personnel may come and go and changes will be necessary. A particular working group might be working only on one document at a time, with all tasks shared between the chairs.
 
-For these and other reasons, the suggestions herein are meant to be
-adapted to specific situations to retain the underlying objective of
+For these and other reasons, the suggestions herein are meant to be adapted to specific situations to retain the underlying objective of
 maintaining progress through active involvement.
 
-## 1.1. Notational Conventions [notational_conventions]
+## 1.1. Notational Conventions
 
-It is important to note that this document makes no formal process
-changes and there is no normative language here.
+It is important to note that this document makes no formal process changes and there is no normative language here.
 
-Initial Capitals are used in some terms, such as "Document Shepherd", to
-indicate that those terms represent specific roles in the management
-model that is described.
+Initial Capitals are used in some terms, such as "Document Shepherd", to indicate that those terms represent specific roles in the management model that is described.
 
-## 2. The Document Shepherd as a "Function" [the_document_shepherd_as_a_function]
+## 2. The Document Shepherd as a "Function"
 
-This document looks at the Document Shepherd as a "function", rather
-than as a single person. The Document Shepherd Function has a set of
-tasks that need to be performed, but the tasks do not all have to be
-performed by one individual.
+This document looks at the Document Shepherd as a "function", rather than as a single person. The Document Shepherd Function has a set of tasks that need to be performed, but the tasks do not all have to be performed by one individual.
 
-While, ultimately, it is the responsibility of the Working Group Chairs
-to ensure that the shepherding tasks get done, the Chairs do not have to
-do all those tasks by themselves. From Section 6.1 of the "Working Group
-Guidelines and Procedures" ([RFC
-2418](https://datatracker.ietf.org/doc/rfc2418/)):
+While, ultimately, it is the responsibility of the Working Group Chairs to ensure that the shepherding tasks get done, the Chairs do not have to do all those tasks by themselves. From Section 6.1 of the "Working Group Guidelines and Procedures" ([RFC 2418](https://datatracker.ietf.org/doc/rfc2418/)):
 
-`  The Working Group Chair is concerned with making forward progress through a fair and open process, and has wide discretion in the conduct of WG business.  The Chair must ensure that a number of tasks are performed, either directly or by others assigned to the tasks.`
+The Working Group Chair is concerned with making forward progress through a fair and open process, and has wide discretion in the conduct of WG business. The Chair must ensure that a number of tasks are performed, either directly or by others assigned to the tasks.
 
-This document proposes an extended set of Document Shepherd tasks, well
-beyond those covered in [RFC
-4858](https://datatracker.ietf.org/doc/rfc4858/). In many cases it will
-be reasonable to assign the entire Document Shepherd Function to one
-person (to a Chair or to a non-chair delegate), but in many other cases
-the Chairs will likely choose to delegate parts of that function and
-keep other parts for themselves. In any case, the Chairs remain
-responsible for the management of the working group; they are whom the
-Area Director will come to if something goes wrong or things fail to
-make progress.
+This document proposes an extended set of Document Shepherd tasks, well beyond those covered in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/). In many cases it will be reasonable to assign the entire Document Shepherd Function to one
+person (to a Chair or to a non-chair delegate), but in many other cases the Chairs will likely choose to delegate parts of that function and keep other parts for themselves. In any case, the Chairs remain responsible for the management of the working group; they are whom the Area Director will come to if something goes wrong or things fail to make progress.
 
-As we talk, then, about what the "Document Shepherd" does, understand
-that the individual doing each particular task will be the one assigned
-that task as the work on a particular document is laid out. When we say
-that the Shepherd should do a task in consultation with the Chairs,
-that's automatically true when it's already a Chair who's doing it.
+As we talk, then, about what the "Document Shepherd" does, understand that the individual doing each particular task will be the one assigned that task as the work on a particular document is laid out. When we say that the Shepherd should do a task in consultation with the Chairs, that's automatically true when it's already a Chair who's doing it.
 
-And this bears repeating: Nothing in this document is suggesting that
-the Working Group Chairs abdicate any responsibility. They have the
-final responsibility for managing each document's progress and for
-managing the working group in general. Any Chair who chooses to delegate
-some of this responsibility must still ensure that it's carried out
-properly. And any Chair who does not feel comfortable delegating any of
-this should not do so. Of course, either way, the Chair has to answer to
-the working group and the responsible AD if the work lags.
+And this bears repeating: Nothing in this document is suggesting that the Working Group Chairs abdicate any responsibility. They have the final responsibility for managing each document's progress and for managing the working group in general. Any Chair who chooses to delegate some of this responsibility must still ensure that it's carried out properly. And any Chair who does not feel comfortable delegating any of this should not do so. Of course, either way, the Chair has to answer to the working group and the responsible AD if the work lags.
 
 ## 3. Stages in a Document's Lifecycle [stages_in_a_documents_lifecycle]
 
-From the time a working group is asked to take on a document as one of
-its work items, the document will go through a number of stages, most of
-which correspond closely to working group document states ([RFC 6174](https://datatracker.ietf.org/doc/rfc6174/)) or IESG document
-states in the datatracker (see\[#a7.LifecycleStagesandCorrespondingDocumentStates Section 7\] for a
+From the time a working group is asked to take on a document as one of its work items, the document will go through a number of stages, most of which correspond closely to working group document states ([RFC 6174](https://datatracker.ietf.org/doc/rfc6174/)) or IESG document states in the datatracker (see\[#a7.LifecycleStagesandCorrespondingDocumentStates Section 7\] for a
 mapping):
 
 1.  Call for Adoption
@@ -138,25 +97,15 @@ mapping):
 12.  AUTH48
 13.  Published
 
-Through most of those stages steps will have to be taken, tasks will
-need to be performed, to make sure the document moves forward, that
-consensus is reached, that the right reviews are done, that updates are
-made, that consensus still holds after significant changes, and so on.
-The Document Shepherd Function comprises that set of tasks, and the
-document shepherd works with the Chairs as needed, and to have the
-datatracker state changes recorded.
+Through most of those stages steps will have to be taken, tasks will need to be performed, to make sure the document moves forward, that
+consensus is reached, that the right reviews are done, that updates are made, that consensus still holds after significant changes, and so on. The Document Shepherd Function comprises that set of tasks, and the document shepherd works with the Chairs as needed, and to have the datatracker state changes recorded.
 
-The following sections will discuss some of the tasks needed at each
-stage, and will suggest how Working Group Chairs might handle those
-tasks and their delegation -- how the Document Shepherd Function might
-work. The details will vary, depending upon how each working group is
-managed, but what follows should be a good example, and will provide a
-basis for adaptation. And see also [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), Section 3.
+The following sections will discuss some of the tasks needed at each stage, and will suggest how Working Group Chairs might handle those
+tasks and their delegation -- how the Document Shepherd Function might work. The details will vary, depending upon how each working group is managed, but what follows should be a good example, and will provide a basis for adaptation. And see also [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), Section 3.
 
 ## 3.1. Preparing for Adoption and Shepherding [preparing_for_adoption_and_shepherding]
 
-At the point that the working group begins considering adoption of a document, the Working Group Chairs have some decisions to make, beginning with confirming that the document is within the scope of the working group's charter. This is the time to choose a Responsible Chair for the document, much as it will eventually have a Responsible Area
-Director later in its life. The Responsible Chair will be the one who oversees the Document Shepherd Function and has primary responsibility for making sure that everything gets done.
+At the point that the working group begins considering adoption of a document, the Working Group Chairs have some decisions to make, beginning with confirming that the document is within the scope of the working group's charter. This is the time to choose a Responsible Chair for the document, much as it will eventually have a Responsible Area Director later in its life. The Responsible Chair will be the one who oversees the Document Shepherd Function and has primary responsibility for making sure that everything gets done.
 
 The Responsible Chair should then (perhaps in consultation with the other Chair(s), depending upon the Chairs' agreement about division of work) decide how much of the Document Shepherd Function to handle herself, and which pieces, if any, to delegate. Examples might be as follows:
 
@@ -164,15 +113,8 @@ The Responsible Chair should then (perhaps in consultation with the other Chair(
 * The Responsible Chair will be the Document Shepherd through the end of the Working Group Document stage, and will appoint a non-chair Shepherd during that stage to handle subsequent shepherding tasks (similar to what's set out in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/)).
 * The Responsible Chair will appoint a non-chair Shepherd to handle the early shepherding tasks, and the Responsible Chair will take over the Document Shepherd tasks for Working Group Last Call and beyond (the converse of the previous example).
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will work closely with the Responsible Chair, heavily supervised (perhaps this is a training situation).
-
-`* The Responsible Chair will appoint a non-chair Shepherd to handle`  
-`  all shepherding tasks from start to end.  The delegate will report`  
-`  to the Responsible Chair, and will be supervised at certain key`  
-`  points.`
-
-`* The Responsible Chair will appoint a non-chair Shepherd to handle`  
-`  all shepherding tasks autonomously (perhaps for a very experienced`  
-`  Shepherd, well trusted by the Chairs).
+* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will report to the Responsible Chair, and will be supervised at certain key points.
+* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks autonomously (perhaps for a very experienced Shepherd, well trusted by the Chairs).
 
 And so on... there may be many combinations, many levels of supervision
 vs autonomy, many ways to divide the work. It's also possible to
