@@ -2,13 +2,13 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:50:52.083Z
+date: 2022-05-10T15:51:21.844Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
 ---
 
-# Document Shepherding Throughout a Document's Lifecycle
+# A Working Group Document's Lifecycle
 
 [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before working group last call, starting at the time that a working group begins discussing a version of the idea that's been posted as an
 individual draft. This discusses the potential for extending shepherding and what tasks might be involved throughout a working group document's lifecycle, from start to finish.
