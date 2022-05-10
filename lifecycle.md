@@ -2,7 +2,7 @@
 title: Document shepherding
 description: Detailed document lifecycle
 published: true
-date: 2022-05-10T14:57:34.475Z
+date: 2022-05-10T15:01:01.773Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -15,7 +15,7 @@ individual draft. This discusses the potential for extending shepherding and wha
 
 ## Outline
 
-1. [#a1.Introduction Introduction]  
+1. [Introduction](#Introduction)
    1. [#a1.1.NotationalConventions Notational Conventions]
 2. [#a2.TheDocumentShepherdasaFunction The Document Shepherd as a "Function"]
 3. [#a3.StagesinaDocumentsLifecycle Stages in a Document's Lifecycle]
