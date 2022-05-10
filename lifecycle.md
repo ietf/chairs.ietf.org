@@ -2,7 +2,7 @@
 title: Document shepherding
 description: Detailed document lifecycle
 published: true
-date: 2022-05-10T15:07:02.125Z
+date: 2022-05-10T15:14:33.081Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -15,9 +15,9 @@ individual draft. This discusses the potential for extending shepherding and wha
 
 ## Outline
 
-1. [Introduction](#markdown-header-Introduction)
-   1. [#a1.1.NotationalConventions Notational Conventions]
-2. [#a2.TheDocumentShepherdasaFunction The Document Shepherd as a "Function"]
+1. [Introduction](#Introduction)
+   1. [Notational Conventions](#Notational Conventions)
+2. [The DocumentShepherd as a Function](#The Document Shepherd as a "Function"]
 3. [#a3.StagesinaDocumentsLifecycle Stages in a Document's Lifecycle]
    1. [#a3.1.PreparingforAdoptionandShepherding Preparing for Adoption and Shepherding]
    1. [#a3.2.Stage:CallforAdoption Stage: Call for Adoption]
@@ -34,7 +34,7 @@ individual draft. This discusses the potential for extending shepherding and wha
    1. [#a3.13.Stage:Published Stage: Published]
 1. [#a4.SomeFinalNotes Some Final Notes]
 1. [#a5.Acknowledgments Acknowledgments]  
-1. [#a6.References References]
+1. [References](References)
 1. [#a7.LifecycleStagesandCorrespondingDocumentStates Lifecycle Stages and Corresponding Document States]
 
 ## 1. Introduction
@@ -859,36 +859,25 @@ when the Chairs choose to delegate.
 
 ## 5. Acknowledgments
 
-The first version of this was written by Barry Leiba. Many thanks to
-Murray Kucherawy and Allison Mankin for early review and many
-particularly helpful comments.
+The first version of this was written by Barry Leiba. Many thanks to Murray Kucherawy and Allison Mankin for early review and many particularly helpful comments.
 
 ## 6. References
 
-Bradner, S., ["IETF Working Group Guidelines and Procedures", BCP 25,
-RFC 2418](https://datatracker.ietf.org/doc/rfc2418/), September 1998
+Bradner, S., ["IETF Working Group Guidelines and Procedures", BCP 25, RFC 2418](https://datatracker.ietf.org/doc/rfc2418/), September 1998
 
-Levkowetz, H., Meyer, D., Eggert, L. and A. Mankin, ["Document
-Shepherding from Working Group Last Call to Publication", RFC
-4858](https://datatracker.ietf.org/doc/rfc4858/), May 2007
+Levkowetz, H., Meyer, D., Eggert, L. and A. Mankin, ["Document Shepherding from Working Group Last Call to Publication", RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), May 2007
 
-Juskevicius, E., ["Definition of IETF Working Group Document States",
-RFC 6174](https://datatracker.ietf.org/doc/rfc6174/), March 2011
+Juskevicius, E., ["Definition of IETF Working Group Document States", RFC 6174](https://datatracker.ietf.org/doc/rfc6174/), March 2011
 
-Cotton, M., ["Early IANA Allocation of Standards Track Code Points", BCP
-100, RFC 7120](https://datatracker.ietf.org/doc/rfc7120/), January 2014
+Cotton, M., ["Early IANA Allocation of Standards Track Code Points", BCP 100, RFC 7120](https://datatracker.ietf.org/doc/rfc7120/), January 2014
 
-Resnick, P., ["On Consensus and Humming in the IETF", RFC
-7282](https://datatracker.ietf.org/doc/rfc7282/), June 2014
+Resnick, P., ["On Consensus and Humming in the IETF", RFC 7282](https://datatracker.ietf.org/doc/rfc7282/), June 2014
 
-IESG, ["IESG Ballot Procedures", May
-2009](http://www.ietf.org/iesg/voting-procedures.html)
+IESG, ["IESG Ballot Procedures", May 2009](http://www.ietf.org/iesg/voting-procedures.html)
 
-IESG Statement, ["DISCUSS Criteria in IESG Review", July
-2007](http://www.ietf.org/iesg/statement/discuss-criteria.html)
+IESG Statement, ["DISCUSS Criteria in IESG Review", July 2007](http://www.ietf.org/iesg/statement/discuss-criteria.html)
 
-IESG Statement, ["IESG Statement on Document Shepherds", October
-2010](http://www.ietf.org/iesg/statement/document-shepherds.html)
+IESG Statement, ["IESG Statement on Document Shepherds", October 2010](http://www.ietf.org/iesg/statement/document-shepherds.html)
 
 IESG, ["Working Group Submission Writeup", February
 2014](http://www.ietf.org/iesg/template/doc-writeup.html)
