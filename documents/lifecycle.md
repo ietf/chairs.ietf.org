@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:58:18.503Z
+date: 2022-05-10T19:30:20.203Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -85,7 +85,7 @@ At the point that the working group begins considering adoption of a document, t
 The Responsible Chair should then (perhaps in consultation with the other Chair(s), depending upon the Chairs' agreement about division of work) decide how much of the Document Shepherd Function to handle herself, and which pieces, if any, to delegate. Examples might be as follows:
 * The Responsible Chair will be the sole Document Shepherd.
 * The Responsible Chair will be the Document Shepherd through the end of the Working Group Document stage, and will appoint a non-chair Shepherd during that stage to handle subsequent shepherding tasks (similar to what's set out in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/)).
-* The Responsible Chair will appoint a non-chair Shepherd to handle the early shepherding tasks, and the Responsible Chair will take over the Document Shepherd tasks for Working Group Last Call and beyond (the converse of the previous example).
+* The Responsible Chair will appoint a non-chair Shepherd to handle the early shepherding tasks, and the Responsible Chair will take over the Document Shepherd tasks for Working Group Last Call and beyond (the converse of the previous example).
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will work closely with the Responsible Chair, heavily supervised (perhaps this is a training situation).
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will report to the Responsible Chair, and will be supervised at certain key points.
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks autonomously (perhaps for a very experienced Shepherd, well trusted by the Chairs).
@@ -96,23 +96,11 @@ In choosing Shepherds, the Chairs should be alert to real and perceived conflict
 
 Some Chairs may prefer to handle all tasks themselves, because, after all, they remain formally responsible for their successful completion. Yet there can be a lot gained by delegating much of the work. Delegating work and giving a degree of responsibility to relatively more junior participants gets people more closely engaged with the working group and with the IETF. Giving significant responsibility can be an excellent training exercise, preparing participants to take on future roles as Working Group Chairs. And in a busy working group, offloading work from the Chairs to senior, experienced people can prevent the Chairs from being overcommitted, enabling the work to move forward much more efficiently.
 
-This document will often talk about the Shepherd making certain
-decisions and judgments, such as judging consensus. It's important to
-keep in mind that when the Shepherd is not one of the Chairs (when the
-function is delegated), these judgments take the form of advice to the
-Chairs, and that the Chairs have the formal responsibility for making
-process-related decisions and for judging consensus. Any appeals will
-always be made with respect to decisions by the Chairs.
+This document will often talk about the Shepherd making certain decisions and judgments, such as judging consensus. It's important to keep in mind that when the Shepherd is not one of the Chairs (when the function is delegated), these judgments take the form of advice to the Chairs, and that the Chairs have the formal responsibility for making process-related decisions and for judging consensus. Any appeals will always be made with respect to decisions by the Chairs.
 
-And, of course, a non-chair Shepherd can and should consult with the
-Responsible Chair whenever she feels the need, and certainly whenever
-issues arise of which the Chairs should be aware, or about which the
-Shepherd needs advice or other help.
+And, of course, a non-chair Shepherd can and should consult with the Responsible Chair whenever she feels the need, and certainly whenever issues arise of which the Chairs should be aware, or about which the Shepherd needs advice or other help.
 
-Communication with the Shepherd is often dependent upon having the
-correct email address in the datatracker. It would be good, especially
-if the Shepherd is not a Chair, to check that the Shepherd's email
-address in the datatracker is correct and current.
+Communication with the Shepherd is often dependent upon having the correct email address in the datatracker. It would be good, especially if the Shepherd is not a Chair, to check that the Shepherd's email address in the datatracker is correct and current.
 
 Tasks that need to be taken in preparation might be as follows:
 1. Chairs: Confirm that the document falls within the working group's charter.  
@@ -123,31 +111,13 @@ Tasks that need to be taken in preparation might be as follows:
 
 ## 3.2. Stage: Call for Adoption
 
-Once it is determined who will handle the Document Shepherd tasks, the
-Shepherd needs to do the actual adoption process. The details will vary
-based on how the particular working group is run, but a typical process
-will start with posting a call for adoption to the working group mailing
-list, pointing to the individual draft that's being considered. There'll
-be a comment period for adoption discussion, after which the Shepherd
-will, based on working group discussion, give a recommended judgment to
-the Chairs.
+Once it is determined who will handle the Document Shepherd tasks, the Shepherd needs to do the actual adoption process. The details will vary based on how the particular working group is run, but a typical process will start with posting a call for adoption to the working group mailing list, pointing to the individual draft that's being considered. There'll be a comment period for adoption discussion, after which the Shepherd will, based on working group discussion, give a recommended judgment to the Chairs.
 
-Often, working groups are chartered with a startup document list, and
-specific calls for adoption are not needed. In those cases, the Shepherd
-will not need to handle a call and comment period, and can begin with
-the next paragraph.
+Often, working groups are chartered with a startup document list, and specific calls for adoption are not needed. In those cases, the Shepherd will not need to handle a call and comment period, and can begin with the next paragraph.
 
-Assuming that the document was adopted, the Chairs will appoint one or
-more Editors for the working group version of the document (these are
-often, but not always, the same people who wrote the individual version,
-and the Chairs should put some thought into who the right Editors should
-be), and will handle the datatracker updates (for which Chair access is
-required). The Chairs should not forget to record the name and email
-address of the Document Shepherd in the tracker -- this will ensure that
-the Shepherd is copied on necessary email later.
+Assuming that the document was adopted, the Chairs will appoint one or more Editors for the working group version of the document (these are often, but not always, the same people who wrote the individual version, and the Chairs should put some thought into who the right Editors should be), and will handle the datatracker updates (for which Chair access is required). The Chairs should not forget to record the name and email address of the Document Shepherd in the tracker -- this will ensure that the Shepherd is copied on necessary email later.
 
-In summary, the tasks at the Call for Adoption stage might be as
-follows:
+In summary, the tasks at the Call for Adoption stage might be as follows:
 
 1. Shepherd: Make the call for adoption; set deadlines and schedule.
 2. Shepherd: Communicate the result to the Chairs;
@@ -156,14 +126,8 @@ follows:
 
 ## 3.3. Stage: Working Group Document
 
-Once a -00 version is posted, the Shepherd's primary task is to keep the
-document moving forward: keeping discussion going, making sure issues
-are tracked and document updates are posted, and helping things toward
-consensus. Let's not downplay the importance of active management here:
-this is where things so often fall short, what causes documents to take
-\*years\* to complete. The Shepherd should not rush discussions that are
-useful, but the Shepherd should make sure that things don't get lost in
-the forest either.
+Once a -00 version is posted, the Shepherd's primary task is to keep the document moving forward: keeping discussion going, making sure issues are tracked and document updates are posted, and helping things toward consensus. Let's not downplay the importance of active management here: this is where things so often fall short, what causes documents to take **years** to complete. The Shepherd should not rush discussions that are
+useful, but the Shepherd should make sure that things don't get lost in the forest either.
 
 The Chairs will decide how the working group should be managed, and any
 non-chair Shepherd should be working with the Chairs at this stage,
