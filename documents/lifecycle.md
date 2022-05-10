@@ -2,13 +2,13 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:53:04.340Z
+date: 2022-05-10T15:53:57.993Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
 ---
 
-# A Working Group Document's Lifecycle
+# Lifecycle of a Working Group document
 
 [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before working group last call, starting at the time that a working group begins discussing a version of the idea that's been posted as an
 individual draft. This discusses the potential for extending shepherding and what tasks might be involved throughout a working group document's lifecycle, from start to finish.
@@ -116,9 +116,9 @@ address in the datatracker is correct and current.
 
 Tasks that need to be taken in preparation might be as follows:
 1. Chairs: Confirm that the document falls within the working group's charter.  
-1. Chairs: Select a Responsible Chair to handle the document.`  
-1. Responsible Chair: Decide on a work/delegation plan.`  
-1. Responsible Chair: Possibly appoint a non-chair Shepherd; else the Responsible Chair becomes the Shepherd.`  
+1. Chairs: Select a Responsible Chair to handle the document.
+1. Responsible Chair: Decide on a work/delegation plan.
+1. Responsible Chair: Possibly appoint a non-chair Shepherd; else the Responsible Chair becomes the Shepherd.
 1. Check that the Shepherd's email address in the datatracker is correct.
 
 ## 3.2. Stage: Call for Adoption
@@ -228,12 +228,12 @@ last call and for getting the document to the AD.
 In summary, the tasks for the Shepherd at the Working Group Document
 stage might be as follows:
 
-`1.  Work with the Chairs to understand the desired mechanism for managing discussions.`  
-`1.  Watch the discussions as they unfold; call out and record specific issues that come up.`  
-`1.  Steer the discussion when necessary.`  
-`1.  Prod the discussions when necessary.`  
-`1.  Prod the Document Editors when necessary.`  
-`1.  Use appropriate tools, such as issue trackers and wikis.`  
+1.  Work with the Chairs to understand the desired mechanism for managing discussions.
+1.  Watch the discussions as they unfold; call out and record specific issues that come up.
+1.  Steer the discussion when necessary.
+1.  Prod the discussions when necessary.
+1.  Prod the Document Editors when necessary.
+1.  Use appropriate tools, such as issue trackers and wikis.
 `1.  Consider early IANA allocation and bring it up for discussion if appropriate.`  
 `1.  Determine when it's time to start wrapping things up and moving`  
 `  to Working Group Last Call, and advise the chairs.`  
