@@ -2,7 +2,7 @@
 title: Document shepherding
 description: Detailed document lifecycle
 published: true
-date: 2022-05-10T15:18:34.705Z
+date: 2022-05-10T15:28:32.713Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -116,33 +116,11 @@ The Responsible Chair should then (perhaps in consultation with the other Chair(
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will report to the Responsible Chair, and will be supervised at certain key points.
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks autonomously (perhaps for a very experienced Shepherd, well trusted by the Chairs).
 
-And so on... there may be many combinations, many levels of supervision
-vs autonomy, many ways to divide the work. It's also possible to
-delegate to more than one non-chair Shepherd at different stages. The
-Chairs need to judge the extent to which continuity and centralized
-responsibility are important for the document in question and the
-management style of the chairs, and whether making it one other person
-(supervised by one Responsible Chair) is best.
+And so on... there may be many combinations, many levels of supervision vs. autonomy, many ways to divide the work. It's also possible to delegate to more than one non-chair Shepherd at different stages. The Chairs need to judge the extent to which continuity and centralized responsibility are important for the document in question and the management style of the chairs, and whether making it one other person (supervised by one Responsible Chair) is best.
 
-In choosing Shepherds, the Chairs should be alert to real and perceived
-conflicts of interest, and should make the appointment of Shepherds and
-the work they do as open a process as is reasonable within the
-management of the working group. Chairs need to be comfortable with the
-Shepherds they appoint; at the same time, appointing the same shepherds
-for every document might not be the best choice. Consider balance, and
-use this as an opportunity to distribute responsibility.
+In choosing Shepherds, the Chairs should be alert to real and perceived conflicts of interest, and should make the appointment of Shepherds and the work they do as open a process as is reasonable within the management of the working group. Chairs need to be comfortable with the Shepherds they appoint; at the same time, appointing the same shepherds for every document might not be the best choice. Consider balance, and use this as an opportunity to distribute responsibility.
 
-Some Chairs may prefer to handle all tasks themselves, because, after
-all, they remain formally responsible for their successful completion.
-Yet there can be a lot gained by delegating much of the work. Delegating
-work and giving a degree of responsibility to relatively more junior
-participants gets people more closely engaged with the working group and
-with the IETF. Giving significant responsibility can be an excellent
-training exercise, preparing participants to take on future roles as
-Working Group Chairs. And in a busy working group, offloading work from
-the Chairs to senior, experienced people can prevent the Chairs from
-being overcommitted, enabling the work to move forward much more
-efficiently.
+Some Chairs may prefer to handle all tasks themselves, because, after all, they remain formally responsible for their successful completion. Yet there can be a lot gained by delegating much of the work. Delegating work and giving a degree of responsibility to relatively more junior participants gets people more closely engaged with the working group and with the IETF. Giving significant responsibility can be an excellent training exercise, preparing participants to take on future roles as Working Group Chairs. And in a busy working group, offloading work from the Chairs to senior, experienced people can prevent the Chairs from being overcommitted, enabling the work to move forward much more efficiently.
 
 This document will often talk about the Shepherd making certain
 decisions and judgments, such as judging consensus. It's important to
@@ -527,14 +505,10 @@ reviewers. Work with the AD and the editors to handle this.
 The tasks for the Shepherd at the IETF Last Call stage might be as
 follows:
 
-`1.  Monitor the last-call comments, and make sure that specifically`  
-`  requested reviews arrive.`  
-`1.  Make sure the Document Editors respond to all reviews and`  
-`  comments in a timely manner.`  
-`1.  Keep the dialogue going between the community and the editors`  
-`  until all issues have been dealt with.`  
-`1.  See to it that issues are brought back before the working group`  
-`  if they are significant enough to require it.`
+1.  Monitor the last-call comments, and make sure that specifically  requested reviews arrive.  
+1.  Make sure the Document Editors respond to all reviews and  comments in a timely manner.  
+1.  Keep the dialogue going between the community and the editors  until all issues have been dealt with.  
+1.  See to it that issues are brought back before the working group if they are significant enough to require it.
 
 ## 3.8. Stage: Waiting for AD Go-Ahead [stage_waiting_for_ad_go_ahead]
 
@@ -563,16 +537,10 @@ and make sure the Responsible AD is on top of it.
 The tasks for the Shepherd at the Waiting for AD Go-Ahead stage might be
 as follows:
 
-`1.  Make sure a new I-D is posted with the latest changes, and inform`  
-`  the Responsible AD that all changes have been incorporated and`  
-`  that the document is ready for IESG Evaluation, or...`  
-`1.  ...inform the Responsible AD that no changes are required and`  
-`  that the document is ready for IESG Evaluation.`  
-`1.  Update the Shepherd writeup if anything has come up during Last`  
-`  Call that the IESG should know about.  The Chairs will update the`  
-`  writeup in the datatracker.`  
-`1.  Follow up with the Responsible AD if necessary, to make sure she`  
-`  takes the necessary steps to enter IESG Evaluation.`
+1.  Make sure a new I-D is posted with the latest changes, and inform the Responsible AD that all changes have been incorporated and that the document is ready for IESG Evaluation, or...`  
+1.  ...inform the Responsible AD that no changes are required and that the document is ready for IESG Evaluation.
+1.  Update the Shepherd writeup if anything has come up during Last Call that the IESG should know about.  The Chairs will update the writeup in the datatracker.
+1.  Follow up with the Responsible AD if necessary, to make sure she takes the necessary steps to enter IESG Evaluation.
 
 ## 3.9. Stage: IESG Evaluation [stage_iesg_evaluation]
 
@@ -645,13 +613,10 @@ particular. And see also [RFC
 The tasks for the Shepherd at the IESG Evaluation stage might be as
 follows:
 
-`1.  Keep track of the DISCUSS positions and review comments by the IESG.`  
-`1.  Make sure all comments are addressed, and help the discussions of`  
-`  DISCUSS positions reach closure.`  
-`1.  Keep both the Document Editors and the Discussing AD engaged in`  
-`  the resolution of the issues.`  
-`1.  See to it that issues are brought back before the working group`  
-`  if they are significant enough to require it.`
+1.  Keep track of the DISCUSS positions and review comments by the IESG.
+1.  Make sure all comments are addressed, and help the discussions of DISCUSS positions reach closure.
+1.  Keep both the Document Editors and the Discussing AD engaged in the resolution of the issues.`  
+1.  See to it that issues are brought back before the working group if they are significant enough to require it.
 
 ## 3.10. Stage: Approved by the IESG [stage_approved_by_the_iesg]
 
@@ -676,11 +641,9 @@ sure they're correct and that the working group is aware of them.
 The tasks for the Shepherd at the Approved by the IESG stage might be as
 follows:
 
-`1.  Work with the Responsible AD to understand what still needs to be addressed.`  
-`1.  Double-check the IANA actions and ask the AD about any RFC Editor`  
-`  notes; follow up on any errors or omissions.`  
-`1.  Make sure the Document Editors and the Responsible AD move the`  
-`  document to the final Approved state.`
+1.  Work with the Responsible AD to understand what still needs to be addressed.
+1.  Double-check the IANA actions and ask the AD about any RFC Editor notes; follow up on any errors or omissions.
+1.  Make sure the Document Editors and the Responsible AD move the document to the final Approved state.
 
 ## 3.11. Stage: In RFC Editor Queue [stage_in_rfc_editor_queue]
 
@@ -710,11 +673,11 @@ that seems substantive.
 The tasks for the Shepherd at the In RFC Editor Queue stage might be as
 follows:
 
-`1.  Sip tea or drink beer or wine, and wait for AUTH48.`  
-`1.  Talk to the Responsible AD if something doesn't look right.`  
-`1.  Watch for questions from the RFC Editor, and track the responses.`
+1.  Sip tea or drink beer or wine, and wait for AUTH48.
+1.  Talk to the Responsible AD if something doesn't look right.
+1.  Watch for questions from the RFC Editor, and track the responses.
 
-## 3.12. Stage: AUTH48 [stage_auth48]
+## 3.12. Stage: AUTH48
 
 AUTH48 is an RFC Editor state that occurs when the RFC Editors have done
 their final edits on the document before publication. It's meant to
@@ -758,28 +721,22 @@ routine -- so it's important to make sure the AD is aware that a
 response is needed. Watch for such items and remind the AD if there's no
 response within a few days.
 
-Most of the time, though, this stage will run smoothly, the Document
-Editors will respond to the AUTH48 messages with a minimum of prodding,
-and the RFC Editor will announce their happiness and proceed with the
-publication process.
+Most of the time, though, this stage will run smoothly, the Document Editors will respond to the AUTH48 messages with a minimum of prodding, and the RFC Editor will announce their happiness and proceed with the publication process.
 
-See also Section 5 of [RFC
-4858](https://datatracker.ietf.org/doc/rfc4858/).
+See also Section 5 of [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/).
 
 The tasks for the Shepherd at the AUTH48 stage might be as follows:
 
-`1.  Monitor the AUTH48 process and make sure all questions are`  
-`  answered and all Authors/Editors respond as needed.`  
-`1.  Assess whether any issues that come up are significant enough to`  
-`  need review by the working group.`
+1.  Monitor the AUTH48 process and make sure all questions are answered and all Authors/Editors respond as needed.`  
+2.  Assess whether any issues that come up are significant enough to  need review by the working group.
 
-## 3.13. Stage: Published [stage_published]
+## 3.13. Stage: Published
 
 We're done. The RFC Editor has published the document, and the RFC
 announcement has been made. Many thanks to the Shepherd for having seen
 it through and for helping to assure a high quality document.
 
-## 4. Some Final Notes [some_final_notes]
+## 4. Some Final Notes
 
 We have outlined a Document Shepherding Function, above, in a lot of
 detail, so let's put the executive summary back here:
@@ -821,10 +778,9 @@ IESG Statement, ["DISCUSS Criteria in IESG Review", July 2007](http://www.ietf.o
 
 IESG Statement, ["IESG Statement on Document Shepherds", October 2010](http://www.ietf.org/iesg/statement/document-shepherds.html)
 
-IESG, ["Working Group Submission Writeup", February
-2014](http://www.ietf.org/iesg/template/doc-writeup.html)
+IESG, ["Working Group Submission Writeup", February 2014](http://www.ietf.org/iesg/template/doc-writeup.html)
 
-## 7. Lifecycle Stages and Corresponding Document States [lifecycle_stages_and_corresponding_document_states]
+## 7. Lifecycle Stages and Corresponding Document States
 
 | Lifecycle stage | Document state | State owner | 
 | --- | --- | --- | 
