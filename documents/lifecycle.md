@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:46:47.330Z
+date: 2022-05-10T15:48:48.646Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -12,30 +12,6 @@ dateCreated: 2022-05-10T14:46:37.419Z
 
 [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before working group last call, starting at the time that a working group begins discussing a version of the idea that's been posted as an
 individual draft. This discusses the potential for extending shepherding and what tasks might be involved throughout a working group document's lifecycle, from start to finish.
-
-## Outline
-
-1. [Introduction](#Introduction)
-   1. [Notational Conventions](#Notational Conventions)
-2. [The DocumentShepherd as a Function](#The Document Shepherd as a "Function"]
-3. [#a3.StagesinaDocumentsLifecycle Stages in a Document's Lifecycle]
-   1. [#a3.1.PreparingforAdoptionandShepherding Preparing for Adoption and Shepherding]
-   1. [#a3.2.Stage:CallforAdoption Stage: Call for Adoption]
-   1. [#a3.3.Stage:WorkingGroupDocument Stage: Working Group Document]
-   1. [#a3.4.Stage:WorkingGroupLastCall Stage: Working Group Last Call]  
-   1. [#a3.5.Stage:ShepherdWriteupUnderway Stage: Shepherd Writeup Underway]
-   1. [#a3.6.Stage:ADEvaluation Stage: AD Evaluation]
-   1. [#a3.7.Stage:IETFLastCall Stage: IETF Last Call]
-   1. [#a3.8.Stage:WaitingforADGo-Ahead Stage: Waiting for AD Go-Ahead]
-   1. [#a3.9.Stage:IESGEvaluation Stage: IESG Evaluation]
-   1. [#a3.10.Stage:ApprovedbytheIESG Stage: Approved by the IESG]
-   1. [#a3.11.Stage:InRFCEditorQueue Stage: In RFC Editor Queue]
-   1. [#a3.12.Stage:AUTH48 Stage: AUTH48]
-   1. [#a3.13.Stage:Published Stage: Published]
-1. [#a4.SomeFinalNotes Some Final Notes]
-1. [#a5.Acknowledgments Acknowledgments]  
-1. [References](References)
-1. [#a7.LifecycleStagesandCorrespondingDocumentStates Lifecycle Stages and Corresponding Document States]
 
 ## 1. Introduction
 
