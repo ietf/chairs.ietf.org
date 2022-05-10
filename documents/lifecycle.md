@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:48:48.646Z
+date: 2022-05-10T15:50:52.083Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -55,7 +55,7 @@ As we talk, then, about what the "Document Shepherd" does, understand that the i
 
 And this bears repeating: Nothing in this document is suggesting that the Working Group Chairs abdicate any responsibility. They have the final responsibility for managing each document's progress and for managing the working group in general. Any Chair who chooses to delegate some of this responsibility must still ensure that it's carried out properly. And any Chair who does not feel comfortable delegating any of this should not do so. Of course, either way, the Chair has to answer to the working group and the responsible AD if the work lags.
 
-## 3. Stages in a Document's Lifecycle [stages_in_a_documents_lifecycle]
+## 3. Stages in a Document's Lifecycle
 
 From the time a working group is asked to take on a document as one of its work items, the document will go through a number of stages, most of which correspond closely to working group document states ([RFC 6174](https://datatracker.ietf.org/doc/rfc6174/)) or IESG document states in the datatracker (see\[#a7.LifecycleStagesandCorrespondingDocumentStates Section 7\] for a
 mapping):
@@ -79,7 +79,7 @@ consensus is reached, that the right reviews are done, that updates are made, th
 The following sections will discuss some of the tasks needed at each stage, and will suggest how Working Group Chairs might handle those
 tasks and their delegation -- how the Document Shepherd Function might work. The details will vary, depending upon how each working group is managed, but what follows should be a good example, and will provide a basis for adaptation. And see also [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), Section 3.
 
-## 3.1. Preparing for Adoption and Shepherding [preparing_for_adoption_and_shepherding]
+## 3.1. Preparing for Adoption and Shepherding
 
 At the point that the working group begins considering adoption of a document, the Working Group Chairs have some decisions to make, beginning with confirming that the document is within the scope of the working group's charter. This is the time to choose a Responsible Chair for the document, much as it will eventually have a Responsible Area Director later in its life. The Responsible Chair will be the one who oversees the Document Shepherd Function and has primary responsibility for making sure that everything gets done.
 
@@ -120,11 +120,10 @@ Tasks that need to be taken in preparation might be as follows:
 1. Chairs: Confirm that the document falls within the working group's charter.  
 1. Chairs: Select a Responsible Chair to handle the document.`  
 1. Responsible Chair: Decide on a work/delegation plan.`  
-1. Responsible Chair: Possibly appoint a non-chair Shepherd; else the`  
-  Responsible Chair becomes the Shepherd.`  
-`1. Check that the Shepherd's email address in the datatracker is correct.`
+1. Responsible Chair: Possibly appoint a non-chair Shepherd; else the Responsible Chair becomes the Shepherd.`  
+1. Check that the Shepherd's email address in the datatracker is correct.
 
-## 3.2. Stage: Call for Adoption [stage_call_for_adoption]
+## 3.2. Stage: Call for Adoption
 
 Once it is determined who will handle the Document Shepherd tasks, the
 Shepherd needs to do the actual adoption process. The details will vary
@@ -157,7 +156,7 @@ follows:
 3. Chairs: Announce the result and appoint Document Editor(s) for the WG document.
 4. Chairs: Update the datatracker; approve -00 version submission.
 
-## 3.3. Stage: Working Group Document [stage_working_group_document]
+## 3.3. Stage: Working Group Document
 
 Once a -00 version is posted, the Shepherd's primary task is to keep the
 document moving forward: keeping discussion going, making sure issues
@@ -243,7 +242,7 @@ stage might be as follows:
 `1.  Alternatively, determine that it's not possible to move the`  
 `  document forward, and the Chairs need to consider abandoning it.`
 
-## 3.4. Stage: Working Group Last Call [stage_working_group_last_call]
+## 3.4. Stage: Working Group Last Call
 
 When any contentious issues have been resolved and the document has had
 a good level of review, the Shepherd should start looking at when it's
@@ -301,7 +300,7 @@ as follows:
 `1.  Analyze the results of Working Group Last Call and get final`  
 `  updates from the Document Editors.`
 
-## 3.5. Stage: Shepherd Writeup Underway [stage_shepherd_writeup_underway]
+## 3.5. Stage: Shepherd Writeup Underway
 
 Working Group Last Call is over, and the Shepherd and Chairs have
 determined that any issues that came out of that have been adequately
@@ -369,9 +368,9 @@ The tasks at the Shepherd Writeup Underway stage might be as follows:
 1.  Shepherd: Complete the shepherd writeup and send it to the Chairs for approval.
 2.  Chairs: Work with the Shepherd to finalize the writeup.
 3.  Chairs: Put the writeup into the datatracker, and change the tracker document state to the appropriate one for requesting publication.
-1.  Shepherd: Send the writeup to the working group mailing list and inform the working group that publication has been requested.`
+1.  Shepherd: Send the writeup to the working group mailing list and inform the working group that publication has been requested.
 
-## 3.6. Stage: AD Evaluation [stage_ad_evaluation]
+## 3.6. Stage: AD
 
 The next stage in the process is up to the Responsible Area Director,
 and the Document Shepherd has but one easy task: help make this stage as
@@ -412,17 +411,12 @@ See also [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), Section
 The tasks for the Shepherd at the AD Evaluation stage might be as
 follows:
 
-`1.  Make sure the AD reviews the document in a timely manner, and`  
-`  send occasional reminders as needed.`  
-`1.  Make sure the Document Editors respond to the review in a timely`  
-`  manner, and poke them as well, as needed.`  
-`1.  Keep the dialogue going between the Responsible AD and the`  
-`  editors until all issues have been dealt with and the document is`  
-`  ready for the next stage.`  
-`1.  See to it that issues are brought back before the working group`  
-`  if they are significant enough to require it.`
+1.  Make sure the AD reviews the document in a timely manner, and send occasional reminders as needed.
+1.  Make sure the Document Editors respond to the review in a timely manner, and poke them as well, as needed.`  
+1.  Keep the dialogue going between the Responsible AD and the editors until all issues have been dealt with and the document is ready for the next stage.
+1.  See to it that issues are brought back before the working group if they are significant enough to require it.
 
-## 3.7. Stage: IETF Last Call [stage_ietf_last_call]
+## 3.7. Stage: IETF Last Call
 
 Once the Responsible AD is satisfied that the document is ready to move
 ahead, she will put it in Last Call Requested state. That prompts the
@@ -486,7 +480,7 @@ follows:
 1.  Keep the dialogue going between the community and the editors  until all issues have been dealt with.  
 1.  See to it that issues are brought back before the working group if they are significant enough to require it.
 
-## 3.8. Stage: Waiting for AD Go-Ahead [stage_waiting_for_ad_go_ahead]
+## 3.8. Stage: Waiting for AD Go-Ahead
 
 When Last Call completes, the tracker state for the document will
 automatically go to "Waiting for AD Go-Ahead". This is the Shepherd's
@@ -518,7 +512,7 @@ as follows:
 1.  Update the Shepherd writeup if anything has come up during Last Call that the IESG should know about.  The Chairs will update the writeup in the datatracker.
 1.  Follow up with the Responsible AD if necessary, to make sure she takes the necessary steps to enter IESG Evaluation.
 
-## 3.9. Stage: IESG Evaluation [stage_iesg_evaluation]
+## 3.9. Stage: IESG Evaluation
 
 As the ADs do their reviews they will record ballot positions on the
 document. Ballot positions can be one of "Yes", "No Objection",
@@ -594,7 +588,7 @@ follows:
 1.  Keep both the Document Editors and the Discussing AD engaged in the resolution of the issues.`  
 1.  See to it that issues are brought back before the working group if they are significant enough to require it.
 
-## 3.10. Stage: Approved by the IESG [stage_approved_by_the_iesg]
+## 3.10. Stage: Approved by the IESG
 
 Once the document has been on a telechat, any necessary revised versions
 have been posted, and all DISCUSS positions are "cleared", the
@@ -621,7 +615,7 @@ follows:
 1.  Double-check the IANA actions and ask the AD about any RFC Editor notes; follow up on any errors or omissions.
 1.  Make sure the Document Editors and the Responsible AD move the document to the final Approved state.
 
-## 3.11. Stage: In RFC Editor Queue [stage_in_rfc_editor_queue]
+## 3.11. Stage: In RFC Editor Queue
 
 Shortly after the approval announcement is sent out, the document will
 go into the RFC Editor queue, and the Shepherd will start seeing it pass
