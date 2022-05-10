@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:51:21.844Z
+date: 2022-05-10T15:53:04.340Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -15,8 +15,7 @@ individual draft. This discusses the potential for extending shepherding and wha
 
 ## 1. Introduction
 
-[RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before Working Group Last Call, starting, really, at the time that a working group begins discussing a version of the idea that's been posted as an
-individual draft. It seems reasonable and helpful in many situations to begin shepherding when there's a call for adoption as a working group document. This document extends [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), describing how that extended shepherding function might work and what tasks might be involved throughout the document's lifecycle, and suggesting how Working Group Chairs might choose to implement extended shepherding.
+[RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before Working Group Last Call, starting, really, at the time that a working group begins discussing a version of the idea that's been posted as an individual draft. It seems reasonable and helpful in many situations to begin shepherding when there's a call for adoption as a working group document. This document extends [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), describing how that extended shepherding function might work and what tasks might be involved throughout the document's lifecycle, and suggesting how Working Group Chairs might choose to implement extended shepherding.
 
 It is very common to see documents progress far too slowly, sometimes languishing for many months and even for years due to neglect. Sometimes a working group will intentionally set a document aside, put it on a back burner while it works on more pressing things. But it's often not intentional: the document sits around because of lack of follow-through, waking up occasionally when someone realizes that the last version has expired and an IETF meeting is coming up soon.
 
@@ -84,13 +83,12 @@ tasks and their delegation -- how the Document Shepherd Function might work. The
 At the point that the working group begins considering adoption of a document, the Working Group Chairs have some decisions to make, beginning with confirming that the document is within the scope of the working group's charter. This is the time to choose a Responsible Chair for the document, much as it will eventually have a Responsible Area Director later in its life. The Responsible Chair will be the one who oversees the Document Shepherd Function and has primary responsibility for making sure that everything gets done.
 
 The Responsible Chair should then (perhaps in consultation with the other Chair(s), depending upon the Chairs' agreement about division of work) decide how much of the Document Shepherd Function to handle herself, and which pieces, if any, to delegate. Examples might be as follows:
-
-* The Responsible Chair will be the sole Document Shepherd.
-* The Responsible Chair will be the Document Shepherd through the end of the Working Group Document stage, and will appoint a non-chair Shepherd during that stage to handle subsequent shepherding tasks (similar to what's set out in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/)).
-* The Responsible Chair will appoint a non-chair Shepherd to handle the early shepherding tasks, and the Responsible Chair will take over the Document Shepherd tasks for Working Group Last Call and beyond (the converse of the previous example).
-* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will work closely with the Responsible Chair, heavily supervised (perhaps this is a training situation).
-* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will report to the Responsible Chair, and will be supervised at certain key points.
-* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks autonomously (perhaps for a very experienced Shepherd, well trusted by the Chairs).
+* The Responsible Chair will be the sole Document Shepherd.
+* The Responsible Chair will be the Document Shepherd through the end of the Working Group Document stage, and will appoint a non-chair Shepherd during that stage to handle subsequent shepherding tasks (similar to what's set out in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/)).
+* The Responsible Chair will appoint a non-chair Shepherd to handle the early shepherding tasks, and the Responsible Chair will take over the Document Shepherd tasks for Working Group Last Call and beyond (the converse of the previous example).
+* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will work closely with the Responsible Chair, heavily supervised (perhaps this is a training situation).
+* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will report to the Responsible Chair, and will be supervised at certain key points.
+* The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks autonomously (perhaps for a very experienced Shepherd, well trusted by the Chairs).
 
 And so on... there may be many combinations, many levels of supervision vs. autonomy, many ways to divide the work. It's also possible to delegate to more than one non-chair Shepherd at different stages. The Chairs need to judge the extent to which continuity and centralized responsibility are important for the document in question and the management style of the chairs, and whether making it one other person (supervised by one Responsible Chair) is best.
 
