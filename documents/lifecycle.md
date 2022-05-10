@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:53:57.993Z
+date: 2022-05-10T15:54:15.160Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -184,8 +184,7 @@ when the document comes out of the working group.
 
 When implementations are proceeding in parallel with document
 development, it is sometimes useful to get early allocation of protocol
-parameters and code points ([RFC
-7120](https://datatracker.ietf.org/doc/rfc7120/)). The Shepherd should
+parameters and code points ([RFC 7120](https://datatracker.ietf.org/doc/rfc7120/)). The Shepherd should
 watch for those situations and raise the issue with the working group,
 bringing the request to the Chairs and responsible AD if it's decided
 that early allocation is needed.
