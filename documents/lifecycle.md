@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2022-05-10T15:54:15.160Z
+date: 2022-05-10T15:58:18.503Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -85,7 +85,7 @@ At the point that the working group begins considering adoption of a document, t
 The Responsible Chair should then (perhaps in consultation with the other Chair(s), depending upon the Chairs' agreement about division of work) decide how much of the Document Shepherd Function to handle herself, and which pieces, if any, to delegate. Examples might be as follows:
 * The Responsible Chair will be the sole Document Shepherd.
 * The Responsible Chair will be the Document Shepherd through the end of the Working Group Document stage, and will appoint a non-chair Shepherd during that stage to handle subsequent shepherding tasks (similar to what's set out in [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/)).
-* The Responsible Chair will appoint a non-chair Shepherd to handle the early shepherding tasks, and the Responsible Chair will take over the Document Shepherd tasks for Working Group Last Call and beyond (the converse of the previous example).
+* The Responsible Chair will appoint a non-chair Shepherd to handle the early shepherding tasks, and the Responsible Chair will take over the Document Shepherd tasks for Working Group Last Call and beyond (the converse of the previous example).
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will work closely with the Responsible Chair, heavily supervised (perhaps this is a training situation).
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks from start to end.  The delegate will report to the Responsible Chair, and will be supervised at certain key points.
 * The Responsible Chair will appoint a non-chair Shepherd to handle all shepherding tasks autonomously (perhaps for a very experienced Shepherd, well trusted by the Chairs).
@@ -233,11 +233,9 @@ stage might be as follows:
 1.  Prod the discussions when necessary.
 1.  Prod the Document Editors when necessary.
 1.  Use appropriate tools, such as issue trackers and wikis.
-`1.  Consider early IANA allocation and bring it up for discussion if appropriate.`  
-`1.  Determine when it's time to start wrapping things up and moving`  
-`  to Working Group Last Call, and advise the chairs.`  
-`1.  Alternatively, determine that it's not possible to move the`  
-`  document forward, and the Chairs need to consider abandoning it.`
+1.  Consider early IANA allocation and bring it up for discussion if appropriate.
+1.  Determine when it's time to start wrapping things up and moving to Working Group Last Call, and advise the chairs.
+1.  Alternatively, determine that it's not possible to move the document forward, and the Chairs need to consider abandoning it.
 
 ## 3.4. Stage: Working Group Last Call
 
@@ -275,8 +273,7 @@ folks are willing to do an early review of the IANA actions at this
 stage, so consider asking for that if the document has a large or
 unusually involved set of IANA actions.
 
-The [shepherd
-writeup](http://www.ietf.org/iesg/template/doc-writeup.html), which can
+The [shepherd writeup](http://www.ietf.org/iesg/template/doc-writeup.html), which can
 be found in the IESG section of the IETF web site, is a good reference
 for the Shepherd for making sure the necessary bits are being covered,
 so this is also a good time to start the writeup. It will be finished
