@@ -2,7 +2,7 @@
 title: Supporting participants
 description: Resources for working group participants, especially those new to the IETF, may find useful
 published: true
-date: 2022-05-11T00:43:47.237Z
+date: 2022-05-11T01:04:53.201Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T16:06:15.787Z
@@ -27,6 +27,9 @@ An informal introduction to the way of the IETF.
 ## Resources for participants
 [On Consensus and Humming in the IETF [RFC 7282]](https://www.rfc-editor.org/rfc/rfc7282.html)
 This document explains some the IETF's long history and features of rough consensus in decision making, as well as what is not rough consensus, and the things we can do in order to really achieve rough consensus.
+
+[IETF Ombudsteam](https://www.ietf.org/contact/ombudsteam/)
+The IETF Ombudsteam allows you to confidentially report and raise concerns about harassment and other conduct within the IETF.
 
 [Internet-Draft Authors Resources](https://authors.ietf.org)
 The central place for resources, templates, tools, and guides for anyone authoring and Internet-Draft.
