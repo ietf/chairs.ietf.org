@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2022-05-10T15:45:18.293Z
+date: 2022-05-11T00:48:46.997Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -33,7 +33,7 @@ In summary:
 5) If the Area Directors approve step 4), the WG chairs request IANA to make an early allocation.
 
 ## Editors
-Working Group chairs often appoint document editors who are not involved directly in the topic a document addresses to help distribute work (e.g. allowing chairs to focus on chairing the working group) and avoid conflicts when decisions need to be taken. 
+Working Group chairs often appoint document editors[document-editor](/documents/document-editor) who are not involved directly in the topic a document addresses to help distribute work (e.g. allowing chairs to focus on chairing the working group) and avoid conflicts when decisions need to be taken. 
 
 ## Shepherds
 
