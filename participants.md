@@ -2,7 +2,7 @@
 title: Supporting participants
 description: Resources for working group participants, especially those new to the IETF, may find useful
 published: true
-date: 2022-05-11T00:41:10.315Z
+date: 2022-05-11T00:43:47.237Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T16:06:15.787Z
@@ -20,6 +20,9 @@ A playlist on the IETF YouTube channel of short videos introducing the IETF.
 
 [IETF Guides Program](https://www.ietf.org/about/participate/guides/)
 the IETF Guides program match new and experienced IETF participants.
+
+[Tao of the IETF](https://www.ietf.org/tao.html)
+An informal introduction to the way of the IETF.
 
 ## Resources for participants
 [On Consensus and Humming in the IETF [RFC 7282]](https://www.rfc-editor.org/rfc/rfc7282.html)
