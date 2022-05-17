@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2022-03-02T19:48:14.096Z
+date: 2022-05-17T22:06:59.925Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -34,7 +34,7 @@ Beyond discussion of relevant topics and documents relevant to a particular work
 - Share meeting notes
 
 ## List management
-There are 
+There are several references to 
 
 ### Moderation
 The IESG has provided [guidance on moderating IETF WG mailing lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/).
@@ -44,5 +44,6 @@ The IESG has provided [guidance on moderating IETF WG mailing lists](https://www
 ### Dealing with disruptive posting
 
 ### Updating email addresses
+The email address used to subscribe to IETF mailing lists may be updated globally for all email addresses following the 
 
 
