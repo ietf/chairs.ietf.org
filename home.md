@@ -1,8 +1,8 @@
 ---
 title: Home
-description: Home
+description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2022-05-19T15:58:29.040Z
+date: 2022-05-19T16:06:11.141Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
