@@ -2,16 +2,16 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2022-05-17T22:06:59.925Z
+date: 2022-05-19T19:19:16.144Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
 ---
 
-> This page is extremely skeletal and requires further updating. It should not be used as a reference. *20 December 2021*
+> This page is requires further information. Suggestions about content via [the GitHub repository](https://www.github.com/ietf/chairs.ietf.org) is particularly welcome.
 {.is-warning}
 
-IETF mailing lists are the primary discussion forums for IETF Working Groups. While groups may also use in-person or online meetings, and platforms such as Github to raise, suggest or discuss issues initially, these should be brought to the WG mailing list so that a group position can be determined.
+IETF mailing lists are the primary discussion forums for IETF Working Groups. While groups may also use in-person or online meetings, and platforms such as GitHub to raise, suggest or discuss issues initially, these should be brought to the WG mailing list so that a group position can be determined.
 
 IETF Working Group lists are generally open to anyone with an email address.
 
@@ -34,16 +34,18 @@ Beyond discussion of relevant topics and documents relevant to a particular work
 - Share meeting notes
 
 ## List management
-There are several references to 
+Further information about WG list management is needed.
 
 ### Moderation
 The IESG has provided [guidance on moderating IETF WG mailing lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/).
 
 ### Managing subscribers
+Further information about managing WG list subscribers is needed.
 
 ### Dealing with disruptive posting
+Further information about dealing with disruptive posting is needed.
 
 ### Updating email addresses
-The email address used to subscribe to IETF mailing lists may be updated globally for all email addresses following the 
+The email address used to subscribe to IETF mailing lists may be [updated globally](https://www.ietf.org/how/lists/) for all email addresses.
 
 
