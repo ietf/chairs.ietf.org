@@ -2,21 +2,16 @@
 title: Home
 description: Home
 published: true
-date: 2022-05-11T17:54:36.703Z
+date: 2022-05-19T15:56:37.496Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-11T01:09:46.017Z
 ---
 
-Welcome to a resource site for IETF working group chairs and others providing leadership and support for IETF Working Groups (WGs), and [IRTF](https://www.irtf.org) Research Groups.	It provides information about:
+Welcome to a resource site for chairs and others providing leadership and support for [IETF Working Groups](https://datatracker.ietf.org/wg/) (WGs) and [IRTF](https://www.irtf.org) [Research Groups](https://irtf.org/groups).	It provides information about [managing mailing lists](/mailing-lists), [managing documents](/documents), [organizing meetings](/meetings), and [supporting participants](/participants). General information and resources are provided on this page, with information specific to key WG chair tasks grouped and available via the items in the menu to the left.
 
-* [Managing mailing lists](/mailing-lists)
-* [Managing documents](/documents)
-* [Organizing meetings](/meetings)
-* [Supporting participants](/participants)
-
-> ** NOTE: As of May 2022, this site is still in development construction and will be evolving over the next several months. Make suggestions by sending email to [support@ietf.org](mailto:support@ietf.org) or via the [GitHub repository](https://github.com/ietf/chairs.ietf.org)**
-{.is-warning}
+> NOTE: Issues and suggestions can be made via the [GitHub repository](https://github.com/ietf/chairs.ietf.org), or by sending email to [support@ietf.org](mailto:support@ietf.org)
+{.is-info}
 
 ## General resources
 This section provides general information about IETF WG and the WG chair role.
