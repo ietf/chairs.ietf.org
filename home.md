@@ -15,7 +15,7 @@ Welcome to a resource site for IETF working group chairs and others providing le
 * [Organizing meetings](/meetings)
 * [Supporting participants](/participants)
 
-> ** NOTE: As of May 2022, this site is still in development construction and will be evolving over the next several months. Make suggestions by sending email to [support@ietf.org](mailto:support@ietf.org) or via the [GitHub repository](https://github.com/ietf-chairs/chairs.ietf.org)**
+> ** NOTE: As of May 2022, this site is still in development construction and will be evolving over the next several months. Make suggestions by sending email to [support@ietf.org](mailto:support@ietf.org) or via the [GitHub repository](https://github.com/ietf/chairs.ietf.org)**
 {.is-warning}
 
 ## General resources
