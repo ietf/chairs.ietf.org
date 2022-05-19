@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2022-05-19T16:18:17.343Z
+date: 2022-05-19T16:18:55.444Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T13:23:47.661Z
@@ -13,7 +13,7 @@ This [GitHub repository](https://github.com/ietf/chairs.ietf.org) is the content
 
 * Synchronisation and change control:
     * Synchronisation between this repository and the site is bi-directional and triggered every 5 minutes.
-    * All regular edits should be made via  that will then be pushed to this repository.
+    * All suggestions or regular edits of content should be made via Github using pull requests
 * Content conventions:
     * Internet-Drafts are referred to as 'Internet-Drafts' or 'I-Ds', never 'drafts'
     * Internal page links use the full title of the page, not any other text.
