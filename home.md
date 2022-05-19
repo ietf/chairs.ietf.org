@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2022-05-19T18:44:06.132Z
+date: 2022-05-19T19:11:11.140Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
@@ -64,9 +64,7 @@ These pages provide information, tools, and resources related to common IETF WG 
 - [Managing mailing lists](mailing-lists)
 - [Organizing WG meetings](meetings)
 - [Managing WG documents](/documents)
-
-[IESG statement on moderating mailing Lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/)
-
+- [Supporting participants](/participants)
 
 ## Chair training courses
 These IETF Working Group Chairs training courses aim to help new and experienced chairs develop and enhance skills that are important to effectively manage working group discussions.
