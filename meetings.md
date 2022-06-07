@@ -49,6 +49,10 @@ This document provides suggestions about the form and content of Working Group a
 - Meeting agenda template ([MD](https://chairs.ietf.org/en/wg-meeting-agenda-template))
 - Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
 
+**Slide template (includes Note Well)** ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
+
+**Tips for presenters - Tutorial** ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
+
 ## Meeting participation and chairing technology guides
 The following information and guides are usually reviewed and updated as needed before each [IETF meeting](https://www.ietf.org/how/meetings/).
 
@@ -62,10 +66,6 @@ Information and actions for participants to review in advance of joining and IET
 
 **[IETF Meetecho documentation](https://www.ietf.org/media/documents/IETF-Meetecho-Documentation.pdf)**
 Details about using Meetecho as a session chair or participant.
-
-## Presentation templates and guides
-Slide template (includes Note Well) ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
-Tips for presenters - Tutorial ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
 
 ## Following up
 **[Submitting meeting materials](meeting-materials)**
