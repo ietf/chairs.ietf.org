@@ -18,4 +18,4 @@ It is safe to perform any action as the production database will not be affected
 
 You can find this test instance at http://sandbox.ietf.org.
 
-You can inspect any mail this instance sends by looking at this [archive for the sandbox-mailoutput list](https://mailarchive.ietf.org/arch/search/?email_list=sandbox-mailoutput.).
+You can inspect any mail this instance sends by looking at this [archive for the sandbox-mailoutput list](https://mailarchive.ietf.org/arch/search/?email_list=sandbox-mailoutput).
