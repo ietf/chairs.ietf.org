@@ -2,14 +2,14 @@
 title: Meeting materials
 description: IETF meeting materials include agendas, minutes, and presentation slides. Meeting materials may be submitted by using the The IETF Meeting Materials Management Tool, or by email to the Secretariat.
 published: true
-date: 2021-12-17T17:41:30.456Z
+date: 2022-07-23T23:48:10.285Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T17:41:30.456Z
 ---
 
 # Submitting Agendas
-For the convenience of meeting attendees, please submit the agendas for your working group sessions as early as possible, but by no later than 12:00 ET (17:00 GMT) on the Monday of the week preceding the IETF Meeting. If you prefer to submit your agenda via e-mail rather than using the [IETF Datatracker](httsp://datatracker.ietf.org), then please send it to agenda@ietf.org.
+For the convenience of meeting attendees, please submit the agendas for your working group sessions as early as possible, but by no later than 12:00 ET (17:00 GMT) on the Monday of the week preceding the IETF Meeting. If you prefer to submit your agenda via e-mail rather than using the [IETF Datatracker](https://datatracker.ietf.org), then please send it to agenda@ietf.org.
 
 # Submitting Minutes and Presentation Slides
 Please submit your minutes and presentation slides for inclusion in the IETF meeting proceedings by no later than four weeks from the Friday of the meeting week at 17:00 ET (21:00 GMT). If you prefer to submit your minutes and presentation slides via e-mail rather than using the datatracker
