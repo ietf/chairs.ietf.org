@@ -2,7 +2,7 @@
 title: Scheduling virtual interim meetings
 description: A step-by-step guide to scheduling virtual interim working group meetings. 
 published: true
-date: 2022-07-26T19:59:53.395Z
+date: 2022-07-26T20:00:17.603Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T15:02:53.271Z
@@ -17,7 +17,7 @@ Any conferencing platform may be chosen by chairs for a virtual interim meeting.
 1. Ensure you are logged into the IETF Datatracker as a WG Chair or WG Secretary.
 2. Open the [Datatracker session request form](https://datatracker.ietf.org/meeting/interim/request/).
 3. Complete the form, noting that the default value for "Remote participation" is set to "Automatically create Meetecho conference".
-4. When complete, press the submit button on the IETF Datatracker sesion request form.
+4. When complete, press the submit button on the IETF Datatracker session request form.
 5. Navigate to the [Interim Meetings to be Announced tab](https://datatracker.ietf.org/meeting/interim/announce) in the IETF Datatracker and copy the session name (e.g. interim-2021-wgname-01)
 7. Then in the Meetecho session request form, enter in the session name assigned from the IETF Datatracker (e.g. interim-2021-wgname-01) into the `SESSION` field, and complete the rest of the Meetecho form (e.g. start date and time, as well as the duration).
 > If you have completed the the steps for using Meetecho, you may skip to section 4. below.
