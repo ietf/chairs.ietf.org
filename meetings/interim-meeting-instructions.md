@@ -2,7 +2,7 @@
 title: Scheduling virtual interim meetings
 description: A step-by-step guide to scheduling virtual interim working group meetings. 
 published: true
-date: 2022-02-10T23:18:14.793Z
+date: 2022-07-26T19:55:59.286Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T15:02:53.271Z
@@ -12,14 +12,11 @@ dateCreated: 2021-12-17T15:02:53.271Z
 1. Working Group chairs should discuss plans for scheduling virtual interim meetings with Area Directors, including any considerations for not conflicting with Internet Engineering Steering Group (IESG) meetings and avoiding periods around IETF meetings during which the IESG has determined interim meetings should not be held.
 2. Meetings must be scheduled so that they provide fair access for all working group participants (and are announced at least one week—and preferably two weeks—in advance).
 # Choosing the conferencing platform
-Any conferencing platform may be chosen by chairs for a virtual interim meeting. The IETF provides support for both Webex and Meetecho, with instructions provided below. If another platform (such as Jitsi, Google Meet, or Zoom) is chosen, please skip to the “Adding the meeting to  the IETF Datatracker” section of this document.
+Any conferencing platform may be chosen by chairs for a virtual interim meeting. The IETF provides support for both Meetecho and Webexm with instructions provided below. If another platform (such as Jitsi, Google Meet, or Zoom) is chosen, please skip to the “Adding the meeting to  the IETF Datatracker” section of this document.
 ## Using Meetecho
-> During these steps, be sure to leave open both the browser windows for the IETF Datatracker and Meetecho.
-{.is-success}
 1. Ensure you are logged into the IETF Datatracker as a WG Chair or WG Secretary.
-2. Open the [Meetecho session request form](https://gce.conf.meetecho.com/admin-ietf/) in a new web browser window (keeping the IETF Datatracker window open) and press the green “plus” icon next to the working group acronym.
-3. Copy the URL in the Meetecho Link field, which will be used in the IETF Datatracker session request form’s `Remote Instructions` field. 
-4. In a separate web browser window (keeping the Meetecho webpage open), use the [IETF Datatracker session request form](https://datatracker.ietf.org/meeting/interim/request), and enter the requested information, including the URL from Meetecho in the `Remote Instructions` field.
+2. Open the [Meetecho session request form](https://gce.conf.meetecho.com/admin-ietf/).
+3. Complete the form, noting that the default value for "Remote participation" is set to "Meetecho".
 5. When complete, press the submit button on the IETF Datatracker sesion request form.
 6. Navigate to the [Interim Meetings to be Announced tab](https://datatracker.ietf.org/meeting/interim/announce) in the IETF Datatracker and copy the session name (e.g. interim-2021-wgname-01)
 7. Then in the Meetecho session request form, enter in the session name assigned from the IETF Datatracker (e.g. interim-2021-wgname-01) into the `SESSION` field, and complete the rest of the Meetecho form (e.g. start date and time, as well as the duration).
