@@ -2,7 +2,7 @@
 title: Scheduling virtual interim meetings
 description: A step-by-step guide to scheduling virtual interim working group meetings. 
 published: true
-date: 2022-07-26T20:00:44.428Z
+date: 2022-07-26T20:01:47.508Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T15:02:53.271Z
