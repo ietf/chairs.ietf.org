@@ -2,7 +2,7 @@
 title: Promoting contribution
 description: Encouraging input from meeting participants and ensuring all viewpoints are heard.
 published: true
-date: 2022-08-08T23:12:14.027Z
+date: 2022-08-08T23:12:33.457Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-15T16:35:27.373Z
