@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2022-08-12T14:53:28.614Z
+date: 2022-08-12T14:58:11.452Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -10,7 +10,7 @@ dateCreated: 2021-12-14T18:15:39.427Z
 
 # WG document lifecycle
 An extended description of the [working group document lifecycle](/documents/lifecycle)
-provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
+provides an overview of the various stages of an Internet-Draft (I-D) document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 
 # Roles in managing documents
 This section describes the roles various individuals have in the document lifecycle process within the IETF.
@@ -51,13 +51,13 @@ This site is the central resource site for authors of an I-D, with information o
 
 # Templates
 
-**Document shepherd write-up template**
-The IESG has developed and approved a template for document shepherd writeups for Internet-Drafts. This may be used for both working group and individual submissions I-Ds.
+**Document shepherd write-up templates**
+The IESG has developed and approved templates for document shepherd writeups for Internet-Drafts depending on the time of submissions:
 
-- [Q&A style document shepherd indivudual submission writeup](https://datatracker.ietf.org/doc/shepherdwriteup-template/individual).
+- [Q&A style document shepherd writeup template for indivudual submission I-Ds](https://datatracker.ietf.org/doc/shepherdwriteup-template/individual).
 This template may be used for the Document Shepherd Write-Ups of Individual submission I-Ds.
 
-- [Q&A style document shepherd writeup](https://datatracker.ietf.org/doc/shepherdwriteup-template/workinggroup).
+- [Q&A style document shepherd writeup template for working group submissions](https://datatracker.ietf.org/doc/shepherdwriteup-template/workinggroup).
 This template may be used for the Document Shepherd Write-Ups of working group I-Ds.
 
 # IETF Datatracker tools
