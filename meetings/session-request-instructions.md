@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-12-17T15:26:25.931Z
 ---
 
-The Session Request Tool may be used by IETF working group chairs, working group secretaries, IRTF research group chairs, IAB Group Chairs, Area Directors, IETF Secretariat members, Team Chairs, and the IRTF Chair to request sessions at upcoming IETF Meetings.
+The [Session Request Tool](https://datatracker.ietf.org/secr/sreq/) may be used by IETF working group chairs, working group secretaries, IRTF research group chairs, IAB Group Chairs, Area Directors, IETF Secretariat members, Team Chairs, and the IRTF Chair to request sessions at upcoming IETF Meetings.
 
 # Login
 Use the same login information as for the IETF Meeting Materials Management tool.
