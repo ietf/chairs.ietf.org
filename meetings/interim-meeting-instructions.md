@@ -2,7 +2,7 @@
 title: Scheduling virtual interim meetings
 description: A step-by-step guide to scheduling virtual interim working group meetings. 
 published: true
-date: 2022-08-03T17:08:41.066Z
+date: 2022-09-23T15:53:02.843Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-17T15:02:53.271Z
@@ -12,7 +12,7 @@ dateCreated: 2021-12-17T15:02:53.271Z
 1. Working Group chairs should discuss plans for scheduling virtual interim meetings with Area Directors, including any considerations for not conflicting with Internet Engineering Steering Group (IESG) meetings and avoiding periods around IETF meetings during which the IESG has determined interim meetings should not be held.
 2. Meetings must be scheduled so that they provide fair access for all working group participants (and are announced at least one week—and preferably two weeks—in advance).
 # Choosing the conferencing platform
-Any conferencing platform may be chosen by chairs for a virtual interim meeting. The IETF provides support for both Meetecho and Webexm with instructions provided below. If another platform (such as Jitsi, Google Meet, or Zoom) is chosen, please skip to the “Adding the meeting to  the IETF Datatracker” section of this document.
+Any conferencing platform may be chosen by chairs for a virtual interim meeting. The IETF provides support for both Meetecho and Webex with instructions provided below. If another platform (such as Jitsi, Google Meet, or Zoom) is chosen, please skip to the “Adding the meeting to  the IETF Datatracker” section of this document.
 ## Using Meetecho
 1. Ensure you are logged into the IETF Datatracker as a WG Chair or WG Secretary.
 2. Open the [Datatracker session request form](https://datatracker.ietf.org/meeting/interim/request/).
