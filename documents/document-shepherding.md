@@ -2,7 +2,7 @@
 title: Document shepherding
 description: A short informal description of how shepherds help documents progress through the working group process.
 published: true
-date: 2022-08-12T15:14:33.940Z
+date: 2022-09-29T10:55:24.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T14:28:44.149Z
@@ -14,6 +14,7 @@ Someone—sometimes a Working Group Chair or Secretary but often another designa
 More detail about the document shepherding process can be found in:
 * [RFC 4858](https://www.rfc-editor.org/rfc/rfc4858.html)
 * [A description of the document lifecyle](/documents/lifecycle)
+* [IESG Statement on Document Shepherds](https://www.ietf.org/about/groups/iesg/statements/document-shepherds/)
 
 ## Document shepherd writeup
 
