@@ -2,7 +2,7 @@
 title: Quick Guide: Reporting a bug in the IETF Datatracker
 description: A step-by-step guide to filing a bug in the IETF Datatracker.
 published: true
-date: 2022-10-14T13:37:36.643Z
+date: 2022-10-14T13:38:07.594Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T13:30:14.624Z
@@ -10,7 +10,7 @@ dateCreated: 2022-10-14T13:30:14.624Z
 
 0. Log into the [IETF Datatracker](https://datatracker.ietf.org) and select "Report a Bug" under the "Other" tab or at the "GitHub" bottom at every page. (You may also file an issue via email using the link at the bottom of a page.)
 
-
+![screen_shot_2022-10-14_at_09.31.37.png](/screen_shot_2022-10-14_at_09.31.37.png)
 
 1. You will be directed to the [GitHub webpage](https://github.com/ietf-tools/datatracker/issues/new/choose) where you can file an issue for the Datatracker project.
 
