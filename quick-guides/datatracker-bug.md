@@ -2,7 +2,7 @@
 title: Quick Guide: Reporting a bug in the IETF Datatracker
 description: A step-by-step guide to filing a bug in the IETF Datatracker.
 published: true
-date: 2022-10-14T13:38:07.594Z
+date: 2022-10-14T18:59:31.452Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T13:30:14.624Z
@@ -16,7 +16,7 @@ dateCreated: 2022-10-14T13:30:14.624Z
 
 2. Select the "Get Started" button next to the "Report a Bug" section.
 
-3. Fill ou thte issue form.
+3. Fill out the issue form.
 
 4. Accept the [BCP 79](https://www.rfc-editor.org/rfc/rfc8179.html) checkbox ("I agree to follow the IETF's Code of Conduct")
 
