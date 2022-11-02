@@ -2,16 +2,16 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-11-02T21:48:30.548Z
+date: 2022-11-02T21:53:06.064Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
 ---
 
-# 2022 Training
-As the chair or other leader of an IETF Working Group or IRTF Research Group, you are eligible for optional leadership training. The training has been created in consultation with the Internet Engineering Steering Group (IESG), and updated based on feedback received from the training conducted last year.
+# 2022 IETF Chairs Training
+As a chair or other leader of an IETF Working Group or IRTF Research Group, you are eligible for optional leadership training. The training has been created in consultation with the Internet Engineering Steering Group (IESG), and updated based on feedback received from the chair training sessions conducted last year.
 
-Two editions of three live training classes will be held to accommodate participants in different timezones. You only need to participate in one edition of any class, and you do not need to participate in all classes. Registration is open until Tuesday, 22 November.
+Three live training classes will be held offered twice each to accommodate participants in different timezones. You only need to participate in one session of any class, and you do not need to participate in all classes. Registration is open until Tuesday, 22 November; please register for only one session of each class in which you wish to participate.
 
 On-demand videos and downloadable materials for each class will be available following the live programs.
 
@@ -24,16 +24,13 @@ Encouraging input from meeting participants and ensuring all viewpoints are hear
 
 ### Resolving Conflict
 Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
-+ [7 December 2022 at 1500 UTC]() or 
-+ [7 December 2022 at 2100 UTC]()
++ [7 December 2022 at 1500 UTC](https://ietf.zoom.us/meeting/register/tZMof-CvrDMpHdzR7qJXOM40qLS1q8unobC1) or 
++ [7 December 2022 at 2100 UTC](https://ietf.zoom.us/meeting/register/tZcvdeChqzojGdOvDskbdXxAPZJ5PjLqAP0E)
 
 ### Building Consensus
 Arriving at solutions supported by the group, even when they are not in full agreement. Register for:
-+ [14 December 2022 at 1500 UTC]() or 
-+ [14 December 2022 at 2100 UTC]()
-
-
-
++ [14 December 2022 at 1500 UTC](https://ietf.zoom.us/meeting/register/tZYqcuuvrz8uE9UPlyqW-MjHuL8w34c0YxoE) or 
++ [14 December 2022 at 2100 UTC](https://ietf.zoom.us/meeting/register/tZEldOyhrD4rH9UPSDD1LgFolFmVnfUDj5j8)
 
 # Previous Training
 
