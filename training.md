@@ -2,11 +2,41 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-10-14T19:47:03.529Z
+date: 2022-11-02T21:48:30.548Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
 ---
+
+# 2022 Training
+As the chair or other leader of an IETF Working Group or IRTF Research Group, you are eligible for optional leadership training. The training has been created in consultation with the Internet Engineering Steering Group (IESG), and updated based on feedback received from the training conducted last year.
+
+Two editions of three live training classes will be held to accommodate participants in different timezones. You only need to participate in one edition of any class, and you do not need to participate in all classes. Registration is open until Tuesday, 22 November.
+
+On-demand videos and downloadable materials for each class will be available following the live programs.
+
+The classes are:
+
+### Promoting Contribution
+Encouraging input from meeting participants and ensuring all viewpoints are heard. Register for:
++ [30 November 2022 at 1500 UTC]( https://ietf.zoom.us/meeting/register/tZYtcuuorTkjG9NzKLG9uCSqRdsskU-2B9ht) or
++ [30 November at 2100 UTC](https://ietf.zoom.us/meeting/register/tZEldOyhrD4rH9UPSDD1LgFolFmVnfUDj5j8)
+
+### Resolving Conflict
+Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
++ [7 December 2022 at 1500 UTC]() or 
++ [7 December 2022 at 2100 UTC]()
+
+### Building Consensus
+Arriving at solutions supported by the group, even when they are not in full agreement. Register for:
++ [14 December 2022 at 1500 UTC]() or 
++ [14 December 2022 at 2100 UTC]()
+
+
+
+
+# Previous Training
+
 
 ## Promoting contribution
 Encouraging input from meeting participants and ensuring all viewpoints are heard.
