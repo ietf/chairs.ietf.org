@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-11-04T18:37:39.667Z
+date: 2022-11-04T18:37:53.764Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -22,7 +22,7 @@ Three live training classes will be offered twice each to accommodate participan
 ### Promoting Contribution
 Encouraging input from participants and ensuring all viewpoints are heard. Register for:
 + [30 November 2022 at 1500 UTC]( https://ietf.zoom.us/meeting/register/tZYtcuuorTkjG9NzKLG9uCSqRdsskU-2B9ht) or
-+ [30 November 2022 at 2100 UTC](https://ietf.zoom.us/meeting/register/tZEldOyhrD4rH9UPSDD1LgFolFmVnfUDj5j8)
++ [30 November 2022 at 2100 UTC](https://ietf.zoom.us/meeting/register/tZMkdu6vrDsvE9FJI3C7eDK_-5EKM76S3qWM)
 
 ### Resolving Conflict
 Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
