@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-11-04T18:40:19.256Z
+date: 2022-11-28T21:20:01.657Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -13,7 +13,7 @@ As a chair or other leader of an IETF Working Group or IRTF Research Group, you 
 
 Three live training classes will be offered twice each to accommodate participants in different timezones. You only need to participate in one session of any class, and you do not need to participate in all classes. Each class session is scheduled for 1 hour.
 
-> Registration is open until Tuesday, 22 November
+> Registration is open until Tuesday, 29 November
 {.is-info}
 
 
