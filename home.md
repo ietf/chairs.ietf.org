@@ -2,8 +2,8 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2022-05-19T19:11:11.140Z
-tags:
+date: 2022-11-28T21:22:06.063Z
+tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
 ---
@@ -12,6 +12,9 @@ Welcome to a resource site for chairs and others providing leadership and suppor
 
 > NOTE: Issues and suggestions can be made via the [GitHub repository](https://github.com/ietf/chairs.ietf.org), or by sending email to [support@ietf.org](mailto:support@ietf.org)
 {.is-info}
+
+> **Learn skills to make your working group more productive**: sign up today for [free IETF chairs training courses](/training) through 13 December
+{.is-success}
 
 ## General resources
 This section provides general information about IETF WG and the WG chair role.
