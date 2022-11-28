@@ -2,7 +2,7 @@
 title: Information for chairing WG & BOF sessions
 description: This page provides a guide to chairing IETF Working Group or Birds-of-a-Feather sessions.
 published: true
-date: 2021-12-21T01:18:30.229Z
+date: 2022-11-28T21:00:53.129Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-21T01:18:30.229Z
@@ -50,8 +50,8 @@ Please encourage all presenters to upload meeting slides to the IETF Datatracker
 
 For materials you do not receive prior to the meeting, please take a few minutes to upload them at the very start of the meeting. This is particularly helpful to remote participants since while they can follow the discussion via the Jabber room and audio stream, they cannot view meeting slides unless those slides have been uploaded. 
 
-## Jabber 
-At the start of the meeting, please ask if someone in the room is willing to act as "scribe" for the Jabber room. 
+## Zulip
+At the start of the meeting, please ask if someone in the room is willing to act as "scribe" for the Zulip stream. 
 
 The scribe should then join the conference room, and type a running commentary as to what's going on in the room (e.g. if a speaker makes a presentation, the scribe types the URL for the presentation into the Jabber room). 
 
