@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-12-05T15:17:17.610Z
+date: 2022-12-05T15:27:45.570Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -21,7 +21,7 @@ Three live training classes will be offered twice each to accommodate participan
 
 ### Promoting Contribution
 Encouraging input from participants and ensuring all viewpoints are heard. Live training held 30 November 2022.
-+ [Promoting Contribution Video Recording]()
++ [Promoting Contribution Video Recording](https://youtu.be/9ddD6ltSdqg)
 + [Promoting Contribution Slides](https://drive.google.com/file/d/1a6_HJsbY3h5Ja1Dr4IIL4IEgG-zI6EC5/view?usp=sharing)
 
 ### Resolving Conflict
