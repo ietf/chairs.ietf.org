@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-12-05T15:28:05.260Z
+date: 2022-12-07T15:47:15.168Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -24,10 +24,18 @@ Acknowledging differing views and managing differing perspectives when alignment
 + [7 December 2022 at 1500 UTC](https://ietf.zoom.us/meeting/register/tZMof-CvrDMpHdzR7qJXOM40qLS1q8unobC1) or 
 + [7 December 2022 at 2100 UTC](https://ietf.zoom.us/meeting/register/tZcvdeChqzojGdOvDskbdXxAPZJ5PjLqAP0E)
 
+**Other resources**
+(to be posted after the class sessions conclude)
+- IETF guidance on resolving conflict
+- Scholarly sources about conflict
+
 ### Building Consensus
 Arriving at solutions supported by the group, even when they are not in full agreement. Register for:
 + [14 December 2022 at 1500 UTC](https://ietf.zoom.us/meeting/register/tZYqcuuvrz8uE9UPlyqW-MjHuL8w34c0YxoE) or 
 + [14 December 2022 at 2100 UTC](https://ietf.zoom.us/meeting/register/tZEldOyhrD4rH9UPSDD1LgFolFmVnfUDj5j8)
+
+**Other resources**
+(to be posted after the class sessions conclude)
 
 On-demand videos and downloadable materials for each class offered in 2022 will be available following the live programs.
 
@@ -35,6 +43,9 @@ On-demand videos and downloadable materials for each class offered in 2022 will 
 Encouraging input from participants and ensuring all viewpoints are heard. Live training held 30 November 2022.
 + [Promoting Contribution Video Recording](https://youtu.be/9ddD6ltSdqg)
 + [Promoting Contribution Slides](https://drive.google.com/file/d/1a6_HJsbY3h5Ja1Dr4IIL4IEgG-zI6EC5/view?usp=sharing)
+
+**Other resources**
+
 
 # Previous Training
 
