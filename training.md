@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-12-07T15:47:15.168Z
+date: 2022-12-13T16:14:31.674Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -18,16 +18,6 @@ Three live training classes will be offered twice each to accommodate participan
 
 
 *Please register for only one session of each class in which you wish to participate.*
-
-### Resolving Conflict
-Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
-+ [7 December 2022 at 1500 UTC](https://ietf.zoom.us/meeting/register/tZMof-CvrDMpHdzR7qJXOM40qLS1q8unobC1) or 
-+ [7 December 2022 at 2100 UTC](https://ietf.zoom.us/meeting/register/tZcvdeChqzojGdOvDskbdXxAPZJ5PjLqAP0E)
-
-**Other resources**
-(to be posted after the class sessions conclude)
-- IETF guidance on resolving conflict
-- Scholarly sources about conflict
 
 ### Building Consensus
 Arriving at solutions supported by the group, even when they are not in full agreement. Register for:
@@ -45,6 +35,17 @@ Encouraging input from participants and ensuring all viewpoints are heard. Live 
 + [Promoting Contribution Slides](https://drive.google.com/file/d/1a6_HJsbY3h5Ja1Dr4IIL4IEgG-zI6EC5/view?usp=sharing)
 
 **Other resources**
+
+### Resolving Conflict
+Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
++ [Resolving Conflict Video Recording] 
++ [Resoloving Conflict Slides]
+
+**Other resources**
+(to be posted after the class sessions conclude)
+- IETF guidance on resolving conflict
+- Scholarly sources about conflict
+
 
 
 # Previous Training
