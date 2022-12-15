@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-12-15T16:43:38.442Z
+date: 2022-12-15T16:44:49.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -17,14 +17,14 @@ Encouraging input from participants and ensuring all viewpoints are heard. Live 
 + [Promoting Contribution Video Recording](https://youtu.be/9ddD6ltSdqg)
 + [Promoting Contribution Slides](https://drive.google.com/file/d/1a6_HJsbY3h5Ja1Dr4IIL4IEgG-zI6EC5/view?usp=sharing)
 
-**Other resources**
+**More resources for Promoting Contribution*
 
 ### Resolving Conflict
 Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
 + [Resolving Conflict Video Recording] 
 + [Resolving Conflict Slides]
 
-**Other resources**
+**More resources for Resolving Conflict**
 (to be posted after the class sessions conclude)
 - IETF guidance on resolving conflict
 - Scholarly sources about conflict
@@ -34,7 +34,7 @@ Arriving at solutions supported by the group, even when they are not in full agr
 + [Building Consensus Video Recording] 
 + [Building Consensus Slides]
 
-**Other resources**
+**More resources for Building Consensus**
 (to be posted after the class sessions conclude)
 
 
