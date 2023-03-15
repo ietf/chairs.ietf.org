@@ -44,6 +44,6 @@ Please indicate in which time slot you would like to use by editing this page to
 | 15:30-15:45  |                        |                       |
 | 15:45-16:00  |                        |                       |
 | 16:00-16:15  |                        |                       |
-| 16:15-16:30  |                        |                       |
+| 16:15-16:30  | Marco Tiloca, Carsten Bormann, Jaime Jiménez                       |       CoRE                |
 | 16:30-16:45  |                        |                       |
 | 16:45-17:00  |                        |                       |
