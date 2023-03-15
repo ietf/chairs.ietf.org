@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2022-12-20T19:23:07.917Z
+date: 2023-03-15T21:42:03.355Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
@@ -23,7 +23,7 @@ This section provides general information about IETF WG and the WG chair role.
 These are the formally documented procedures for IETF working groups
 
 ### [WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
-Photos of all current IETF WG chairs. (If you are a WG chair and would like to add or update your photo, send email with an attachement to support@ietf.org)
+Photos of all current IETF WG chairs. (If you are a WG chair and would like to add or update your photo, send email with an attachment to support@ietf.org)
 
 ### [The Internet Standards Process (RFC 2026)](https://www.rfc-editor.org/rfc/rfc2026.html) 
 Published in 1996, this is the foundational document describing the IETF standards process. An [informal guide](https://www.ietf.org/standards/process/informal/) provides another view of various aspects of the Internet standards process.
