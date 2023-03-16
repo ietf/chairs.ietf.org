@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2023-03-16T14:27:30.255Z
+date: 2023-03-16T14:31:16.520Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -53,8 +53,9 @@ This document provides suggestions about the form and content of Working Group a
 
 **Tips for presenters - Tutorial** ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
 
-**Templates for presenters**
-Internet-Draft presentation ([PPTX](https://docs.google.com/presentation/d/1x-oFAwgoZ1cVoYKDktjLtbA3Z2yrsxmt/edit?usp=sharing&ouid=115667381203544462141&rtpof=true&sd=true) | [Google Slides](https://docs.google.com/presentation/d/1-msVgg-PlxS66hTbEv1hZAJLqAvDWYkAkd4_AFeXRhE/edit?usp=sharing) )
+**Template deck for presenters**
++ Internet-Draft presentation ([PPTX](https://docs.google.com/presentation/d/1x-oFAwgoZ1cVoYKDktjLtbA3Z2yrsxmt/edit?usp=sharing&ouid=115667381203544462141&rtpof=true&sd=true) | [Google Slides](https://docs.google.com/presentation/d/1-msVgg-PlxS66hTbEv1hZAJLqAvDWYkAkd4_AFeXRhE/edit?usp=sharing) )
+(courtesy of [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries))
 
 ## Meeting participation and chairing technology guides
 The following information and guides are usually reviewed and updated as needed before each [IETF meeting](https://www.ietf.org/how/meetings/).
