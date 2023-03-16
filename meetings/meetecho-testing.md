@@ -2,7 +2,7 @@
 title: Meetecho testing
 description: Information for testing Meetecho
 published: true
-date: 2023-03-16T01:11:43.689Z
+date: 2023-03-16T03:13:30.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T14:03:35.257Z
@@ -36,7 +36,7 @@ Please indicate in which time slot you would like to use by editing this page to
 | 13:30-13:45  |                        |                       |
 | 13:45-14:00  |                        |                       |
 | 14:00-14:15  |                        |                       |
-| 14:15-14:30  |                        |                       |
+| 14:15-14:30  | Dhruv Dhody            | PCE                      |
 | 14:30-14:45  |                        |                       |
 | 14:45-15:00  |                        |                       |
 | 15:00-15:15  |                        |                       |
