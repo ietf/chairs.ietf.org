@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2023-03-15T14:18:13.814Z
+date: 2023-03-16T14:27:30.255Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -52,6 +52,9 @@ This document provides suggestions about the form and content of Working Group a
 **Slide template (includes Note Well)** ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
 
 **Tips for presenters - Tutorial** ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
+
+**Templates for presenters**
+Internet-Draft presentation ([PPTX](https://docs.google.com/presentation/d/1x-oFAwgoZ1cVoYKDktjLtbA3Z2yrsxmt/edit?usp=sharing&ouid=115667381203544462141&rtpof=true&sd=true) | [Google Slides](https://docs.google.com/presentation/d/1-msVgg-PlxS66hTbEv1hZAJLqAvDWYkAkd4_AFeXRhE/edit?usp=sharing) )
 
 ## Meeting participation and chairing technology guides
 The following information and guides are usually reviewed and updated as needed before each [IETF meeting](https://www.ietf.org/how/meetings/).
