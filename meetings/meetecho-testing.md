@@ -2,7 +2,7 @@
 title: Meetecho testing
 description: Information for testing Meetecho
 published: true
-date: 2023-03-15T14:13:58.267Z
+date: 2023-03-16T01:11:43.689Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-15T14:03:35.257Z
@@ -44,6 +44,6 @@ Please indicate in which time slot you would like to use by editing this page to
 | 15:30-15:45  |                        |                       |
 | 15:45-16:00  |                        |                       |
 | 16:00-16:15  |                        |                       |
-| 16:15-16:30  | Marco Tiloca, Carsten Bormann, Jaime Jiménez                       |       CoRE                |
+| 16:15-16:30  | Marco Tiloca, Jaime Jiménez, Carsten Bormann                       |       CoRE                |
 | 16:30-16:45  |                        |                       |
 | 16:45-17:00  |                        |                       |
