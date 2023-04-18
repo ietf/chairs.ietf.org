@@ -67,8 +67,8 @@ Github is used by some IETF WGs. A [Github Use for Working Groups](github) is av
 These pages provide information, tools, and resources related to common IETF WG chair tasks:
 
 - [Managing mailing lists](mailing-lists)
-- [Organizing WG meetings](meetings)
-- [Managing WG documents](/documents)
+- [Managing documents](/documents)
+- [Organizing meetings](meetings)
 - [Supporting participants](/participants)
 
 ## Chair training courses
@@ -77,4 +77,4 @@ These IETF Working Group Chairs training courses aim to help new and experienced
 + [Managing meetings](/managing-meetings)
 + [Promoting contribution](/promoting-contribution)
 + [Resolving conflict](/resolving-conflict)
-+ [Building consensus](building-consensus)
++ [Building consensus](/building-consensus)
