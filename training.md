@@ -2,40 +2,31 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2022-12-20T19:48:53.446Z
+date: 2023-05-05T16:08:44.513Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
 ---
 
-# 2022 IETF Chairs Training
+# IETF Chairs Training
 
-Three live training classes were offered twice each to accommodate participants in different timezones. On-demand editions of on-demand versions of and downloadable materials for each class offered in 2022 are now being prepared.
+Based on live training classes were offered twice each to accommodate participants in different timezones. On-demand editions of on-demand versions of and downloadable materials for each class offered in 2022 are now being prepared.
 
 ### Promoting Contribution
-Encouraging input from participants and ensuring all viewpoints are heard. Live training held 30 November 2022.
+Encouraging input from participants and ensuring all viewpoints are heard.
++ [Promoting Contribution on-demand course](https://youtube.com/playlist?list=PLC86T-6ZTP5iTiMKBfWp_X7Gxd7FuIQc1) 
 + [Promoting Contribution Video Recording](https://youtu.be/9ddD6ltSdqg)
-+ [Promoting Contribution Slides](https://drive.google.com/file/d/1a6_HJsbY3h5Ja1Dr4IIL4IEgG-zI6EC5/view?usp=sharing)
-
-**More resources for Promoting Contribution*
 
 ### Resolving Conflict
-Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
+Acknowledging differing views and managing differing perspectives when alignment seems unlikely.
++ [Resolving conflict on-demand course](https://youtube.com/playlist?list=PLC86T-6ZTP5hAKaL-3tprs5hplKgnulGE)
 + [Resolving Conflict Video Recording](https://youtu.be/JY81vbrBk1Q)
-+ [Resolving Conflict Slides]
-
-**More resources for Resolving Conflict**
-(to be posted after the class sessions conclude)
-- IETF guidance on resolving conflict
-- Scholarly sources about conflict
 
 ### Building Consensus
-Arriving at solutions supported by the group, even when they are not in full agreement. Register for:
-+ [Building Consensus Video Recording](https://youtu.be/mN6SBrX9KjI) 
-+ [Building Consensus Slides]
+Arriving at solutions supported by the group, even when they are not in full agreement.
++ [Building Consensus on-demand course](https://youtube.com/playlist?list=PLC86T-6ZTP5jkLJomiSm4Qjn-TsPw782z)
++ [Building Consensus Video Recording](https://youtu.be/mN6SBrX9KjI)
 
-**More resources for Building Consensus**
-(to be posted after the class sessions conclude)
 
 
 # Previous Training
