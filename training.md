@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-05-05T16:09:23.751Z
+date: 2023-05-09T15:52:21.105Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -10,7 +10,7 @@ dateCreated: 2022-10-14T19:37:09.631Z
 
 # IETF Chairs Training
 
-Based on live training classes were offered twice each to accommodate participants in different timezones. On-demand editions of on-demand versions of and downloadable materials for each class offered in 2022 are now being prepared.
+Based on live training classes on-demand editions of each class offered in 2022 are now available:
 
 ### Promoting Contribution
 Encouraging input from participants and ensuring all viewpoints are heard.
@@ -26,8 +26,6 @@ Acknowledging differing views and managing differing perspectives when alignment
 Arriving at solutions supported by the group, even when they are not in full agreement.
 + [Building Consensus on-demand course](https://youtube.com/playlist?list=PLC86T-6ZTP5jkLJomiSm4Qjn-TsPw782z)
 + [Building Consensus Video Recording](https://youtu.be/mN6SBrX9KjI)
-
-
 
 # Previous Training
 
