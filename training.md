@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-05-09T15:52:21.105Z
+date: 2023-05-09T15:53:51.606Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -15,23 +15,22 @@ Based on live training classes on-demand editions of each class offered in 2022 
 ### Promoting Contribution
 Encouraging input from participants and ensuring all viewpoints are heard.
 + [Promoting Contribution on-demand course](https://youtube.com/playlist?list=PLC86T-6ZTP5iTiMKBfWp_X7Gxd7FuIQc1) 
-+ [Promoting Contribution Video Recording](https://youtu.be/9ddD6ltSdqg)
 
 ### Resolving Conflict
 Acknowledging differing views and managing differing perspectives when alignment seems unlikely.
 + [Resolving conflict on-demand course](https://youtube.com/playlist?list=PLC86T-6ZTP5hAKaL-3tprs5hplKgnulGE)
-+ [Resolving Conflict Video Recording](https://youtu.be/JY81vbrBk1Q)
 
 ### Building Consensus
 Arriving at solutions supported by the group, even when they are not in full agreement.
 + [Building Consensus on-demand course](https://youtube.com/playlist?list=PLC86T-6ZTP5jkLJomiSm4Qjn-TsPw782z)
-+ [Building Consensus Video Recording](https://youtu.be/mN6SBrX9KjI)
 
 # Previous Training
 
-
 ## Promoting contribution
 Encouraging input from meeting participants and ensuring all viewpoints are heard.
+
+### 2022 live class
++ [Promoting Contribution Video Recording](https://youtu.be/9ddD6ltSdqg)
 
 ### 2021 training courses
 **Developing and Communicating Meeting Norms**
@@ -46,6 +45,9 @@ Understand the volunteer leader role and helpful mindsets that create successful
 ## Resolving conflict
 Acknowledging differing views and dealing with differing  perspectives, even when alignment seems impossible.
 
+### 2022 live class
++ [Resolving Conflict Video Recording](https://youtu.be/JY81vbrBk1Q)
+
 ### 2021 training courses
 **Understanding and Achieving Functional Conflict**
 + [Video](https://youtu.be/j7oX5qWIyPk)
@@ -57,6 +59,9 @@ Acknowledging differing views and dealing with differing  perspectives, even whe
 
 ## Building consensus
 Arriving at solutions supported by the group, even when they are not in full agreement.
+
+### 2022 live class
++ [Building Consensus Video Recording](https://youtu.be/mN6SBrX9KjI)
 
 ### 2021 training courses
 **Building a Strong Community**
