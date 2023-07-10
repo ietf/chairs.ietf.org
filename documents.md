@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2022-08-12T16:41:36.425Z
+date: 2023-07-10T20:45:34.073Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -11,6 +11,10 @@ dateCreated: 2021-12-14T18:15:39.427Z
 # WG document lifecycle
 An extended description of the [working group document lifecycle](/documents/lifecycle)
 provides an overview of the various stages of an Internet-Draft (I-D) document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
+
+IETF Datatracker Quick Guides:
+- [Requesting directorate reviews](/documents/directorate-review)
+- [Requesting publication of an WG I-D](/documents/requesting-publication)
 
 # Roles in managing documents
 This section describes the roles various individuals have in the document lifecycle process within the IETF.
