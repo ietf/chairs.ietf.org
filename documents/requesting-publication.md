@@ -2,7 +2,7 @@
 title: Quick Guide: Requesting publication of a WG I-D
 description: How to requests publication of a Working Group Internet-Draft
 published: true
-date: 2023-07-10T20:36:46.560Z
+date: 2023-07-10T20:37:35.215Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:24:55.289Z
@@ -62,12 +62,4 @@ Review all information on the next page and click “send”
 - Click on the milestone you want to change and tick the “Resolved” box, then click “Review changes”
 - On the next page you can review your changes again before you save them. Don’t forget to click the save button! -> This will trigger a mail to the chairs, AD, and WGmailing list.
 
-And in only 10 steps (which may take multiple weeks) you have submitted your WG I-D to the IESG for publication! Read this IESG statement to understand what happens as the IESG considers the document.: 
-
-
-
-1. Click the "Request review" button.
-![screenshot_2023-03-07_at_17.25.34.png](/screenshot_2023-03-07_at_17.25.34.png)
-1. Select the Early review type and the team(s) you would like to request review from. 
-1. Specify a deadline and add any additional comments that might be of use to the reviewing team.
-![screenshot_2023-03-07_at_17.23.19.png](/screenshot_2023-03-07_at_17.23.19.png)
+And in only 10 steps (which may take multiple weeks) you have submitted your WG I-D to the IESG for publication! Read this [IESG statement to understand what happens as the IESG considers the document](https://www.ietf.org/about/groups/iesg/statements/handling-ballot-positions/).
