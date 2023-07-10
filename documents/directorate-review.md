@@ -2,11 +2,13 @@
 title: Quick Guide: Request a Directorate Review
 description: How to requests directorate reviews of Working Group documents.
 published: true
-date: 2023-03-07T22:27:47.621Z
+date: 2023-07-10T19:16:41.080Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T22:27:47.621Z
 ---
+
+This quick guide was created by [Marcus Ilhar](https://datatracker.ietf.org/person/marcus.ihlar@ericsson.com)
 
 Directorate reviews can be requested at any stage in the working group process. 
 
