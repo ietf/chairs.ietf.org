@@ -2,7 +2,7 @@
 title: Quick Guides
 description: Quick guides for common tasks for working group and chairs.
 published: true
-date: 2023-03-07T22:35:51.501Z
+date: 2023-07-10T19:58:18.504Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T13:19:06.055Z
@@ -10,6 +10,15 @@ dateCreated: 2022-10-14T13:19:06.055Z
 
 ## Quick Guides to IETF Datatracker tasks
 These quick guides aim to provide brief instructions about common tasks.
+
+If you are unsure about any action in the datatracker, try it in the [IETF Datatracker sandbox](https://sandbox.ietf.org). 
+
+> Actions on sandbox.ietf.org have *no effect* on the IETF Datatracker
+{.is-success}
+
+You can use any email address to see the view of someone’s IETF Datatracker account, with all their privileges.
+
+The password for every account on the IETF Datatracker sandbox is: password
 
 ### Managing mailing lists
 
