@@ -2,7 +2,7 @@
 title: Quick Guide: Requesting publication of a WG I-D
 description: How to requests publication of a Working Group Internet-Draft
 published: true
-date: 2023-07-10T20:37:35.215Z
+date: 2023-07-10T20:42:57.410Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:24:55.289Z
@@ -15,7 +15,7 @@ Before following this guide, login into IETF Datatracker and navigate to the mai
 0. Check that the “Intended RFC status” is set to the intended status as agreed by the working group and indicated in the I-D header.
 ![screenshot-intended-i-d-status-detail.png](/screenshot-intended-i-d-status-detail.png)
 1. Assign a [document shepherd](https://chairs.ietf.org/en/documents/document-shepherding) if one isn't already set.
-> Note: this can be done any time after the working group has adopted a document, so a shepherd may already be assigned),
+> Note: this can be done any time after the Working Group has adopted an I-D, so a shepherd may already be assigned),
 {.is-info}
 - Click on edit next to “Document shepherd”
 ![screenshot-intended-i-d-status.png](/screenshot-intended-i-d-status.png)
@@ -56,10 +56,12 @@ If the working group decided to not go ahead, (re-)set the “WG State” to “
 Review all information on the next page and click “send”
 -> This will trigger a mail to the AD, chairs, secretariat, shepherd, as well as WG mailing list.
 
+'10. If you have a milestone that indicates submission of this document to the IESG, mark the milestone as done. On the working group page, click on “Edit milestones”
 
+![screenshot_2023-07-10_at_16.40.26.png](/screenshot_2023-07-10_at_16.40.26.png)
 
-10. If you have a milestone that indicates submission of this document to the IESG, mark the milestone as done. On the working group page, click on “Edit milestones”
 - Click on the milestone you want to change and tick the “Resolved” box, then click “Review changes”
+![screenshot_2023-07-10_at_16.41.04.png](/screenshot_2023-07-10_at_16.41.04.png)
 - On the next page you can review your changes again before you save them. Don’t forget to click the save button! -> This will trigger a mail to the chairs, AD, and WGmailing list.
 
 And in only 10 steps (which may take multiple weeks) you have submitted your WG I-D to the IESG for publication! Read this [IESG statement to understand what happens as the IESG considers the document](https://www.ietf.org/about/groups/iesg/statements/handling-ballot-positions/).
