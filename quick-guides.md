@@ -2,7 +2,7 @@
 title: Quick Guides
 description: Quick guides for common tasks for working group and chairs.
 published: true
-date: 2023-07-10T20:34:54.270Z
+date: 2023-07-10T20:35:34.648Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T13:19:06.055Z
@@ -28,7 +28,7 @@ Tasks related to managing working group Internet-Drafts (I-Ds) or other docuemnt
 **Adopting a Document**
 
 **[Requesting a Directorate Review](/documents/directorate-review)**
-**[Submitting an I-D to the IESG for publication](/documents/requesting-publication)**
+**[Submitting a Working Group I-D to the IESG for publication](/documents/requesting-publication)**
 
 ### Organizing meetings
 
