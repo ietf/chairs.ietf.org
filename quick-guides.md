@@ -2,7 +2,7 @@
 title: Quick Guides
 description: Quick guides for common tasks for working group and chairs.
 published: true
-date: 2023-07-10T20:35:34.648Z
+date: 2023-07-10T20:36:04.153Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T13:19:06.055Z
