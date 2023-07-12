@@ -1,8 +1,8 @@
 ---
-title: Quick Guide: Requesting publication of a WG I-D
+title: Quick Guide: Initiating WGLC and requesting IESG publication
 description: How to requests publication of a Working Group Internet-Draft
 published: true
-date: 2023-07-10T20:42:57.410Z
+date: 2023-07-12T16:37:08.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:24:55.289Z
