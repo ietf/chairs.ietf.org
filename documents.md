@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2023-07-18T21:52:39.823Z
+date: 2023-07-18T21:55:36.100Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -13,7 +13,7 @@ An extended description of the [working group document lifecycle](/documents/lif
 provides an overview of the various stages of an Internet-Draft (I-D) document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 
 IETF Datatracker Quick Guides:
-- [I-D Adoption by a Working Group](https://chairs.ietf.org/en/quick-guides/i-d-adoption
+- [I-D Adoption by a Working Group](/documents/i-d-adoption)
 - [Requesting directorate reviews](/documents/directorate-review)
 - [Requesting publication of an WG I-D](/documents/requesting-publication)
 
