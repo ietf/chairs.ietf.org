@@ -2,7 +2,7 @@
 title: Quick Guides
 description: Quick guides for common tasks for working group and chairs.
 published: true
-date: 2023-07-12T16:36:40.262Z
+date: 2023-07-18T21:54:33.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T13:19:06.055Z
@@ -25,9 +25,10 @@ The password for every account on the IETF Datatracker sandbox is: password
 ### Managing Documents
 Tasks related to managing working group Internet-Drafts (I-Ds) or other docuemnts.
 
-**Adopting a Document**
+**[I-D Adoption by a Working Group](/documents/i-d-adoption)**
 
 **[Requesting a Directorate Review](/documents/directorate-review)**
+
 **[Initiating WGLC and requesting IESG publication](/documents/requesting-publication)**
 
 ### Organizing meetings
