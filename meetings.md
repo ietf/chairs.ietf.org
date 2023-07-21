@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2023-03-16T14:31:16.520Z
+date: 2023-07-21T18:45:47.531Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -49,7 +49,9 @@ This document provides suggestions about the form and content of Working Group a
 - Meeting agenda template ([MD](https://chairs.ietf.org/en/wg-meeting-agenda-template))
 - Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
 
-**Slide template (includes Note Well)** ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
+**Template slide deck for chairs** - ([Google Slides](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1))
+
+**Note Well slide** - ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
 
 **Tips for presenters - Tutorial** ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
 
