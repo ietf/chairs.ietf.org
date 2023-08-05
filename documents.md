@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2023-08-05T15:48:57.884Z
+date: 2023-08-05T15:49:39.460Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -45,7 +45,7 @@ Working Group chairs often appoint [document-editors](/documents/document-editor
 [Document Shepherding from Working Group Last Call to Publication (RFC 4858)](https://www.rfc-editor.org/rfc/rfc4858.html)
 This document describes methodologies that have been designed to improve and facilitate IETF document flow processing by specifying a set of procedures under which a working group chair or secretary serves as the primary Document Shepherd for a document that has been submitted to the IESG for publication.
 
-[IESG Statement on Document Shepherds] (https://www.ietf.org/about/groups/iesg/statements/document-shepherds/)
+[IESG Statement on Document Shepherds](https://www.ietf.org/about/groups/iesg/statements/document-shepherds/)
 This statement provides guidance from the IESG on selection of a Document Shepherd for documents from IETF working groups and documents from individuals.
 
 [About document shepherding](/documents/document-shepherding)
