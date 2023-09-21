@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2023-09-21T23:06:17.398Z
+date: 2023-09-21T23:07:38.431Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -26,6 +26,8 @@ These courses were first presented in 2021 with the goal of helping WG Chairs or
 To be developed.
 
 # Roles in organizing meetings
+[RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html) Provides some further detail about various roles related to organizing and running an IETF Working Group meeting.
+
 ## Working Group Secretary
 The Secretary’s job is to record WG decisions and help organize group activities at a high level. For example, the Secretary may help identify session note takers, but the role responsibilities do not include taking notes directly. Secretaries are designated by WG Chairs. More information about the WG Secretary role is available in [Section 6.2 of RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html#section-6.2). Further information is also available in [an expired Internet-Draft](https://datatracker.ietf.org/doc/draft-secretaries-good-practices/) which, even though it never achieved IETF consensus, may provide useful guidance. Serving as a WG Secretary may also provide useful insight and experience for individuals considering serving as a WG Chair.
 
@@ -36,9 +38,7 @@ Every Working Group session has notes taken to ensure important discussion point
 Working session scribes help bridge in-person sessions for remote participations, particularly those who aren’t able to follow along with video. They can convey actions taken in the room via group chat, and also convey questions or comments from remote participants to the in-person session. In-depth technical knowledge generally is not required and Working Group chairs are always happy to have volunteers at the beginning of sessions.
 
 ## Working Group Consultant
-WG Consultants have specific technical background appropriate to the WG and experience in Internet architecture and IETF process. At the discretion of the responsible Area Director, a Consultant may be assigned  to a working group.
-Working Group Designate
-Working Group Chairs may assign individuals as Designates in the IETF Datatracker, so they can take actions usually reserved for group Chairs in Datatracker or other IETF Tools (such as Meetecho).
+WG Consultants have specific technical background appropriate to the WG and experience in Internet architecture and IETF process. At the discretion of the responsible Area Director, a Consultant may be assigned to a working group.
 
 # Scheduling tools
 The IETF Datatracker tools for meetings require login and are restricted to individuals with specific roles.
