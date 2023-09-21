@@ -2,7 +2,7 @@
 title: Supporting participants
 description: Resources for working group participants, especially those new to the IETF, may find useful
 published: true
-date: 2022-05-11T01:04:53.201Z
+date: 2023-09-21T21:02:13.589Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T16:06:15.787Z
@@ -12,7 +12,7 @@ dateCreated: 2022-05-10T16:06:15.787Z
 
 
 ## Orientation for new participants
-[Getting Started in the IETF](https://www.ietf.org/about/participate/get-started/)
+[Introduction to the IETF](https://www.ietf.org/about/introduction/)
 An overview of how one might start working in the IETF.
 
 [IETF Newcomers Introduction](https://youtube.com/playlist?list=PLC86T-6ZTP5hFWNekiZYEYwEqVWB-cwfr)
