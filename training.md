@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-09-22T18:33:02.653Z
+date: 2023-09-22T18:39:05.782Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
