@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-05-09T15:53:51.606Z
+date: 2023-09-22T18:33:02.653Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -10,6 +10,43 @@ dateCreated: 2022-10-14T19:37:09.631Z
 
 # IETF Chairs Training
 
+## Live training
+
+Three live training classes will be offered twice each to accommodate participants in different timezones. You only need to participate in one session of any class, and you do not need to participate in all classes. Each class session is scheduled for 1 hour.
+
+Registration is open until the day before each session; please register for only one session of each class in which you wish to participate:
+
+### Promoting Contribution
+Encouraging input from meeting participants and ensuring all viewpoints are heard. Register for:
+
++ 12 October at 1500 UTC
+https://ietf.zoom.us/meeting/register/tZAlcOqhrjstGtPy-v2wdRsWNHcBdjvrpiuw 
+or
+
++ 12 October at 2100 UTC
+https://ietf.zoom.us/meeting/register/tZcsdeuqqTguE9RVi247r7y1KnkJCTEOSjcL
+
+### Resolving Conflict
+Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
+
++ 19 October at 1500 UTC
+https://ietf.zoom.us/meeting/register/tZMvceGqrzosGt0zTbhAm8NlUoQA_dNBfAc0
+or
+
++ 19 October at 2100 UTC
+https://ietf.zoom.us/meeting/register/tZYldeqtqT8sGtLE8KzgbvZx1e60DeVEWOim
+
+### Building Consensus
+Arriving at solutions supported by the group, even when they are not in full agreement. Register for:
+
++ 26 October at 1500 UTC
+https://ietf.zoom.us/meeting/register/tZYqfuyqqz8rGdISkoMSz9UL5xohry-guCh0 
+or
+
++ 26 October at 2100 UTC
+https://ietf.zoom.us/meeting/register/tZMsdeqopjgrGtdk8JWFX8uc1LFXPKvdDtPC
+
+## On-demand training
 Based on live training classes on-demand editions of each class offered in 2022 are now available:
 
 ### Promoting Contribution
