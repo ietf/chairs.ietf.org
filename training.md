@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-09-22T18:39:05.782Z
+date: 2023-09-26T13:31:44.964Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -10,7 +10,17 @@ dateCreated: 2022-10-14T19:37:09.631Z
 
 # IETF Chairs Training
 
-## Live training
+## Live training 2023
+
+Any IETF participant is encouraged to enroll in these classes, whether they are:
++ currently serving as a chair, 
++ considering serving as a chair, or 
++ curious about what the role of group chair entails.
+
+These courses offer information and insights to encourage contribution, resolve conflict, and reach consensus for groups you lead or participate in. 
+
+Among the most highly rated aspects of past editions, is the opportunity to meet and interact with other participants.
+
 
 Three live training classes will be offered twice each to accommodate participants in different timezones. You only need to participate in one session of any class, and you do not need to participate in all classes. Each class session is scheduled for 1 hour.
 
