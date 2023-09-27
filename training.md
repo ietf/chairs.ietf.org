@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-09-26T13:31:44.964Z
+date: 2023-09-27T01:29:45.908Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -29,9 +29,7 @@ Registration is open until the day before each session; please register for only
 ### Promoting Contribution
 Encouraging input from meeting participants and ensuring all viewpoints are heard. Register for:
 
-+ 12 October at 1500 UTC
-https://ietf.zoom.us/meeting/register/tZAlcOqhrjstGtPy-v2wdRsWNHcBdjvrpiuw 
-or
++ 12 October at 1500 UTC [Register](https://ietf.zoom.us/meeting/register/tZAlcOqhrjstGtPy-v2wdRsWNHcBdjvrpiuw) or
 
 + 12 October at 2100 UTC
 https://ietf.zoom.us/meeting/register/tZcsdeuqqTguE9RVi247r7y1KnkJCTEOSjcL
