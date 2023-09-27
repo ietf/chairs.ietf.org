@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-09-27T01:29:45.908Z
+date: 2023-09-27T14:28:17.109Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -29,30 +29,26 @@ Registration is open until the day before each session; please register for only
 ### Promoting Contribution
 Encouraging input from meeting participants and ensuring all viewpoints are heard. Register for:
 
-+ 12 October at 1500 UTC [Register](https://ietf.zoom.us/meeting/register/tZAlcOqhrjstGtPy-v2wdRsWNHcBdjvrpiuw) or
++ [**Register**](https://ietf.zoom.us/meeting/register/tZAlcOqhrjstGtPy-v2wdRsWNHcBdjvrpiuw): 12 October at 1500 UTC 
+*or*
 
-+ 12 October at 2100 UTC
-https://ietf.zoom.us/meeting/register/tZcsdeuqqTguE9RVi247r7y1KnkJCTEOSjcL
++  [**Register**](https://ietf.zoom.us/meeting/register/tZcsdeuqqTguE9RVi247r7y1KnkJCTEOSjcL): 12 October at 2100 UTC
 
 ### Resolving Conflict
 Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
 
-+ 19 October at 1500 UTC
-https://ietf.zoom.us/meeting/register/tZMvceGqrzosGt0zTbhAm8NlUoQA_dNBfAc0
-or
++  [**Register**](https://ietf.zoom.us/meeting/register/tZMvceGqrzosGt0zTbhAm8NlUoQA_dNBfAc0): 19 October at 1500 UTC
+*or*
 
-+ 19 October at 2100 UTC
-https://ietf.zoom.us/meeting/register/tZYldeqtqT8sGtLE8KzgbvZx1e60DeVEWOim
++ [**Register**](https://ietf.zoom.us/meeting/register/tZYldeqtqT8sGtLE8KzgbvZx1e60DeVEWOim): 19 October at 2100 UTC
 
 ### Building Consensus
 Arriving at solutions supported by the group, even when they are not in full agreement. Register for:
 
-+ 26 October at 1500 UTC
-https://ietf.zoom.us/meeting/register/tZYqfuyqqz8rGdISkoMSz9UL5xohry-guCh0 
-or
++ [**Register**](https://ietf.zoom.us/meeting/register/tZYqfuyqqz8rGdISkoMSz9UL5xohry-guCh0): 26 October at 1500 UTC
+*or*
 
-+ 26 October at 2100 UTC
-https://ietf.zoom.us/meeting/register/tZMsdeqopjgrGtdk8JWFX8uc1LFXPKvdDtPC
++ [**Register**](https://ietf.zoom.us/meeting/register/tZMsdeqopjgrGtdk8JWFX8uc1LFXPKvdDtPC): 26 October at 2100 UTC
 
 ## On-demand training
 Based on live training classes on-demand editions of each class offered in 2022 are now available:
