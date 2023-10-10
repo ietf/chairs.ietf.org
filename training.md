@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-09-27T14:28:17.109Z
+date: 2023-10-10T17:59:50.734Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -27,7 +27,9 @@ Three live training classes will be offered twice each to accommodate participan
 Registration is open until the day before each session; please register for only one session of each class in which you wish to participate:
 
 ### Promoting Contribution
-Encouraging input from meeting participants and ensuring all viewpoints are heard. Register for:
+Encouraging input from meeting participants and ensuring all viewpoints are heard. The class will review different leadership mindset models (The Growth Mindset, The Inclusive Mindset, The Agile Mindset), as well as ways to manage mailing lists and participant personality types in the context of IETF Groups. Interactive exercises and discussions are an integral part of the class.
+
+Register for:
 
 + [**Register**](https://ietf.zoom.us/meeting/register/tZAlcOqhrjstGtPy-v2wdRsWNHcBdjvrpiuw): 12 October at 1500 UTC 
 *or*
@@ -35,7 +37,9 @@ Encouraging input from meeting participants and ensuring all viewpoints are hear
 +  [**Register**](https://ietf.zoom.us/meeting/register/tZcsdeuqqTguE9RVi247r7y1KnkJCTEOSjcL): 12 October at 2100 UTC
 
 ### Resolving Conflict
-Acknowledging differing views and managing differing perspectives when alignment seems unlikely. Register for:
+Acknowledging differing views and managing differing perspectives when alignment seems unlikely. This class will cover the anatomy of conflict, functional vs. dysfunctional conflict, how to foster conflict resolution, and conflict in the specific context of an IETF working group.
+
+Register for:
 
 +  [**Register**](https://ietf.zoom.us/meeting/register/tZMvceGqrzosGt0zTbhAm8NlUoQA_dNBfAc0): 19 October at 1500 UTC
 *or*
@@ -43,7 +47,9 @@ Acknowledging differing views and managing differing perspectives when alignment
 + [**Register**](https://ietf.zoom.us/meeting/register/tZYldeqtqT8sGtLE8KzgbvZx1e60DeVEWOim): 19 October at 2100 UTC
 
 ### Building Consensus
-Arriving at solutions supported by the group, even when they are not in full agreement. Register for:
+Arriving at solutions supported by the group, even when they are not in full agreement. This class will cover desirable characteristics of a WG chair, the principles underlying consensus-based decision making, and managing the process of getting to rough consenus.
+
+Register for:
 
 + [**Register**](https://ietf.zoom.us/meeting/register/tZYqfuyqqz8rGdISkoMSz9UL5xohry-guCh0): 26 October at 1500 UTC
 *or*
