@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-10-10T18:35:10.006Z
+date: 2023-10-10T20:04:53.369Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -27,7 +27,7 @@ Three live training classes will be offered twice each to accommodate participan
 Registration is open until the day before each session; please register for only one session of each class in which you wish to participate:
 
 ### Promoting Contribution
-Encouraging input from meeting participants and ensuring all viewpoints are heard. The class will review different leadership mindset models (The Growth Mindset, The Inclusive Mindset, The Agile Mindset), as well as ways to manage mailing lists and participant personality types in the context of IETF Groups. Interactive exercises and discussions are an integral part of the class.
+Encouraging input from meeting participants and ensuring all viewpoints are heard. The class will review different leadership mindset models (The Growth Mindset, The Inclusive Mindset, The Agile Mindset), as well as ways to manage mailing lists and participant personality types in the context of IETF groups. Interactive exercises and discussions are an integral part of the class.
 
 Register for:
 
