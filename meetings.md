@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2023-09-21T23:07:38.431Z
+date: 2023-10-27T13:31:31.406Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -90,6 +90,15 @@ Information and actions for participants to review in advance of joining and IET
 
 **[IETF Meetecho documentation](https://www.ietf.org/media/documents/IETF-Meetecho-Documentation.pdf)**
 Details about using Meetecho as a session chair or participant.
+
+**Training sessions at IETF 118** 
+Meetecho will have a new default interface for the upcoming IETF 118 meeting (4-10 November). As a chair of an IETF 118 session, you are *strongly* encouraged to familiarize yourself with the new interface before IETF 118 even if you have chaired sessions using Meetecho before. Chairs may
+1) Join one of three testing sessions on 27 and 30 October, and 1 November:
+1500 UTC 27 October ([.ics](/calendar-files/ietf_118_session_chairs_test_session_1.ics))
+2100 UTC 30 October ([.ics](/calendar-files/ietf_118_session_chairs_test_session_2.ics))
+1100 UTC 1 November  ([.ics](/calendar-files/ietf_118_session_chairs_test_session_3.ics))
+2) Schedule a test session starting 30 October
+3) Sign up for an in-person test on 5 November at IETF 118 in Prague in a test room with the same set up as sessions rooms throughout the week.
 
 # Following up
 **[Submitting meeting materials](meeting-materials)**
