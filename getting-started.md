@@ -1,8 +1,8 @@
 ---
-title: Getting started
-description: 
+title: WG Chair checklist
+description: This is a short checklist to make sure you cover important topics as WG Chair, particularly for new chairs or new Working Groups.
 published: true
-date: 2023-10-30T13:46:30.475Z
+date: 2023-10-30T13:55:10.895Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-15T17:17:23.624Z
@@ -11,15 +11,37 @@ dateCreated: 2022-03-15T17:17:23.624Z
 Here are some initial thoughts for getting starting as an IETF Working Group Chair:
 
 # Working Group Chair Checklist
+Even if you have chaired groups previously,
  
 ## Basic set up
 Connect with your co-chair(s) and Area Directors
 
+## Work with Datatracker
 
++ Ensure your Working Group Datatracker page is properly configured
++ Set milestones
++ Add additional resources (Github, wiki.ietf.org) 
 
-## Ensure your Working Group Datatracker page is properly configured
+## Manage documents
++ Adopt documents
++ Working Group Last Call
++ Submit documents for IESG Review
++ Handling IESG Comments
 
- * Confirm you are set as 
-  Your existing tools login is used for most things, most importantly the datatracker. You should also get a login/password pair from the secretariat for the ARO tools, and a separate pair from the RFC Editor for working with errata.
- * Ask the current IESG members if that's the complete list of passwords - update the above bullet if it isn't.
- * Join a bunch of [Mailing Lists](/group/iesg/mailinglists).
+## Monitor mailing lists
++ 
+
+## Schedule interim meetings
+
+## Prepare for IETF Meetings
++ Request meeting time
++ Upload pre-meeting materials (presentations, etc.)
++ Coordinate with speakers
++ Run the session
++ Upload post-meeting materials 
+
+## Hone your skills
+Training courses
+
+## Build your team
++ Regular check-ins with co-chairs and ADs
