@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-10-10T20:04:53.369Z
+date: 2023-11-08T11:25:46.725Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -10,54 +10,9 @@ dateCreated: 2022-10-14T19:37:09.631Z
 
 # IETF Chairs Training
 
-## Live training 2023
-
-Any IETF participant is encouraged to enroll in these classes, whether they are:
-+ currently serving as a chair, 
-+ considering serving as a chair, or 
-+ curious about what the role of group chair entails.
-
-These courses offer information and insights to encourage contribution, resolve conflict, and reach consensus for groups you lead or participate in. 
-
-Among the most highly rated aspects of past editions, is the opportunity to meet and interact with other participants.
-
-
-Three live training classes will be offered twice each to accommodate participants in different timezones. You only need to participate in one session of any class, and you do not need to participate in all classes. Each class session is scheduled for 1 hour.
-
-Registration is open until the day before each session; please register for only one session of each class in which you wish to participate:
-
-### Promoting Contribution
-Encouraging input from meeting participants and ensuring all viewpoints are heard. The class will review different leadership mindset models (The Growth Mindset, The Inclusive Mindset, The Agile Mindset), as well as ways to manage mailing lists and participant personality types in the context of IETF groups. Interactive exercises and discussions are an integral part of the class.
-
-Register for:
-
-+ [**Register**](https://ietf.zoom.us/meeting/register/tZAlcOqhrjstGtPy-v2wdRsWNHcBdjvrpiuw): 12 October at 1500 UTC 
-*or*
-
-+  [**Register**](https://ietf.zoom.us/meeting/register/tZcsdeuqqTguE9RVi247r7y1KnkJCTEOSjcL): 12 October at 2100 UTC
-
-### Resolving Conflict
-Acknowledging differing views and managing differing perspectives when alignment seems unlikely. This class will cover the anatomy of conflict, functional vs. dysfunctional conflict, how to foster conflict resolution, and conflict in the specific context of an IETF working group.
-
-Register for:
-
-+  [**Register**](https://ietf.zoom.us/meeting/register/tZMvceGqrzosGt0zTbhAm8NlUoQA_dNBfAc0): 19 October at 1500 UTC
-*or*
-
-+ [**Register**](https://ietf.zoom.us/meeting/register/tZYldeqtqT8sGtLE8KzgbvZx1e60DeVEWOim): 19 October at 2100 UTC
-
-### Building Consensus
-Arriving at solutions supported by the group, even when they are not in full agreement. This class will cover desirable characteristics of a WG chair, the principles underlying consensus-based decision making, and managing the process of getting to rough consenus.
-
-Register for:
-
-+ [**Register**](https://ietf.zoom.us/meeting/register/tZYqfuyqqz8rGdISkoMSz9UL5xohry-guCh0): 26 October at 1500 UTC
-*or*
-
-+ [**Register**](https://ietf.zoom.us/meeting/register/tZMsdeqopjgrGtdk8JWFX8uc1LFXPKvdDtPC): 26 October at 2100 UTC
 
 ## On-demand training
-Based on live training classes on-demand editions of each class offered in 2022 are now available:
+Based on live training classes on-demand editions of live classes are now available:
 
 ### Promoting Contribution
 Encouraging input from participants and ensuring all viewpoints are heard.
@@ -76,6 +31,9 @@ Arriving at solutions supported by the group, even when they are not in full agr
 ## Promoting contribution
 Encouraging input from meeting participants and ensuring all viewpoints are heard.
 
+### 2023 live class
+coming soon
+
 ### 2022 live class
 + [Promoting Contribution Video Recording](https://youtu.be/9ddD6ltSdqg)
 
@@ -92,6 +50,9 @@ Understand the volunteer leader role and helpful mindsets that create successful
 ## Resolving conflict
 Acknowledging differing views and dealing with differing  perspectives, even when alignment seems impossible.
 
+### 2023 live class
+coming soon
+
 ### 2022 live class
 + [Resolving Conflict Video Recording](https://youtu.be/JY81vbrBk1Q)
 
@@ -106,6 +67,9 @@ Acknowledging differing views and dealing with differing  perspectives, even whe
 
 ## Building consensus
 Arriving at solutions supported by the group, even when they are not in full agreement.
+
+### 2023 live class
+coming soon
 
 ### 2022 live class
 + [Building Consensus Video Recording](https://youtu.be/mN6SBrX9KjI)
