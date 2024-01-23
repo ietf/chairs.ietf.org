@@ -2,7 +2,7 @@
 title: IETF protocol badges
 description: Badges developed with the support of the IETF Administration LLC are made available for use via the IETF website.
 published: true
-date: 2024-01-23T03:05:55.483Z
+date: 2024-01-23T15:55:28.938Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T03:00:49.366Z
@@ -13,7 +13,9 @@ Protocol badges are intended to support the deployment and use of IETF technolog
 
 A badge provides a visual representation that can be used by applications and services that have implemented a particular IETF protocol, or to promote awareness and use among developers.
 
-Badges developed with the support of the IETF Administration LLC are made available and may be [downloaded via the IETF website](https://www.ietf.org/badges).
+Badges developed with the support of the IETF Administration LLC are available at **[the IETF digital asset library](https://ietf.photoshelter.com/galleries/G0000fkHK1hphlvo/IETF-Protocol-Badges)** and can be found publicly via the [IETF website badge page](https://www.ietf.org/badges).
+
+![protocol-badge-montage-202401.png](/protocol-badge-montage-202401.png)
 
 ## Badge uses
 An IETF protocol badge can be used  in a variety of contexts, including:
