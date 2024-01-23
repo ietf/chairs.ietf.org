@@ -2,7 +2,7 @@
 title: IETF protocol badges
 description: Badges developed with the support of the IETF Administration LLC are made available for use via the IETF website.
 published: true
-date: 2024-01-23T03:00:49.366Z
+date: 2024-01-23T03:05:55.483Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-23T03:00:49.366Z
@@ -25,7 +25,7 @@ An IETF protocol badge can be used  in a variety of contexts, including:
 Badges are licensed by the [IETF Trust](https://trustee.ietf.org) under their [IETF Protocol Badge License](https://trustee.ietf.org/wp-content/uploads/IETF-Protocol-Badge-License-Terms.pdf)
 
 ## Badge development options
-IETF Working Group Chairs interested in exploring the possiblity of working on protocol badge development can [request support from the IETF LLC](email:support@ietf.org). The badge development process always includes participation by WG Chairs, and may include input and review by a larger group of individuals.
+IETF Working Group Chairs interested in exploring the possiblity of working on protocol badge development can [request support from the IETF LLC](mailto:support@ietf.org). The badge development process always includes participation by WG Chairs, and may include input and review by a larger group of individuals.
 
 ### Customizable system
 The IETF has an established badge system that can be applied to any protocol under development. This is used for protocols such as HTTP and PrivacyPass, for example. It is a quick and effective option in cases where timelines are short or where there isn’t (yet) a clear justification for the time, energy, and cost of a from-scratch badge development effort. Several high-profile IETF protocols, such as HTTP and PrivacyPass have adapted this customizable system.
