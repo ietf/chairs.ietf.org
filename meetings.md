@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2024-02-26T15:43:23.355Z
+date: 2024-02-26T15:55:55.854Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -10,11 +10,11 @@ dateCreated: 2021-12-14T18:14:43.501Z
 
 # Information and resources
 
+**[IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance/)**
+This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual, including **timing and approvals for scheduling meetings**. (Aug 2023)
+
 **[Information for chairing WG & BOF sessions](chairing-sessions)**
 This page provides a guide to chairing IETF Working Group or Birds-of-a-Feather sessions.
-
-**[IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance/)**
-This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual. (Aug 2023)
 
 **[Important dates for upcoming IETF meetings](https://datatracker.ietf.org/meeting/important-dates/)**
 Provides deadlines related to requesting sessions and registering for IETF meetings.
