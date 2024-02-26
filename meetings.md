@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2024-02-26T15:58:24.111Z
+date: 2024-02-26T15:58:47.419Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
