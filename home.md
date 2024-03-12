@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2024-02-01T19:27:12.116Z
+date: 2024-03-12T21:02:44.303Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
@@ -58,7 +58,7 @@ A web-based public archive of the IETF Working Group chairs email list.
 Github is used by some IETF WGs. A [Github Use for Working Groups](github) is available.
 
 ### Meetecho 
-[Meetecho](https://www.meetecho.com/en/) is used for remote participation in IETF Meetings. A [guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) and a [guide for participants](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) are available.
+[Meetecho](https://www.meetecho.com/en/) is used for remote participation in IETF Meetings. A [guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/) and a [guide for participants](https://www.ietf.org/how/meetings/technology/meetecho-guide-participant/) are available.
 
 ### Webex 
 [Webex](https://www.webex.com) is used by many IETF groups. Webex provides a [quick guide](https://help.webex.com/en-US/article/nhww3xz/Host-a-Webex-Meeting-or-Event---Quick-Reference-Tasks) and [How-to videos](https://www.youtube.com/playlist?list=PL_YnWo4XhzTfhkcwB6M1a-wJ9dTlz58yz). Some [Webex tips](webex-tips) have been developed based on IETF experience.
