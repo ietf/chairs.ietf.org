@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2024-03-13T20:50:39.237Z
+date: 2024-03-13T20:51:58.407Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -33,7 +33,7 @@ Beyond discussion of relevant topics and documents relevant to a particular work
 - Announce WG sessions at IETF meeting notes
 - Share meeting notes
 
-Sometimes, working group sub-tasks may benefit from dedicated mailling lists. In those cases, then a [non-WG email list](https://www.ietf.org/how/lists/nonwglist-guidelines/) should be created.
+Sometimes, working group sub-tasks may benefit from dedicated mailling lists. In those cases, then a non-WG email list should be created following the [non-WG emailing list guidelines](https://www.ietf.org/how/lists/nonwglist-guidelines/).
 
 ## List management
 Further information about WG list management is needed.
