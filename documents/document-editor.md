@@ -2,13 +2,13 @@
 title: Document editors
 description: A short informal description of how document editors help documents progress through the working group process.
 published: true
-date: 2022-05-11T00:47:37.332Z
+date: 2024-03-22T22:07:24.343Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-11T00:47:37.332Z
 ---
 
-# About document editing
+![ietf-login-bg.jpg](/ietf-login-bg.jpg)[document-editor](/meetings/document-editor)# About document editing
 
 > ** NOTE: This document needs further updating **
 {.is-warning}
