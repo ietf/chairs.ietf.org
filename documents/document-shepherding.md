@@ -2,7 +2,7 @@
 title: Document shepherding
 description: A short informal description of how shepherds help documents progress through the working group process.
 published: true
-date: 2024-05-07T00:31:48.047Z
+date: 2024-05-08T19:31:59.625Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T14:28:44.149Z
@@ -30,7 +30,7 @@ The document shepherd writeup is not subject to working group consensus. Quite t
 
 ## Intended status
 
-The writeup should be explicit about which document the writeup is about  and its target status (e.g. Informational, Proposed Standard). Working Group charters or milestones are sometimes unclear about the intended status of a document. And, the WG may decide to change the intended status based on consensus. (This should be discussed with the WG's AD.) Therefore, to avoid problems, and to make it clear in the WG process what is happening, it's strongly recommended that the WG chairs do the following:
+The writeup should be explicit about which document the writeup is about  and its target status (e.g. [Informational](https://datatracker.ietf.org/doc/html/rfc2026#section-4.2.2), [Proposed Standard](https://datatracker.ietf.org/doc/html/rfc6410#section-2.1)). Working Group charters or milestones are sometimes unclear about the intended status of a document. And, the WG may decide to change the intended status based on consensus. (This should be discussed with the WG's AD.) Therefore, to avoid problems, and to make it clear in the WG process what is happening, it's strongly recommended that the WG chairs do the following:
 
 * Check that WG documents have the right intended status in the I-D header. This is occasionally in error.
 * When performing a WG Last Call, write explicitly in the WG Last Call message to the mailing group email list what the intended status is.
