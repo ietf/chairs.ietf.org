@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2024-04-19T22:38:09.195Z
+date: 2024-05-10T13:58:10.572Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -33,10 +33,14 @@ Beyond discussion of relevant topics and documents relevant to a particular work
 - Announce WG sessions at IETF meeting notes
 - Share meeting notes
 
-Sometimes, working group sub-tasks may benefit from dedicated mailling lists. In those cases, then a non-WG email list should be created following the [non-WG emailing list guidelines](https://www.ietf.org/how/lists/nonwglist-guidelines/).
+Sometimes, working group sub-tasks may benefit from dedicated mailling lists. In those cases, then a non-WG email list should be created following the [non-WG emailing list guidelines](https://www.ietf.org/participate/lists/nonwglist-guidelines/).
 
 ## List management
-Further information about WG list management is needed.
+Lists can be managed by owners and moderators by visiting the the main webpage for al list, which takes the form (for ietf.org lists) of:
+
+`https://mailman3.ietf.org/mailman3/lists/LISTNAME@ietf.org/`
+
+You will need to claim the address used for a particlar list by creating a mailman3 account using that address. When you first create an account, you'll prove you can receive email at the address being claimed, and then set password. At that point, you will have owner/moderator access for every list that used that email address.
 
 ### Moderation
 The IESG has provided [guidance on moderating IETF WG mailing lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/).
