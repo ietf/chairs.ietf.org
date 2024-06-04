@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2024-05-10T13:58:10.572Z
+date: 2024-06-04T20:05:25.452Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -44,6 +44,15 @@ You will need to claim the address used for a particlar list by creating a mailm
 
 ### Moderation
 The IESG has provided [guidance on moderating IETF WG mailing lists](https://www.ietf.org/about/groups/iesg/statements/mailing-lists-moderation/).
+
+Lists can be moderated by logging into the [IETF Postorius interface](https://mailman3.ietf.org/mailman3/) and visiting the moderation page for the list.
+
+Once logged in, you can see all lists for which you have a moderator role by visiting:
+`https://mailman3.ietf.org/mailman3/lists/?role=moderator`
+
+The moderation queue for a specific list can be found via the GUI, or by following the patter:
+
+`https://mailman3.ietf.org/mailman3/lists/LISTNAME@EXAMPLE.EXAMPLE/held_messages`
 
 ### Managing subscribers
 Further information about managing WG list subscribers is needed.
