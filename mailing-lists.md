@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2024-06-04T20:05:25.452Z
+date: 2024-06-04T20:22:47.390Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -50,7 +50,7 @@ Lists can be moderated by logging into the [IETF Postorius interface](https://ma
 Once logged in, you can see all lists for which you have a moderator role by visiting:
 `https://mailman3.ietf.org/mailman3/lists/?role=moderator`
 
-The moderation queue for a specific list can be found via the GUI, or by following the patter:
+The moderation queue for a specific list can be found via the GUI, or by following the pattern:
 
 `https://mailman3.ietf.org/mailman3/lists/LISTNAME@EXAMPLE.EXAMPLE/held_messages`
 
