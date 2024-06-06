@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2024-06-06T12:17:12.017Z
+date: 2024-06-06T13:00:48.508Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -36,11 +36,11 @@ Beyond discussion of relevant topics and documents relevant to a particular work
 Sometimes, working group sub-tasks may benefit from dedicated mailling lists. In those cases, then a non-WG email list should be created following the [non-WG emailing list guidelines](https://www.ietf.org/participate/lists/nonwglist-guidelines/).
 
 ## List management
-List owners and moderators can manage message moderation and subscribers by visiting the the main webpage for al list, which takes the form (for ietf.org lists) of:
+List owners and moderators can manage message moderation and subscribers by visiting the the main webpage for a list, which takes the form (for ietf.org lists) of:
 
 `https://mailman3.ietf.org/mailman3/lists/LISTNAME@ietf.org/`
 
-You will need first to [claim the address](https://www.ietf.org/participate/lists/#managing) used for a particlar list.
+You will need first to [claim the address](https://www.ietf.org/participate/lists/#managing) used for a particular list.
 
 ### Moderation
 Lists can be moderated by logging into the [IETF Postorius interface](https://mailman3.ietf.org/mailman3/) and visiting the moderation page for the list.
@@ -71,9 +71,6 @@ or, for subscription requests, by following the pattern:
 
 ### Dealing with disruptive posting
 Further information about dealing with disruptive posting is needed.
-
-### Updating email addresses
-The email address used to subscribe to IETF mailing lists may be [updated globally](https://www.ietf.org/how/lists/) for all email addresses.
 
 ## Other mailing lists
 You may occasionally require a [non–Working Group email list](https://datatracker.ietf.org/list/nonwg) to support the working group, for example for a focused design team. Please refer to the [guidelines for non-Working Group email lists](https://www.ietf.org/participate/lists/nonwglist-guidelines/) for more information, including how to request one.
