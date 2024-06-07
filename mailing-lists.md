@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2024-06-06T13:00:48.508Z
+date: 2024-06-07T15:15:07.937Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -40,7 +40,7 @@ List owners and moderators can manage message moderation and subscribers by visi
 
 `https://mailman3.ietf.org/mailman3/lists/LISTNAME@ietf.org/`
 
-You will need first to [claim the address](https://www.ietf.org/participate/lists/#managing) used for a particular list.
+You will need first to [claim the address](https://www.ietf.org/participate/lists/#managing) used for a particular list. If a chair is not listed as an owner, request support@ietf.org to update the owners accordingly.
 
 ### Moderation
 Lists can be moderated by logging into the [IETF Postorius interface](https://mailman3.ietf.org/mailman3/) and visiting the moderation page for the list.
