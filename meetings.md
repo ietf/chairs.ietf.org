@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2024-02-26T16:03:17.279Z
+date: 2024-07-08T01:35:59.391Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -91,14 +91,17 @@ Information and actions for participants to review in advance of joining and IET
 **[IETF Meetecho documentation](https://www.ietf.org/media/documents/IETF-Meetecho-Documentation.pdf)**
 Details about using Meetecho as a session chair or participant.
 
-**Training sessions at IETF 118** 
-Meetecho will have a new default interface for the upcoming IETF 118 meeting (4-10 November). As a chair of an IETF 118 session, you are *strongly* encouraged to familiarize yourself with the new interface before IETF 118 even if you have chaired sessions using Meetecho before. Chairs may
-1) Join one of three testing sessions on 27 and 30 October, and 1 November:
-1500 UTC 27 October ([.ics](/calendar-files/ietf_118_session_chairs_test_session_1.ics))
-2100 UTC 30 October ([.ics](/calendar-files/ietf_118_session_chairs_test_session_2.ics))
-1100 UTC 1 November  ([.ics](/calendar-files/ietf_118_session_chairs_test_session_3.ics))
-2) Schedule a test session starting 30 October
-3) Sign up for an in-person test on 5 November at IETF 118 in Prague in a test room with the same set up as sessions rooms throughout the week.
+**Training sessions for IETF 120** 
+Meetecho will have a new features for the upcoming IETF 120 meeting (20-26 uly 2024). As a chair of an IETF 120 session, you are *strongly* encouraged to familiarize yourself with the new interface before IETF 120 even if you have chaired sessions using Meetecho before. Chairs may
+1) Join a a guided Q&A sessions in advance of IETF 120 (on 9 July):
+   • 0100 UTC on 9 July [.ics](/calendar-files/chairs_meetecho_testing_0100_utc_9_july_2024.ics)
+
+   • 1400 UTC on 9 July [.ics](/calendar-files/chairs_meetecho_testing_1400_utc_9_july_2024.ics)
+   
+2) On-demand sessions you can set up to rehearse with co-chairs and session presenters, and
+
+3) In-person testing on 21 July in Vancouver
+    https://notes.ietf.org/ietf120-chairs-testing
 
 # Following up
 **[Submitting meeting materials](meeting-materials)**
