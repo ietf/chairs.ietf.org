@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2024-07-08T01:35:59.391Z
+date: 2024-07-11T17:39:02.474Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -79,7 +79,7 @@ The following information and guides are usually reviewed and updated as needed 
 
 **[General Meeting technology information](https://www.ietf.org/how/meetings/technology/)**
 
-**[Meetecho guide for chairs](https://www.ietf.org/how/meetings/technology/meetecho-guide-chairs/)**
+**[Meetecho guide for chairs](https://www.ietf.org/meeting/technology/meetecho-guide-chairs/)**
 Information and actions for chairs of sessions using Meetecho conferencing.
 
 **[Meetecho testing capabilities](/meetings/meetecho-testing)**
