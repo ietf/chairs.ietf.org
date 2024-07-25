@@ -2,7 +2,7 @@
 title: GitHub Use for Working Groups
 description: This page provides a summary of the ways working groups (WGs) may set up and use GitHub Organizations and GitHub Repositories, as detailed In RFC 8874 and RFC 8875.
 published: true
-date: 2021-12-20T17:43:20.313Z
+date: 2024-07-25T01:28:21.473Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-20T17:43:20.313Z
@@ -33,3 +33,10 @@ Once the GitHub Organization for the WG is set up the WG Chairs would be able to
 - Create a new repository that contains multiple drafts.
 
 [RFC 8874](https://www.rfc-editor.org/rfc/rfc8875.html) details a set of guidelines for working groups that choose to use GitHub for their work.
+
+## Activity summary emails
+
+* To automatically send a weekly summary email:
+	* Fork [the ietf-github-services/activity-summary](https://github.com/ietf-github-services/activity-summary) repo
+	* Edit mls.json with your WG and repo(s). Everybody edits the same file, the file has a section for each WG
+	* Open a Pull Request against the original repo, wait for it to be merged
