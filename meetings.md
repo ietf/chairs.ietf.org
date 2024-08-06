@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2024-07-11T17:52:43.996Z
+date: 2024-08-06T20:06:30.536Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -90,13 +90,6 @@ Information and actions for participants to review in advance of joining and IET
 
 **[IETF Meetecho documentation](https://www.ietf.org/media/documents/IETF-Meetecho-Documentation.pdf)**
 Details about using Meetecho as a session chair or participant.
-
-**Test sessions for IETF 120** 
-Meetecho will have a new features for the upcoming IETF 120 meeting (20-26 July 2024). As a chair of an IETF 120 session, you are *strongly* encouraged to familiarize yourself with the new interface before IETF 120 even if you have chaired sessions using Meetecho before. Chairs may:
-1) Schedule on-demand sessions you can set up to rehearse with co-chairs and session presenters, and
-
-2) Reserve in-person testing times on 21 July in Vancouver
-    https://notes.ietf.org/ietf120-chairs-testing
 
 # Following up
 **[Submitting meeting materials](meeting-materials)**
