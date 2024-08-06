@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2024-08-06T11:23:20.946Z
+date: 2024-08-06T20:02:36.112Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -70,11 +70,15 @@ or, for subscription requests, by following the pattern:
 `https://mailman3.ietf.org/mailman3/lists/LISTNAME@EXAMPLE.EXAMPLE/subscription_requests`
 
 ### Dealing with disruptive posting
-Regrettably, managing mailing lists sometimes includes handling disruption postings by participants. The overall goal is to ensure the mailing list discussions serve the purposes of the Working Group and adhere to the IETF Guidelines for Conduct ([BCP 54](https://www.rfc-editor.org/info/bcp54)).
+Regrettably, managing mailing lists sometimes includes handling disruption postings by participants. It is your responsibility as chair to ensure the mailing list discussions serve the purposes of the Working Group, make forward progress, and adhere to the IETF Guidelines for Conduct ([BCP 54](https://www.rfc-editor.org/info/bcp54)). (Refer to [RFC 2418 section 6.1](https://www.rfc-editor.org/rfc/rfc2418.html#section-6.1) for details on the chair role.) 
 
-If the disruptive participant is subject to a [BCP 83](https://www.rfc-editor.org/info/bcp83) Posting Rights Action, a chair may simply to remove their posting privileges to the list.
+You have several tools at your disposal to keep Working Group mailing list discussions on track:
 
-Independent of any action you take as a chair to manage your working group mailing list, if a particular disruption on the maiing list also constitutes harassment, per the [IETF Anti-Harassment Policy](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/), then you can decide to confidentially make a report of harassment (as can any IETF participant) and the [IETF Ombudsteam](https://www.ietf.org/contact/ombudsteam/) will investigate the report as such. You can also confidentially contact the Ombudsteam for advice about how to handle a situation without a formal investigation being undertaken. 
+- [RFC 3934](https://www.rfc-editor.org/rfc/rfc3934) describes a method for giving warnings and, in the face of continued disruptive posts, suspending the participants posting privileges on the Working Group mailing list. You may also consult with your Area Director for other possible methods to address disruptions on the mailing list.
+
+- [BCP 83](https://www.rfc-editor.org/info/bcp83) allows posting rights to be indefinitely revoked from the any IETF mailing list using a Posting Rights Action. If a disruptive participant on your Working Group mailing list is subject to a BCP 83 Posting Rights Action on another IETF mailing list, as chair you may simply remove their posting privileges on your Working Group's list.
+
+The above actions are meant to deal with generally disruptive behavior on Working Group mailing lists. Independent of any action you take as a chair to manage your Working Group mailing list, if a particular disruption on the mailing list also constitutes harassment, per the [IETF Anti-Harassment Policy](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/), then you can decide to confidentially make a report of harassment (as can any IETF participant) and the IETF Ombudsteam will investigate the report as such. You can also confidentially contact the Ombudsteam for advice about how to handle a situation without a formal investigation being undertaken.
 
 ## Other mailing lists
 You may occasionally require a [non–Working Group email list](https://datatracker.ietf.org/list/nonwg) to support the working group, for example for a focused design team. Please refer to the [guidelines for non-Working Group email lists](https://www.ietf.org/participate/lists/nonwglist-guidelines/) for more information, including how to request one.
