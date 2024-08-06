@@ -2,13 +2,13 @@
 title: IETF Chair getting started Resource list
 description: This webpage aims to provide a summary of information and resources for chairing.
 published: true
-date: 2024-08-06T20:54:25.613Z
+date: 2024-08-06T20:55:08.550Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T20:47:56.645Z
 ---
 
-Whether this is your first time chairing a working group or if you have chaired a working group previously the tips, information, and resources below can help make chairing easier and more effective.
+If this is your first time chairing a working group—or even if you have chaired a working group previously—the tips, information, and resources below can help make chairing easier and more effective.
 
 - Consider your co-chair(s) and Area Directors to be part of your team. 
 Area Directors, and the IESG in general, want your working group to be successful!
