@@ -2,7 +2,7 @@
 title: Managing WG mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2024-08-06T20:02:36.112Z
+date: 2024-08-06T20:03:43.508Z
 tags: mailing-lists
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -70,9 +70,7 @@ or, for subscription requests, by following the pattern:
 `https://mailman3.ietf.org/mailman3/lists/LISTNAME@EXAMPLE.EXAMPLE/subscription_requests`
 
 ### Dealing with disruptive posting
-Regrettably, managing mailing lists sometimes includes handling disruption postings by participants. It is your responsibility as chair to ensure the mailing list discussions serve the purposes of the Working Group, make forward progress, and adhere to the IETF Guidelines for Conduct ([BCP 54](https://www.rfc-editor.org/info/bcp54)). (Refer to [RFC 2418 section 6.1](https://www.rfc-editor.org/rfc/rfc2418.html#section-6.1) for details on the chair role.) 
-
-You have several tools at your disposal to keep Working Group mailing list discussions on track:
+Regrettably, managing mailing lists sometimes includes handling disruption postings by participants. It is your responsibility as chair to ensure the mailing list discussions serve the purposes of the Working Group, make forward progress, and adhere to the IETF Guidelines for Conduct ([BCP 54](https://www.rfc-editor.org/info/bcp54)). (Refer to [RFC 2418 section 6.1](https://www.rfc-editor.org/rfc/rfc2418.html#section-6.1) for details on the chair role.) You have several tools at your disposal to keep Working Group mailing list discussions on track:
 
 - [RFC 3934](https://www.rfc-editor.org/rfc/rfc3934) describes a method for giving warnings and, in the face of continued disruptive posts, suspending the participants posting privileges on the Working Group mailing list. You may also consult with your Area Director for other possible methods to address disruptions on the mailing list.
 
