@@ -1,8 +1,8 @@
 ---
-title: IETF Chair getting started Resource list
+title: IETF Chair getting started resource list
 description: This webpage aims to provide a summary of information and resources for chairing.
 published: true
-date: 2024-08-06T21:12:47.361Z
+date: 2024-08-07T14:32:07.689Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T20:47:56.645Z
