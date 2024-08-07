@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2024-08-06T20:06:30.536Z
+date: 2024-08-07T18:21:11.975Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -52,6 +52,29 @@ See [instructions for organizing interim meetings](/meetings/interim-meeting-ins
 **Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi)**
 
 # Meeting planning templates, guides, and tools
+
+### Guide for using the IETF Note Well
+
+The IETF Note Well should be shown at the start of every IETF working session. The guidance below is [adapted from IETF legal counsel presentation during IETF 120](https://datatracker.ietf.org/meeting/120/materials/slides-120-eodir-sessb-note-well-dos-and-donts).
+
+> **DO** {.is-success}
+1. Do make sure people have enough time to read through the slide before you move on, 
+2. Do give a high-level summary of what’s covered in the Note Well: “IETF policies on conduct, privacy and IPR.”,
+3. Do encourage people to read through all the linked policies & documents in detail before participating or contributing, 
+4. Do explain where people can direct questions or concerns (IETF Executive Director or Ombudsteam).
+
+> **DON'T** {.is-warning}
+1. Don’t dismiss the importance or relevance of any of the information on the Note Well.
+2. Don’t interpret the meaning or get into the substance of any of the topics or content of the policies.
+3. Don’t communicate that the Note Well conveys all the information participants need to know.
+4. Don’t address questions or concerns in the meeting itself.
+
+---
+
+**Template slide deck for chairs** - ([Google Slides](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1))
+
+**Note Well slide** - ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
+
 **[WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)**
 A sample to help organize working group meeting sessions.
 
@@ -63,10 +86,6 @@ This document provides suggestions about the form and content of Working Group a
 
 - Meeting agenda template ([MD](https://chairs.ietf.org/en/wg-meeting-agenda-template))
 - Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
-
-**Template slide deck for chairs** - ([Google Slides](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1))
-
-**Note Well slide** - ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well_rgthisX.pdf) | [ODP](https://www.ietf.org/media/documents/note-well_IDvDk7Y.odp) | [MD](https://www.ietf.org/media/documents/note-well.md))
 
 **Tips for presenters - Tutorial** ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
 
