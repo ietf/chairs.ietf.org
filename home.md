@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2024-03-12T21:02:44.303Z
+date: 2024-10-21T13:36:58.563Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
@@ -30,6 +30,8 @@ Published in 1996, this is the foundational document describing the IETF standar
 
 ### [IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
 This page provides a mechanism for filing disclosures about intellectual property rights (IPR) and for finding out what IPR disclosures have been filed. The IETF intellectual property rights rules are defined in RFC 8179, ["Intellectual Property Rights in IETF Technology"](https://www.rfc-editor.org/rfc/rfc8179.html).
+
+The disclosure process for intellectual property rights (IPR) in documents produced within the IETF stream is essential to the accurate development of community consensus. [RFC6702](https://www.rfc-editor.org/rfc/rfc6702.html) describes some strategies that may be used by working group chairs, and working group secretaries to promote compliance with the IPR disclosure rules.
 
 A reminder about the ["Note Well"](https://www.ietf.org/about/note-well/) should begin every meeting.  The notewell is available in HTML, PDF, and PPTX.
 
