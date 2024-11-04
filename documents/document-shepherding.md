@@ -2,7 +2,7 @@
 title: Document shepherding
 description: A short informal description of how shepherds help documents progress through the working group process.
 published: true
-date: 2024-05-08T19:31:59.625Z
+date: 2024-11-04T14:35:20.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T14:28:44.149Z
@@ -15,7 +15,7 @@ A document won't shepherd itself. Chairs are often occupied with other aspects o
 
 A Document Shepherd takes responsibility for pushing a WG document along.  Firstly, to the point where the WG has consensus, and then—if that's acheived—through the Internet Engineering Steering Group (IESG) review, and finally through the RFC Editor (and IANA) processing. 
 
-It is considered generally preferable for a Shepherd to *not* be a Chair of the working group, or from the same organization/company as the Chair.
+It is encouraged for a Shepherd to not be a Chair of the working group.  The Shepherd should have strong understanding of the document content, is familiar with the document history, and is familiar with the IETF standards process. The Document Shepherd of a working group document should not be an author or editor of the document.
 
 More detail about the document shepherding process can be found in:
 * [RFC 4858](https://www.rfc-editor.org/rfc/rfc4858.html)
