@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2024-10-21T13:36:58.563Z
+date: 2024-11-07T12:28:34.136Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
@@ -18,6 +18,17 @@ Welcome to a resource site for chairs and others providing leadership and suppor
 
 ## General resources
 This section provides general information about IETF WG and the WG chair role.
+
+### [Resources for getting started as a WG Chair](/get-started)
+A summary of information and resources for chairing when you are getting started.
+
+
+### [Roles related to WG Chairs](https://www.ietf.org/participate/roles/)
+More details on roles related to managing a Working Group, including:
+* Working Group Secretary
+* Group Session Notetaker
+* Session Scribe
+* Working Group Consultant
 
 ### [WG Guidelines & Procedures (BCP 25)](https://www.rfc-editor.org/info/bcp25)
 These are the formally documented procedures for IETF working groups
