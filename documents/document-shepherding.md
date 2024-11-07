@@ -2,7 +2,7 @@
 title: Document shepherding
 description: A short informal description of how shepherds help documents progress through the working group process.
 published: true
-date: 2024-11-07T14:08:53.134Z
+date: 2024-11-07T14:39:14.601Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T14:28:44.149Z
