@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-08-06
 ---
 
-This pape provides guidance for WG chair to handling incoming or out-going liaison statements.
+This page provides guidance for WG chair to handling incoming or out-going liaison statements.
 
 All liaison statements need to be recorded in the datatracker: https://datatracker.ietf.org/liaison/
 
