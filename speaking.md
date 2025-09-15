@@ -1,5 +1,14 @@
-# Speaking For or About the IETF
-This page discusses good practices and guidelines for speaking for or about the IETF: How we should represent the IETF's position on a topic when asked about it, or writing about it in blogs, speaking on panels, and making presentations.
+---
+title: Speaking for or about the IETF
+description: This page discusses good practices and guidelines for speaking for or about the IETF: How we should represent the IETF's position on a topic when asked about it, or writing about it in blogs, speaking on panels, and making presentations.
+published: true
+date: 2025-09-15T14:40:08.495Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-15T14:40:08.495Z
+---
+
+# Speaking for or about the IETF
 
 ## Intended Audience for These Guidelines 
 
