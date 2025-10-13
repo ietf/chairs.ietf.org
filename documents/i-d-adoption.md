@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-07-18T21:50:48.001Z
 ---
 
-1. Start an adoption call in the mailing list of your working group (e.e. `FOO`) by navigating to the documents tab in Datatracker after logging in:
+1. Start an adoption call in the mailing list of your working group (e.g. `FOO`) by navigating to the documents tab in Datatracker after logging in:
 `https://datatracker.dev.ietf.org/group/FOO/documents/`
 
 2. Follow the link to the document page and use the "Manage adoption" button to see the "Manage Document Adoption dialog.
