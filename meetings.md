@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-14T18:20:37.287Z
+date: 2025-10-14T19:51:27.105Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -13,7 +13,7 @@ dateCreated: 2021-12-14T18:14:43.501Z
 **[IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance/)**
 This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual, including **timing and approvals for scheduling meetings**. (Aug 2023)
 
-**[Information for chairing WG & BOF sessions at IETF Meetings](https://www.ietf.org/how/meetings/preparation/)**
+**[Information for chairing WG & BOF sessions at IETF Meetings](https://www.ietf.org/meeting/preparation/#chairs)**
 See the "Information for Session Chairs" section for checklists, slide templates, and details about how to use Meetecho.
 
 **[Important dates for upcoming IETF meetings](https://datatracker.ietf.org/meeting/important-dates/)**
