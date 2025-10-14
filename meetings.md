@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-14T18:20:05.735Z
+date: 2025-10-14T18:20:37.287Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -22,7 +22,7 @@ Provides deadlines related to requesting sessions and registering for IETF meeti
 **[Managing meetings training](../managing-meetings/)**
 These courses were first presented in 2021 with the goal of helping WG Chairs organize and run effective meetings that achieve clear outcomes.
 
-**[General workflow diagram for scheduling, holding, and following up on Working Group meetings]()**
+**General workflow diagram for scheduling, holding, and following up on Working Group meetings**
 To be developed.
 
 # Roles in organizing meetings
