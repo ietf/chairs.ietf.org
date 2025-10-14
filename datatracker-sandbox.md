@@ -1,8 +1,8 @@
 ---
 title: IETF Datatracker Sandbox
-description: This test instance of the IETF Datatracker is for use in training sessions during and between meetings.
+description: The IETF Datatracker sandbox is a great way to explore and try things out as WG chair before doing them on the production Datatracker.
 published: true
-date: 2025-10-14T17:21:10.937Z
+date: 2025-10-14T17:22:09.511Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-20T17:50:22.378Z
