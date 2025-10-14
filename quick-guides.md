@@ -2,7 +2,7 @@
 title: Quick Guides
 description: Quick guides for common tasks for working group and chairs.
 published: true
-date: 2025-10-14T18:15:38.981Z
+date: 2025-10-14T18:16:05.906Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T13:19:06.055Z
@@ -17,6 +17,7 @@ If you are unsure about any action in the datatracker, try it in the [IETF Datat
 Tasks related to managing working group Internet-Drafts (I-Ds) or other docuemnts.
 
 **[I-D Adoption by a Working Group](/documents/i-d-adoption)**
+How to formally adopt an Internet-Draft (I-D) in a working group you chair.
 
 **[Requesting a Directorate Review](/documents/directorate-review)**
 
