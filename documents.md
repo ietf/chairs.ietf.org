@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2025-10-14T17:51:30.430Z
+date: 2025-10-14T17:51:42.561Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -11,7 +11,7 @@ dateCreated: 2021-12-14T18:15:39.427Z
 # WG document lifecycle
 An extended description of the [working group document lifecycle](/documents/lifecycle) provides an overview of the various stages of an Internet-Draft (I-D) document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 
-For a general overview of how I-Ds flow through working groups, see [RFC 7221](https://www.rfc-editor.org/rfc/rfc7221.html): "Handling of I-Ds by WGs.
+For a general overview of how I-Ds flow through working groups, see [RFC 7221](https://www.rfc-editor.org/rfc/rfc7221.html): "Handling of I-Ds by WGs."
 
 # Quick Guides
 - [I-D Adoption by a Working Group](/documents/i-d-adoption)
