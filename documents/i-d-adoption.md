@@ -2,7 +2,7 @@
 title: I-D Adoption by a Working Group Quick Guide
 description: How to formally adopt an Internet-Draft (I-D) in a working group you chair.
 published: true
-date: 2023-07-18T21:51:34.294Z
+date: 2025-10-14T21:51:34.294Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-18T21:50:48.001Z
