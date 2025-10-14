@@ -2,7 +2,7 @@
 title: Quick Guides
 description: Quick guides for common tasks for working group and chairs.
 published: true
-date: 2025-10-14T18:16:21.601Z
+date: 2025-10-14T18:16:50.934Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T13:19:06.055Z
@@ -23,3 +23,4 @@ How to formally adopt an Internet-Draft (I-D) in a working group you chair.
 How to requests directorate reviews of Working Group documents.
 
 **[Initiating WGLC and requesting IESG publication](/documents/requesting-publication)**
+How to requests publication of a Working Group Internet-Draft.
