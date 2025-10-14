@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2024-11-08T07:49:06.216Z
+date: 2025-10-14T18:20:05.735Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -26,7 +26,7 @@ These courses were first presented in 2021 with the goal of helping WG Chairs or
 To be developed.
 
 # Roles in organizing meetings
-[RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html) Provides some further detail about various roles related to organizing and running an IETF Working Group meeting.
+[RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html) Provides some further detail about various roles related to organizing and running an IETF Working Group meeting. A [webpage describes more of the formally defined roles](https://www.ietf.org/participate/roles/) within the IETF, what is required to serve in that role, and how to engage in or where/who to contact to find out more about that role.
 
 ## Working Group Secretary
 The Secretary’s job is to record WG decisions and help organize group activities at a high level. For example, the Secretary may help identify session note takers, but the role responsibilities do not include taking notes directly. Secretaries are designated by WG Chairs. More information about the WG Secretary role is available in [Section 6.2 of RFC 2418](https://www.rfc-editor.org/rfc/rfc2418.html#section-6.2). Further information is also available in [an expired Internet-Draft](https://datatracker.ietf.org/doc/draft-secretaries-good-practices/) which, even though it never achieved IETF consensus, may provide useful guidance. Serving as a WG Secretary may also provide useful insight and experience for individuals considering serving as a WG Chair.
@@ -116,4 +116,3 @@ What materials must be submitted after a working group session and how to submit
 
 # Processes
 [On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
-[In-person meeting Chromebook instructions](https://www.ietf.org/media/documents/Loading_Your_Presentation_-_Rainbow.pdf)
