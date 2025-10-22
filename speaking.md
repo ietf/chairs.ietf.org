@@ -2,17 +2,22 @@
 title: Speaking for or about the IETF
 description: This page discusses good practices and guidelines for speaking for or about the IETF.
 published: true
-date: 2025-09-15T14:40:08.495Z
+date: 2025-10-22T14:09:41.897Z
 tags: 
 editor: markdown
-dateCreated: 2025-09-15T14:40:08.495Z
+dateCreated: 2025-09-17T21:44:58.653Z
 ---
 
-# Speaking for or about the IETF
+### Intended Audience for These Guidelines 
 
-## Intended Audience for These Guidelines 
+These guidelines may be useful for Area Directors speaking about their Areas, and Working Group Chairs speaking about their group. They may also be generally useful for any IETF participant.
 
-These guidelines were initially intended to serve IETF and IAB chairs. However, they may also be useful for Area Directors speaking about their Areas, and Working Group Chairs speaking about their group. They may also be generally useful for any IETF participant.
+### Resources for press
+If you are contacted by a member of the press on an issue related to the IETF, you should feel free to direct them to a [dedicated page on the www.ietf.org website](https://www.ietf.org/contact/press/) that provides information about the IETF and resources tailored for members of the press. For further information or to request interviews, you can direct them to:
+
+Greg Wood, IETF LLC Senior Director of Communications and Operations
+via media@ietf.org
+(Messages to this address are generally answered within 24 hours)
 
 ### The Guidelines 
 
@@ -31,8 +36,8 @@ These guidelines were initially intended to serve IETF and IAB chairs. However, 
 7. Use judgment when participating in any statements as a group. Be particularly mindful of attributions that include affiliations related to the IETF as they may be misconstrued.
 
 NOTE: even when following the guidelines above, there are a number of common pitfalls:
-+ First, statements get interpreted in surprising ways, so even a factual statement can create other perceptions. Make sure you know what the likely perceptions and interpretations will be. Anticipating those in your response with clarifications is useufl.
-+ Second, peer and timing pressure may create a feeling that there is a need to participate some activity, but you should apply judgement to the situation. Sometimes waiting or not participating or answering immediately is a better option.
++ First, statements get interpreted in surprising ways, so even a factual statement can create other perceptions. Make sure you know what the likely perceptions and interpretations will be. Anticipating those in your response with clarifications is useful.
++ Second, peer and timing pressure may create a feeling that there is a need to participate in some activity, but you should apply judgement to the situation. Sometimes waiting or not participating or answering immediately is a better option.
 + Third, even informal discussion in private (hallway conversations, personal emails) can and sometimes has come to public light. Be careful what you say in any communication situation and avoid saying things that you would have trouble seeing posted publicly. An old-school test is to consider wether you would be OK with the resulting headline on The New York Times website?
 
 8. If you need to talk about a topic where you are not the primary responsible IETF person, coordinate with the one who is whenever possible. Example: Check with the relevant WG chair/responsible AD for a particulare technical toppic, or check with IETF/IAB chairs about IETF-wide matters, including general process questions.
