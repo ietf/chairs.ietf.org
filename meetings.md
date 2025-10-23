@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-14T19:51:27.105Z
+date: 2025-10-23T15:59:53.227Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -58,10 +58,10 @@ See [instructions for organizing interim meetings](/meetings/interim-meeting-ins
 The IETF Note Well should be shown at the start of every IETF working session. The guidance below is [adapted from IETF legal counsel presentation during IETF 120](https://datatracker.ietf.org/meeting/120/materials/slides-120-eodir-sessb-note-well-dos-and-donts).
 
 > **DO** {.is-success}
-1. Do make sure people have enough time to read through the slide before you move on, 
-2. Do give a high-level summary of what’s covered in the Note Well: “IETF policies on conduct, privacy and IPR.”,
-3. Do encourage people to read through all the linked policies & documents in detail before participating or contributing, 
-4. Do explain where people can direct questions or concerns (IETF Executive Director or Ombudsteam).
+1. Do give people 30 seconds to 1 minute so people have enough time to read through the slide before you move on (a timer is helpful).
+2. Do give a high-level summary of what’s covered in the Note Well. (see below)
+3. Do encourage people to read through all the linked policies & documents in detail before participating or contributing.
+4. Do explain where people can direct questions or concerns (Working Group Chairs or Area Directors).
 
 > **DON'T** {.is-warning}
 1. Don’t dismiss the importance or relevance of any of the information on the Note Well.
@@ -69,6 +69,11 @@ The IETF Note Well should be shown at the start of every IETF working session. T
 3. Don’t communicate that the Note Well conveys all the information participants need to know.
 4. Don’t address questions or concerns in the meeting itself.
 
+#### Sample text
+Here is an example of what can be said while showing the Note Well slide:
+
+> This is the IETF Note Well. It is a reminder about the processes and policies—including about conduct, privacy, and intellectual property rights–you agree to follow when you participate in the IETF. Please read it carefully. You are encouraged to read the source documents to which the Note Well refers. If you have questions, please talk to the Working Group chairs or Area Directors.
+> 
 ---
 
 **Template slide deck for chairs** - ([Google Slides](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1))
