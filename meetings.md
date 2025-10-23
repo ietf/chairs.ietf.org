@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-23T16:09:23.286Z
+date: 2025-10-23T22:27:06.007Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -53,9 +53,14 @@ See [instructions for organizing interim meetings](/meetings/interim-meeting-ins
 
 # Meeting planning templates, guides, and tools
 
-### Guide for using the IETF Note Well
+## Guide for using the IETF Note Well
 
-The IETF Note Well should be shown at the start of every IETF working session. The guidance below is [adapted from IETF legal counsel presentation during IETF 120](https://datatracker.ietf.org/meeting/120/materials/slides-120-eodir-sessb-note-well-dos-and-donts).
+The IESG guidance on when/how the Note Well is displayed is:
+* Show the Note Well slide at the start of every session
+* Preserve the text as is, preserve the links and not add anything to it 
+* Do not add the Note Really Well slide or create any other slides about policies
+
+The IESG guidance on how to present the Note Well is:
 
 > **DO** {.is-success}
 1. Do give people 30 seconds to 1 minute so people have enough time to read through the slide before you move on (a timer is helpful).
