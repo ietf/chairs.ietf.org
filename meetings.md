@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-23T16:08:40.617Z
+date: 2025-10-23T16:09:23.286Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -78,7 +78,7 @@ Here is an example of what can be said while showing the Note Well slide:
 
 **Template slide deck for chairs** - ([Google Slides](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1))
 
-**Note Well slide** - ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well.pdf) | [MD](https://www.ietf.org/media/documents/note-well.md) 
+**Note Well slide** - ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well.pdf) | [MD](https://www.ietf.org/media/documents/note-well.md))
 
 **[WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)**
 A sample to help organize working group meeting sessions.
