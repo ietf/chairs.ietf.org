@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-24T16:46:52.106Z
+date: 2025-10-24T16:47:18.039Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -80,7 +80,7 @@ Here is an example of what can be said while showing the Note Well slide:
 > This is the IETF Note Well. It is a reminder about the processes and policies—including about conduct, privacy, and intellectual property rights–you agree to follow when you participate in the IETF. Please read it carefully. You are encouraged to read the source documents to which the Note Well refers. If you have questions, please talk to the Working Group chairs or Area Directors.
 > 
 ---
-### Slide templates for chairs
+## Slide templates for chairs
 
 **Session slide deck* - ([Google Slides](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1))
 
