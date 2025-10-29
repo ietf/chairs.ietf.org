@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-29T18:57:55.214Z
+date: 2025-10-29T19:04:51.632Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -17,15 +17,12 @@ This statement provides IESG guidance on interim IETF working group meetings, bo
 See the "Information for Session Chairs" section for checklists, slide templates, and details about how to use Meetecho.
 
 **[Managing meetings training](../managing-meetings/)**
-These courses were first presented in 2021 with the goal of helping WG Chairs organize and run effective meetings that achieve clear outcomes.
-
-**[Important dates for upcoming IETF meetings](https://datatracker.ietf.org/meeting/important-dates/)**
-Provides deadlines related to requesting sessions and registering for IETF meetings.
+These on-demand videos help WG Chairs organize and run effective meetings that achieve clear outcomes.
 
 **[Meetecho guide for chairs](https://www.ietf.org/meeting/technology/meetecho-guide-chairs/)**
 Information and actions for chairs of sessions using Meetecho conferencing.
 
-**Meetecho testing **
+**Meetecho testing**
 As an IETF Working Group chair, you can use the [Meetecho Session Scheduler](https://meetings.conf.meetecho.com/scheduler) to set up a test session at your convenience between or leading up to IETF meetings.
 
 # Scheduling
@@ -38,9 +35,6 @@ See [instructions for using the session request tool](/meetings/session-request-
 See [instructions for organizing interim meetings](/meetings/interim-meeting-instructions)
 
 **Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi)**
-
-**General workflow diagram for scheduling, holding, and following up on Working Group meetings**
-To be developed.
 
 # Note Well
 
