@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-29T19:04:51.632Z
+date: 2025-10-29T19:13:06.819Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -12,6 +12,9 @@ dateCreated: 2021-12-14T18:14:43.501Z
 
 **[IESG Guidance on Face-to-Face and Virtual Interim Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance/)**
 This statement provides IESG guidance on interim IETF working group meetings, both face-to-face and virtual, including **timing and approvals for scheduling meetings**. (Aug 2023)
+
+**[On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)**
+This document explains some features of rough consensus, the IETF's process of taking into account the different views among IETF participants and coming to (at least rough) consensus on technical matters, and the things we can do in order to really achieve rough consensus.
 
 **[Information for chairing WG & BOF sessions at IETF Meetings](https://www.ietf.org/meeting/preparation/#chairs)**
 See the "Information for Session Chairs" section for checklists, slide templates, and details about how to use Meetecho.
@@ -111,6 +114,3 @@ This document provides suggestions about the form and content of Working Group a
 # Following up
 **[Submitting meeting materials](meeting-materials)**
 What materials must be submitted after a working group session and how to submit them.
-
-# Processes
-[On Consensus and Humming (RFC 7282)](https://www.rfc-editor.org/rfc/rfc7282.html)
