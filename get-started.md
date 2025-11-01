@@ -2,7 +2,7 @@
 title: IETF Chair getting started resource list
 description: This webpage aims to provide a summary of information and resources for chairing.
 published: true
-date: 2025-10-21T18:52:28.886Z
+date: 2025-11-01T12:31:53.198Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T20:47:56.645Z
@@ -33,7 +33,7 @@ You are signed up for wgchairs@ietf.org automatically. This is the place to ask 
 **Acquaint yourself (anew) with the [IETF Datatracker](https://datatracker.ietf.org/)**
 As a chair, the IETF Datatracker is the day-to-day front-end for getting various working group tasks done, such as scheduling interim meetings, updating the description of your group, and more. Use the [IETF Datatracker sandbox](/datatracker-sandbox) to try things out.
 
-**Make sure your Woring Group About page is upd to date**
+**Make sure your Working Group About page is up to date**
 The working group About page has much of the general information about your group. It is found at https://datatracker.ietf.org/group/FOO/about where “FOO” is the group acronym. As a chair, regularly checking the information about your working group is a good way to be sure participants and potential participants have the correct information. Some items to check:
 
 - Charter
