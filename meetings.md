@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2025-10-29T19:13:06.819Z
+date: 2025-11-03T19:59:24.445Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -43,7 +43,7 @@ See [instructions for organizing interim meetings](/meetings/interim-meeting-ins
 
 The Note Well should be shown at the beginning of every IETF WG meeting.
 
-**Note Well slide** - ([PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well.pdf) | [MD](https://www.ietf.org/media/documents/note-well.md))
+**Note Well slide** - ([Google Slides](https://docs.google.com/presentation/d/1dokGVym9NINjI84FRqqZA-4P5c3cCqRm59y3sGI_GPg/edit?usp=sharing) | [PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well.pdf) | [MD](https://www.ietf.org/media/documents/note-well.md))
 
 The IESG guidance on when/how the Note Well is displayed is:
 * Show the Note Well slide at the start of every session
