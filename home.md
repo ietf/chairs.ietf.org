@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2025-10-14T12:28:34.136Z
+date: 2025-11-17T13:05:01.062Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
@@ -35,7 +35,7 @@ File disclosures about intellectual property rights (IPR) and find out what IPR 
 ## IETF Datatracker resources
 
 [Liaison Statements](https://datatracker.ietf.org/liaison/)
-Find and access liaison statments. The Internet Architecture Board ([IAB](https://www.iab.org)) appoints [liaisons with other organizations](https://www.ietf.org/about/liaisons/) on behalf of the IETF.
+Find and access liaison statments. The Internet Architecture Board ([IAB](https://www.iab.org)) appoints [liaisons with other organizations](https://www.ietf.org/about/liaisons/) on behalf of the IETF. **Read [FAQs about Liaison relationships](/liaison-faqs).**
 
 [IETF Datatracker sandbox](https://sandbox.ietf.org) 
 This non-production instance of the IETF Datatracker allows [training and testing](datatracker-sandbox) of features and capabilities.
