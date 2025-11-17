@@ -2,7 +2,7 @@
 title: Frequently Asked Questions about Liaisons and the IETF
 description: These are common questions, tailored for chairs of IETF Working Groups, about the liaison relationships the IETF has with other organizations.
 published: true
-date: 2025-11-17T12:37:48.883Z
+date: 2025-11-17T13:02:20.671Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-17T12:37:48.883Z
@@ -22,7 +22,7 @@ Also note that liaison statements can be sent and received without a formal rela
 
 ### What is a Liaison Statement?
 
-For the IETF, a liaison statement is a sent or received message/email/formal letter that is recorded in our liaison management tool, i.e. the value of sending a LS for an organization compared to a mail, is that it is officially recorded to be received.
+For the IETF, a liaison statement (LS) is a sent or received message/email/formal letter that is recorded in our liaison management tool, i.e. the value of sending a LS for an organization compared to a mail, is that it is officially recorded to be received.
 
 Other organizations might have other requirements, e.g. the format, etc.. By allowing for the upload of attachments we provide maximum flexibility on what we can receive (and record). Besides the content (as text body or attachment) we only require for our record: a subject line, the sender and receiver groups in each organization, and the corresponding contacts in the form of at least an email address.
 
@@ -46,9 +46,9 @@ soliciting comments for a standards track WG Internet Draft. However, it’s alw
 
 ### How to send a liaison statement?
 
-Statements are sent “through” the datatracker. WG chairs, area directions, and liaison manager can enter new outgoing liaison statements here: [https://datatracker.ietf.org/liaison/add/outgoing/](https://datatracker.ietf.org/liaison/add/outgoing/)
+Statements are sent “through” the IETF Datatracker. WG chairs, Area Directors, and liaison managers can [enter new outgoing liaison statements](https://datatracker.ietf.org/liaison/add/outgoing/).
 
-If a liaison manager for the respective SDO exists (see full list of all liaison managers here: [https://www.ietf.org/about/liaisons/](https://www.ietf.org/about/liaisons/)), please contact the liaison manager before sending a liaison. For all other liaison statements, please reach out to the IAB liaison coordinators, especially if the “To” contacts is not known.
+If a liaison manager for the respective SDO exists (see [the full list of all liaison managers](https://www.ietf.org/about/liaisons/)), please contact the liaison manager before sending a liaison. For all other liaison statements, please reach out to the IAB liaison coordinators, especially if the “To” contacts is not known.
 
 ### What do I need to do when I receive a liaison statement?
 
