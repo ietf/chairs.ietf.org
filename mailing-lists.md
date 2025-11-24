@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-24T23:21:53.495Z
+date: 2025-11-24T23:23:04.303Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -64,10 +64,12 @@ Messages can be held in moderaton for a number of reasons, not just because the 
 
 or using this direct URL: `https://mailman3.[DOMAIN]/mailman3/lists/[LISTADDRESS]/held_messages`
 
-## Putting an address into moderation
+## Moderating / unmoderating
 Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting]()
 
 To put an address into moderation you first need to find the address, which may mean checking both the members and non-members lists and changing the **Moderation** setting to `Hold`. 
+
+To unmoderate, change the **Moderation** setting to `Default processing`. 
 
 ## Spam control
 Control of spam is centralised in the IETF mail system and while most spam is blocked, some may occasionally get through to a list. 
