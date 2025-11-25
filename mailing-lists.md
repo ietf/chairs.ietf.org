@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T01:03:34.522Z
+date: 2025-11-25T02:10:53.957Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -33,8 +33,8 @@ List admin permissions are linked to email addresses. To active your permissions
 
 If you have an account linked to your email address and do not have the permissions to a list that you expect, then please contact support@ietf.org.
 
-* To see all the lists for which are an **owner**: `https://mailman3.[DOMAIN]/mailman3/lists/?role=owner`
-* To see all the lists for which are a **moderator**: `https://mailman3.[DOMAIN]/mailman3/lists/?role=moderator`
+* To see all the lists for which you are an **owner**: `https://mailman3.[DOMAIN]/mailman3/lists/?role=owner`
+* To see all the lists for which you are a **moderator**: `https://mailman3.[DOMAIN]/mailman3/lists/?role=moderator`
 
 ## Integration with Datatracker
 ### Working group lists
