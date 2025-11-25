@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T00:21:23.446Z
+date: 2025-11-25T00:27:56.496Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -49,12 +49,12 @@ There is a single Datatracker page that lists all [non-WG lists](https://datatra
 
 Datatracker does not record any other information about non-WG lists.
 
-## Members vs non-members
+## Global allowlist and members vs non-members
+The IETF mailing systems maintains a [global allowlist](/first-time-subscription#global-allowlist) of addresses that are permitted to send to mailing lists. Any address on that list can send to any mailing list, whether or not it is subscribed to that list.
+
+When a post is sent to a list from an address that it is not a member but this message is accepted because that address is on the global allowlist, that address is then automatically added as a **non-member** of the mailing list.  While non-members can post to a list (unless moderated), only members receive messages sent to the list. 
+
 If you need to find a specific address to manage on your list then remember to check **both** the list of **members** and **non-members** for your list. 
-
-The reason that non-members exist is due to interactions with the [global allowlist](/first-time-subscription#global-allowlist). When a post is sent to a list from an address that it is not a member but this message is accepted because that address is on the global allowlist, that address is then automatically added as a non-member of the mailing list.
-
-Both members and non-members can post to a list (unless moderated) but only members receive messages sent to the list.
 
 # Common management tasks
 ## Handling of moderated messages
@@ -81,5 +81,5 @@ If you have a problematic spammer that you want to block and you are certain tha
 
 # Further information
 * Guidance on managing [disruptive posting](/mailing-lists/disruptive-posting)
-* Explanation of [First-time subscription]()
-* Understanding [DMARC processing]()
+* Explanation of [First-time subscription](/mailing-lists/first-time-subscription) and the global allowlist.
+* For information on where action may be required by law see the [IESG Statement on restricting access to IETF IT systems](https://datatracker.ietf.org/doc/statement-iesg-statement-on-restricting-access-to-ietf-it-systems-20221031/)
