@@ -2,7 +2,7 @@
 title: Disruptive posting
 description: Guidance for list administrators in managing disruptive posting
 published: true
-date: 2025-11-25T00:17:40.059Z
+date: 2025-11-25T20:49:59.067Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T00:17:40.059Z
@@ -29,7 +29,7 @@ RG list admins, normally RG Chairs, are expected to follow the rules set out in 
 BCP 83 allows posting rights to be indefinitely revoked from the any IETF mailing list using a Posting Rights Action, following a community consensus process managed by the IESG. If a disruptive participant on your Working Group mailing list is subject to a BCP 83 Posting Rights Action on another IETF mailing list, as chair you may simply remove their posting privileges on your Working Group's list without following the process in RFC 3934.
 
 # Harassment
-Independent of any action you take as a list admin to manage your mailing list, if a particular disruption on the mailing list also constitutes harassment, then you can decide to confidentially make a report of harassment (as can any IETF participant) and the IETF Ombudsteam will investigate the report as such. You can also confidentially contact the Ombudsteam for advice about how to handle a situation without a formal investigation being undertaken.
+Independent of any action you take as a list admin to manage your mailing list, if a particular disruption on the mailing list also constitutes harassment, then you can decide to confidentially make a report of harassment (as can any IETF participant) and the [IETF Ombudsteam](https://www.ietf.org/contact/ombudsteam/) will investigate the report as such. You can also confidentially contact the Ombudsteam for advice about how to handle a situation without a formal investigation being undertaken.
 
 # Further information
 * Working Groups chairs encountering issues are advised to speak to their Area Director for both a heads-up and guidance. 
