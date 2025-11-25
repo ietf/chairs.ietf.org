@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T19:08:13.130Z
+date: 2025-11-25T20:36:14.594Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -57,6 +57,14 @@ When a post is sent to a list from an address that it is not a member but this m
 If you need to find a specific address to manage on your list then remember to check **both** the list of **members** and **non-members** for your list. 
 
 # Common management tasks
+## Keeping the list descriptions up to date
+Mailing lists have two descriptions that can be found on the **Settings** menu:
+
+* **Short description**. This is a one-liner, used in a number of automated messages and whenever a list of lists is presented.
+* **Long description**. This is a text box and primarily used in the list subscription welcome message.  The contents of this should be a standalone description and not rely on it being shown alongside the short description.
+
+List admins should keep both of these descriptions up to date.  This is particularly important when a WG recharters or is closed with the list kept open.
+
 ## Handling of moderated messages
 Messages can be held in moderaton for a number of reasons, not just because the address is set to moderation.
 
