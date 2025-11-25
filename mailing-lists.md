@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T02:10:53.957Z
+date: 2025-11-25T19:03:09.596Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -58,11 +58,9 @@ If you need to find a specific address to manage on your list then remember to c
 
 # Common management tasks
 ## Handling of moderated messages
-Messages can be held in moderaton for a number of reasons, not just because the address is set to moderation. The moderation queue for a specific list can be found under **Held messages** on the top menu:
+Messages can be held in moderaton for a number of reasons, not just because the address is set to moderation.
 
-![mailman3-moderation_options-new.png](/mailman3-moderation_options-new.png)
-
-or using this direct URL: `https://mailman3.[DOMAIN]/mailman3/lists/[LISTADDRESS]/held_messages`
+The moderation queue for a specific list can be found under **Held messages** on the top menu, or by using this direct URL: `https://mailman3.[DOMAIN]/mailman3/lists/[LISTADDRESS]/held_messages`
 
 ## Moderating / unmoderating
 Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting)
