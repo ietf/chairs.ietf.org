@@ -2,17 +2,19 @@
 title: First-time subscription
 description: Explanation of what happens when someone subscribes to an IETF mailing list for the first time
 published: true
-date: 2025-11-25T00:50:49.665Z
+date: 2025-11-25T19:20:10.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T00:48:58.838Z
 ---
 
-# First time sending to the IETF
-All email sent to IETF mailing lists goes through the mail gatekeeper, postconfirm, which does the following:
+# First time sending to the IETF/IRTF/IAB/RFC Editor
+All email sent to any IETF/IRTF/IAB/RFC Editor mailing list or alias goes through the mail gatekeeper, postconfirm, which does the following:
 * Challenge/response for first time subscribers
 * Builds the global allowlist
 * Manages DMARC processing
+
+Mail sent to a subdomain, e.g. @staff.ietf.org, does not go through postconfirm, going instead to the mail server for that domain.
 
 ## Challenge response for first-time subscribers
 When postconfirm sees an address for the first time, it sends the following challenge message:
