@@ -1,8 +1,8 @@
 ---
 title: First-time subscription
-description: Explanation of what happens when someone subscribes to an IETF mailing list for the first time
+description: Explanation of what happens when someone sends for the first time or subscribes to an IETF mailing list
 published: true
-date: 2025-11-25T21:02:38.800Z
+date: 2025-11-25T21:16:26.392Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T00:48:58.838Z
@@ -16,7 +16,7 @@ All email sent to any IETF/IRTF/IAB/RFC Editor mailing list or alias goes throug
 
 Mail sent to a subdomain, e.g. @staff.ietf.org, does not go through postconfirm, going instead to the mail server for that domain.
 
-## Challenge response for first-time subscribers
+## Challenge response for first-time senders
 When postconfirm sees an address for the first time, it sends the following challenge message:
 ```plaintext
 Welcome to the Internet Engineering Task Force (IETF) and its companion organizations, 
@@ -66,8 +66,8 @@ This feature is provided in order to meet this requirement from the [IESG Statem
 
 The global allowlist is automatically added to the configuration of every mailing list.  This MUST NOT be removed by list admins—if removal is detected then it will automatically be re-added.
 
-# Mailman initial subscription
-When someone subscribes to a mailing list, they receive the following message confirming their subscription. (Note the Internet Research Task Force (IRTF) version is longer as it uses the IRTF Note Well.):
+# Subscribing to a mailing list
+Each time someone subscribes to a mailing list, they receive the following message confirming their subscription. (Note the Internet Research Task Force (IRTF) version is longer as it uses the IRTF Note Well.):
 
 ```plaintext
 Welcome to the Internet Engineering Task Force (IETF), founded in 1986, the premier 
