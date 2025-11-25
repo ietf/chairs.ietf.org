@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T20:36:14.594Z
+date: 2025-11-25T20:55:43.627Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -72,7 +72,7 @@ Messages can be held in moderaton for a number of reasons, not just because the 
 2. Select the message and the appropriate action `Accept`, `Reject` (sends a rejection notice) or `Discard` (silently discards).
 
 ## Moderating / unmoderating
-Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting)
+Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting).
 
 To put an address into moderation:
 1. Find the address, which may mean checking both the members and non-members lists under the **Users** menu
@@ -82,8 +82,8 @@ To unmoderate, change the **Moderation** setting to `Default processing`.
 
 ## Putting the whole list into moderation
 From the **Settings** tab for your list, select the **Message Acceptance** sub-tab and on there:
-1. Locate the section titled **Default action to take when a _member_ posts to the list** and from the dropdown menu, select `Hold for moderation` 
-2. Additionally, locate the section **Default action to take when a _non-member_ posts to the list** and from the dropdown menu select `Hold for moderation` 
+1. Locate the section titled **Default action to take when a _member_ posts to the list** and from the dropdown menu, select `Hold for moderation`.
+2. Additionally, locate the section **Default action to take when a _non-member_ posts to the list** and from the dropdown menu select `Hold for moderation`.
 3. Click the **Save changes** button at the bottom of the page to apply the new moderation settings.
 
 ## Spam control
@@ -96,5 +96,5 @@ If you have a problematic spammer that you want to block and you are certain tha
 
 # Further information
 * Guidance on managing [disruptive posting](/mailing-lists/disruptive-posting)
-* Explanation of [First-time subscription](/mailing-lists/first-time-subscription) and the global allowlist.
+* Explanation of [First-time subscription](/mailing-lists/first-time-subscription) and the global allowlist
 * For information on where action may be required by law see the [IESG Statement on restricting access to IETF IT systems](https://datatracker.ietf.org/doc/statement-iesg-statement-on-restricting-access-to-ietf-it-systems-20221031/)
