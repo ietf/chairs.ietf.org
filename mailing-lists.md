@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T19:03:09.596Z
+date: 2025-11-25T19:08:13.130Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -60,13 +60,14 @@ If you need to find a specific address to manage on your list then remember to c
 ## Handling of moderated messages
 Messages can be held in moderaton for a number of reasons, not just because the address is set to moderation.
 
-The moderation queue for a specific list can be found under **Held messages** on the top menu, or by using this direct URL: `https://mailman3.[DOMAIN]/mailman3/lists/[LISTADDRESS]/held_messages`
+1. The moderation queue for a specific list can be found under **Held messages** on the top menu, or by using this direct URL: `https://mailman3.[DOMAIN]/mailman3/lists/[LISTADDRESS]/held_messages`
+2. Select the message and the appropriate action `Accept`, `Reject` (sends a rejection notice) or `Discard` (silently discards).
 
 ## Moderating / unmoderating
 Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting)
 
 To put an address into moderation:
-1. Find the address, which may mean checking both the members and non-members lists
+1. Find the address, which may mean checking both the members and non-members lists under the **Users** menu
 2. Changing its **Moderation** setting to `Hold`.
 
 To unmoderate, change the **Moderation** setting to `Default processing`. 
