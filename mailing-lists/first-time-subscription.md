@@ -2,13 +2,13 @@
 title: First-time subscription
 description: Explanation of what happens when someone subscribes to an IETF mailing list for the first time
 published: true
-date: 2025-11-25T20:59:06.483Z
+date: 2025-11-25T20:59:40.894Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T00:48:58.838Z
 ---
 
-# First time sending to the IETF/IRTF/IAB/RFC Editor
+# First time sending to IETF/IRTF/IAB/RFC Editor maiiling lists
 All email sent to any IETF/IRTF/IAB/RFC Editor mailing list or alias goes through the mail gatekeeper, postconfirm, which does the following:
 * Challenge/response for first time subscribers,
 * Builds the global allowlist, and
