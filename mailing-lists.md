@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T00:27:56.496Z
+date: 2025-11-25T00:28:14.083Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -50,7 +50,7 @@ There is a single Datatracker page that lists all [non-WG lists](https://datatra
 Datatracker does not record any other information about non-WG lists.
 
 ## Global allowlist and members vs non-members
-The IETF mailing systems maintains a [global allowlist](/first-time-subscription#global-allowlist) of addresses that are permitted to send to mailing lists. Any address on that list can send to any mailing list, whether or not it is subscribed to that list.
+The IETF mailing systems maintains a [global allowlist](/mailing-lists/first-time-subscription#global-allowlist) of addresses that are permitted to send to mailing lists. Any address on that list can send to any mailing list, whether or not it is subscribed to that list.
 
 When a post is sent to a list from an address that it is not a member but this message is accepted because that address is on the global allowlist, that address is then automatically added as a **non-member** of the mailing list.  While non-members can post to a list (unless moderated), only members receive messages sent to the list. 
 
