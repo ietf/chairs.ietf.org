@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T00:58:39.905Z
+date: 2025-11-25T01:03:34.522Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -67,14 +67,16 @@ or using this direct URL: `https://mailman3.[DOMAIN]/mailman3/lists/[LISTADDRESS
 ## Moderating / unmoderating
 Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting)
 
-To put an address into moderation you first need to find the address, which may mean checking both the members and non-members lists and changing the **Moderation** setting to `Hold`.
+To put an address into moderation:
+1. Find the address, which may mean checking both the members and non-members lists
+2. Changing its **Moderation** setting to `Hold`.
 
 To unmoderate, change the **Moderation** setting to `Default processing`. 
 
 ## Putting the whole list into moderation
 From the **Settings** tab for your list, select the **Message Acceptance** sub-tab and on there:
 1. Locate the section titled **Default action to take when a _member_ posts to the list** and from the dropdown menu, select `Hold for moderation` 
-2. Additionally, locatye the section **Default action to take when a _non-member_ posts to the list** and from the dropdown menu select `Hold for moderation` 
+2. Additionally, locate the section **Default action to take when a _non-member_ posts to the list** and from the dropdown menu select `Hold for moderation` 
 3. Click the **Save changes** button at the bottom of the page to apply the new moderation settings.
 
 ## Spam control
