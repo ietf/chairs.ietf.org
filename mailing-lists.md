@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-24T23:23:04.303Z
+date: 2025-11-25T00:21:23.446Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -52,7 +52,7 @@ Datatracker does not record any other information about non-WG lists.
 ## Members vs non-members
 If you need to find a specific address to manage on your list then remember to check **both** the list of **members** and **non-members** for your list. 
 
-The reason that non-members exist is due to interactions with the [global allowlist](/postconfirm-dmarc-global-allowlist). When a post is sent to a list from an address that it is not a member but this message is accepted because that address is on the global allowlist, that address is then automatically added as a non-member of the mailing list.
+The reason that non-members exist is due to interactions with the [global allowlist](/first-time-subscription#global-allowlist). When a post is sent to a list from an address that it is not a member but this message is accepted because that address is on the global allowlist, that address is then automatically added as a non-member of the mailing list.
 
 Both members and non-members can post to a list (unless moderated) but only members receive messages sent to the list.
 
@@ -65,7 +65,7 @@ Messages can be held in moderaton for a number of reasons, not just because the 
 or using this direct URL: `https://mailman3.[DOMAIN]/mailman3/lists/[LISTADDRESS]/held_messages`
 
 ## Moderating / unmoderating
-Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting]()
+Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting)
 
 To put an address into moderation you first need to find the address, which may mean checking both the members and non-members lists and changing the **Moderation** setting to `Hold`. 
 
@@ -80,6 +80,6 @@ If you have a problematic spammer that you want to block and you are certain tha
 3. (*optional*) If spam messages have made it through to the mail archive and you want those messages not to be visible, then please contact support@ietf.org with links to the messages.
 
 # Further information
-* Guidance on managing [disruptive posting]()
-* Explanation of [subscribing and the global allowlist]()
+* Guidance on managing [disruptive posting](/mailing-lists/disruptive-posting)
+* Explanation of [First-time subscription]()
 * Understanding [DMARC processing]()
