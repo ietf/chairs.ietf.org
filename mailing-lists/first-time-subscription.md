@@ -2,7 +2,7 @@
 title: First-time subscription
 description: Explanation of what happens when someone subscribes to an IETF mailing list for the first time
 published: true
-date: 2025-11-25T19:20:10.485Z
+date: 2025-11-25T20:59:06.483Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T00:48:58.838Z
@@ -10,9 +10,9 @@ dateCreated: 2025-11-25T00:48:58.838Z
 
 # First time sending to the IETF/IRTF/IAB/RFC Editor
 All email sent to any IETF/IRTF/IAB/RFC Editor mailing list or alias goes through the mail gatekeeper, postconfirm, which does the following:
-* Challenge/response for first time subscribers
-* Builds the global allowlist
-* Manages DMARC processing
+* Challenge/response for first time subscribers,
+* Builds the global allowlist, and
+* Manages DMARC processing.
 
 Mail sent to a subdomain, e.g. @staff.ietf.org, does not go through postconfirm, going instead to the mail server for that domain.
 
@@ -50,24 +50,24 @@ https://www.ietf.org/
 (For internal use only: $filename)
 ```
 
-This serves the following purpose:
-1. Explains who we are
-2. Authenticates subscription by the sender email address
-3. Explains where to find our policies
-4. Records agreement to IETF Policies through an affirmative action
+This serves the following purposes:
+1. Explains who we are.
+2. Authenticates subscription by the sender email address.
+3. Explains where to find our policies.
+4. Records agreement to IETF Policies through an affirmative action.
 5. Provides a support path for problems/queries.
 
 ## Global allowlist
 Once an address has responded to the postconfirm challenge, it is entered into a global allowlist of address that can send to IETF mailing lists. 
 
-This feature is provided in order to meet this requirement from the [IESG Statement on Spam Control on IETF Mailing Lists](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-spam-control-on-ietf-mailing-lists-20080414/)
+This feature is provided in order to meet this requirement from the [IESG Statement on Spam Control on IETF Mailing Lists](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-spam-control-on-ietf-mailing-lists-20080414/):
 
 > IETF mailing lists MUST provide a mechanism for legitimate technical participants to bypass moderation, challenge-response, or other techniques that would interfere with a prompt technical debate on the mailing list without requiring such participants to receive list traffic. 
 
-The global allowlist is automatically added to the configuration of every mailing list.  This MUST NOT be removed by list admins - if removal is detected then it will automatically be re-added.
+The global allowlist is automatically added to the configuration of every mailing list.  This MUST NOT be removed by list admins—if removal is detected then it will automatically be re-added.
 
 # Mailman initial subscription
-When someone subscribes to a mailing list, they receive the following message confirming their subscription (Note the IRTF version is longer as it uses the IRTF Note Well):
+When someone subscribes to a mailing list, they receive the following message confirming their subscription. (Note the Internet Research Task Force (IRTF) version is longer as it uses the IRTF Note Well.):
 
 ```plaintext
 Welcome to the Internet Engineering Task Force (IETF), founded in 1986, the premier 
@@ -127,9 +127,9 @@ You can find out more about the IETF, IRTF and IAB at:
 For all other questions, please contact us at support@ietf.org.
 ```
 
-This serves the following purpose:
-1. Explains the purpose of the list, using the long description
-2. Explains how to use the list
-3. Explains how to manage the subscription
-4. Includes the full Note Well as a reminder of the policies
+This serves the following purposes:
+1. Explains the purpose of the list, using the long description.
+2. Explains how to use the list.
+3. Explains how to manage the subscription.
+4. Includes the full Note Well as a reminder of the policies.
 5. Provides a support path for problems/queries.
