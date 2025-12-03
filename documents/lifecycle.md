@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-03T19:39:08.448Z
+date: 2025-12-03T19:43:19.718Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -51,8 +51,7 @@ And this bears repeating: Nothing in this document is suggesting that the Workin
 
 # 3. Stages in a Document's Lifecycle
 
-From the time a working group is asked to take on a document as one of its work items, the document will go through a number of stages, most of which correspond closely to working group document states (RFC 6174) or IESG document states in the datatracker (see [#7.LifecycleStagesandCorrespondingDocumentStates Section 7] for a
-mapping):
+From the time a working group is asked to take on a document as one of its work items, the document will go through a number of stages, most of which correspond closely to working group document states (RFC 6174) or IESG document states in the datatracker (see [Section 7](#h-7-lifecycle-stages-and-corresponding-document-states) for a mapping):
 
 1.  Call for Adoption
 2.  Working Group Document
@@ -187,13 +186,9 @@ When the Shepherd has the writeup done, a non-chair Shepherd should consult with
 
 When the Shepherd has the writeup done, a non-chair Shepherd should consult with the Chairs to make sure they're happy with it and agree with what's in it. The Chairs will then need to make some datatracker updates that only they have authorization for: they will upload the writeup to the tracker and change the document state.
 
-Changing the document's working group state to "Submitted to IESG for Publication" will trigger the necessary email messages and IESG state changes, and will get the document into IESG "Publication Requested" state, from which the Responsible AD will begin her processing of the document. And as [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/) says, the Shepherd should also email the writeup to the working group's mailing list, so the working group is aware of it. The writeup will be public anyway, because it will be in the datatracker, so it can only help the open process to make it more visible to the working group whose work it reflects.
+Changing the document's working group state to "Submitted to IESG for Publication" will trigger the necessary email messages and IESG state changes, and will get the document into IESG "Publication Requested" state, from which the Responsible AD will begin her processing of the document. And as RFC 4858 says, the Shepherd should also email the writeup to the working group's mailing list, so the working group is aware of it. The writeup will be public anyway, because it will be in the datatracker, so it can only help the open process to make it more visible to the working group whose work it reflects.
 
-See also [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), Section
-3.1, but note that the writeup template has changed significantly since
-the version in that document. The [current
-writeup](http://www.ietf.org/iesg/template/doc-writeup.html) is in the
-IESG section of the IETF web site.
+See also RFC 4858), Section 3.1, but note that the writeup template has changed significantly since the version in that document. The [current writeup](http://www.ietf.org/iesg/template/doc-writeup.html) is in the IESG section of the IETF web site.
 
 The tasks at the Shepherd Writeup Underway stage might be as follows:
 
@@ -214,7 +209,7 @@ but many issues fall in between, and good judgment is important. The Chairs shou
 
 Many documents spend \*months\* in AD Evaluation state, largely because of lack of good shepherding. It may look like there's only one major task here, but it's an important one. Please don't give it short shrift.
 
-See also [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), Section 3.2.
+See also RFC 4858, Section 3.2.
 
 The tasks for the Shepherd at the AD Evaluation stage might be as
 follows:
@@ -230,11 +225,11 @@ Once the Responsible AD is satisfied that the document is ready to move ahead, s
 
 The Shepherd's job in the IETF Last Call stage is very similar to what's needed in AD Evaluation. Start by watching for last-call comments, including various special reviews. Reviews will come in from the Security Directorate and the General Area Review Team (GenART), and some may also come from other review teams and directorates. Reviews might also be coming in at this stage, if they haven't already, that were specifically requested by the Shepherd (see the Working Group Last Call stage in Section 3.4).
 
-The Shepherd needs to make sure all of those reviews are addressed by the document editors, and that the specifically requested reviews get done. "Addressed" doesn't mean that every change asked for in every last-call comment needs to be made. Sometimes, a reasonable response is to say that the working group discussed the point, and the document correctly reflects its consensus -- that is, the working group disagrees with the last-call comment. At other times, it's reasonable to disagree with the reviewer and look for any other support for the reviewer's position. Rough consensus can be a tricky thing ([RFC 7282](https://datatracker.ietf.org/doc/rfc7282/)), but the bottom line is that all comments need at least be considered. Directorate and review-team reviews, in particular, require acknowledgment and response (though they, too, can be disagreed with).
+The Shepherd needs to make sure all of those reviews are addressed by the document editors, and that the specifically requested reviews get done. "Addressed" doesn't mean that every change asked for in every last-call comment needs to be made. Sometimes, a reasonable response is to say that the working group discussed the point, and the document correctly reflects its consensus -- that is, the working group disagrees with the last-call comment. At other times, it's reasonable to disagree with the reviewer and look for any other support for the reviewer's position. Rough consensus can be a tricky thing (RFC 7282), but the bottom line is that all comments need at least be considered. Directorate and review-team reviews, in particular, require acknowledgment and response (though they, too, can be disagreed with).
 
 Throughout the IETF Last Call stage, as well as in the upcoming IESG Evaluation, it is important that the working group be kept aware of the changes that are being made to their document. Continued use of the issue tracker is a useful way to do that. For especially significant changes, explicitly calling the working group's attention to them on the mailing list is a good idea. It's very important to continue transparency into these later stages of the process.
 
-During Last Call, IANA will review the document's IANA Considerations, will respond with their summary of what they think needs to be done by IANA after the document is approved, and will ask any questions they have. The Shepherd should watch for this review and make sure that the actions IANA proposes are correct and that any questions they have are answered. At this point, IANA will also contact any Designated Experts required to formally approve any registrations, so it will help if the shepherd has done the necessary preparatory work (see Section 3.4). See also [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/), Section 4.
+During Last Call, IANA will review the document's IANA Considerations, will respond with their summary of what they think needs to be done by IANA after the document is approved, and will ask any questions they have. The Shepherd should watch for this review and make sure that the actions IANA proposes are correct and that any questions they have are answered. At this point, IANA will also contact any Designated Experts required to formally approve any registrations, so it will help if the shepherd has done the necessary preparatory work (see Section 3.4). See also RFC 4858, Section 4.
 
 Different Responsible ADs will have different preferences for whether documents in IETF Last Call should be updated while they're still in that state. The Shepherd should check with the AD and advise the Document Editors. Sometimes it's best to keep a stable version throughout last-call review; other times it's better to get changes posted quickly, so the same issues aren't brought up by multiple reviewers. Work with the AD and the editors to handle this.
 
@@ -278,15 +273,9 @@ Most often, ADs who record DISCUSS positions (and review comments) are quite res
 
 Non-blocking IESG Evaluation comments should be treated as IETF Last Call comments are: the Document Editors should respond to them and do their best to address them, but failure to come to agreement on them will not block the document's progress.
 
-And, as at other stages, the Shepherd should work with the Chairs to ensure that any changes of significance are brought back to the working
-group for their review before the final approval notice goes out.
+And, as at other stages, the Shepherd should work with the Chairs to ensure that any changes of significance are brought back to the working group for their review before the final approval notice goes out.
 
-The IESG web site has more details about [IESG ballot
-positions](http://www.ietf.org/iesg/voting-procedures.html) and about
-[IESG DISCUSS
-ballots](http://www.ietf.org/iesg/statement/discuss-criteria.html) in
-particular. And see also [RFC
-4858](https://datatracker.ietf.org/doc/rfc4858/), Section 3.3.
+The IESG web site has more details about [IESG ballot positions](http://www.ietf.org/iesg/voting-procedures.html) and about [IESG DISCUSS ballots](http://www.ietf.org/iesg/statement/discuss-criteria.html) in particular. And see also RFC 4858, Section 3.3.
 
 The tasks for the Shepherd at the IESG Evaluation stage might be as
 follows:
@@ -337,7 +326,7 @@ If there are changes the RFC Editor thinks the responsible AD needs to approve, 
 
 Most of the time, though, this stage will run smoothly, the Document Editors will respond to the AUTH48 messages with a minimum of prodding, and the RFC Editor will announce their happiness and proceed with the publication process.
 
-See also Section 5 of [RFC 4858](https://datatracker.ietf.org/doc/rfc4858/).
+See also Section 5 of RFC 4858.
 
 The tasks for the Shepherd at the AUTH48 stage might be as follows:
 
@@ -380,7 +369,7 @@ IESG Statement, ["IESG Statement on Document Shepherds", October 2010](http://ww
 
 IESG, ["Working Group Submission Writeup", February 2014](http://www.ietf.org/iesg/template/doc-writeup.html)
 
-## 7. Lifecycle Stages and Corresponding Document States
+# 7. Lifecycle Stages and Corresponding Document States
 
 | Lifecycle stage | Document state | State owner | 
 | --- | --- | --- | 
