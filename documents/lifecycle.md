@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-03T19:47:27.380Z
+date: 2025-12-03T19:48:00.911Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -51,7 +51,7 @@ And this bears repeating: Nothing in this document is suggesting that the Workin
 
 # Stages in a Document's Lifecycle
 
-From the time a working group is asked to take on a document as one of its work items, the document will go through a number of stages, most of which correspond closely to working group document states (RFC 6174) or IESG document states in the datatracker (see [the mapping table below](#h-lifecycle-stages-and-corresponding-document-states)):
+From the time a working group is asked to take on a document as one of its work items, the document will go through a number of stages, most of which correspond closely to working group document states (RFC 6174) or IESG document states in the datatracker (see [the mapping table below](#lifecycle-stages-and-corresponding-document-states)):
 
 1.  Call for Adoption
 2.  Working Group Document
