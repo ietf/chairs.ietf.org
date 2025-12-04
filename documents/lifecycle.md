@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T18:27:32.948Z
+date: 2025-12-04T18:28:30.112Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -230,7 +230,7 @@ The tasks for the Shepherd at the IETF Last Call stage might be as follows:
 
 1.  Monitor the last-call comments, and make sure that specifically  requested reviews arrive.  
 2.  Make sure the Document Editors respond to all reviews and  comments in a timely manner.  
-3.  Keep the dialogue going between the community and the editors  until all issues have been dealt with.  
+3.  Keep the dialogue going between the community and the editors  until all issues have been dealt with.
 4.  See to it that issues are brought back before the working group if they are significant enough to require it.
 
 ## Stage: Waiting for AD Go-Ahead
