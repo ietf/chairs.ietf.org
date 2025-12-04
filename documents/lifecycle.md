@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T18:15:12.409Z
+date: 2025-12-04T18:17:13.772Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -18,7 +18,7 @@ It is very common to see documents progress far too slowly, sometimes languishin
 
 We would really prefer to process documents efficiently, ensuring that whatever happens is intentional: that documents are set aside only when it makes sense to do so, and that active documents move forward in the process, with someone responsible for making sure that happens.
 
-This document suggests specific tasks a Working Group Chair should be doing or delegating in order to maintain forward progress, accountability, and quality control on a working group document. It adds to what's in RFC 4858, intending to extend it, not replace it. Major extensions involve assigning a Shepherd and defining specific tasks earlier in a document's life, and possibly delegating Document Shepherd tasks to a Shepherd who is neither a Chair nor the Working Group Secretary (consistent with the [IESG Statement on Document Shepherds](http://www.ietf.org/iesg/statement/document-shepherds.html)).
+This document suggests specific tasks a Working Group Chair should be doing or delegating in order to maintain forward progress, accountability, and quality control on a working group document. It adds to what's in RFC 4858, intending to extend it, not replace it. Major extensions involve assigning a Shepherd and defining specific tasks earlier in a document's life, and possibly delegating Document Shepherd tasks to a Shepherd who is neither a Chair nor the Working Group Secretary (consistent with the [IESG Statement on Document Shepherds](https://datatracker.ietf.org/doc/statement-iesg-iesg-statement-on-document-shepherds-20101011/)).
 
 The summaries in each section of the tasks expected at that stage in the document's lifecycle can make this an easy reference and checklist for Working Group Chairs and Document Shepherds.
 
@@ -50,18 +50,18 @@ And this bears repeating: Nothing in this document is suggesting that the Workin
 
 From the time a working group is asked to take on a document as one of its work items, the document will go through a number of stages, most of which correspond closely to working group document states (RFC 6174) or IESG document states in the datatracker (see [the mapping table below](#lifecycle-stages-and-corresponding-document-states)):
 
-1.  Call for Adoption
-2.  Working Group Document
-3.  Working Group Last Call
-4.  Shepherd Writeup Underway
-5.  AD Evaluation
-6.  IETF Last Call
+1. Call for Adoption
+2. Working Group Document
+3. Working Group Last Call
+4. Shepherd Writeup Underway
+5. AD Evaluation
+6. IETF Last Call
 7. Waiting for AD Go-Ahead
 8. IESG Evaluation
 9. Approved by the IESG  
-10.  In RFC Editor Queue
-12.  AUTH48
-13.  Published
+10. In RFC Editor Queue
+12. AUTH48
+13. Published
 
 Through most of those stages steps will have to be taken, tasks will need to be performed, to make sure the document moves forward, that consensus is reached, that the right reviews are done, that updates are made, that consensus still holds after significant changes, and so on. The Document Shepherd Function comprises that set of tasks, and the document shepherd works with the Chairs as needed, and to have the datatracker state changes recorded.
 
