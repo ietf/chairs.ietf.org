@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T18:32:30.043Z
+date: 2025-12-04T18:37:56.376Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -10,7 +10,7 @@ dateCreated: 2022-05-10T14:46:37.419Z
 
 # Introduction
 
-RFC 4858 talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before Working Group Last Call, starting, really, at the time that a working group begins discussing a version of the idea that's been posted as an individual Internet-Draft. It seems reasonable and helpful in many situations to begin shepherding when there's a call for adoption as a working group document. 
+RFC 4858 talks about "Document Shepherding from Working Group Last Call to Publication". There's a significant part of a document's life that happens before Working Group Last Call, starting, really, at the time that a working group begins discussing a version of the idea that's been posted as an individual Internet-Draft (I-D). It seems reasonable and helpful in many situations to begin shepherding when there's a call for adoption as a working group document. 
 
 This document extends RFC 4858, describing how that extended shepherding function might work and what tasks might be involved throughout the document's lifecycle, and suggesting how Working Group Chairs might choose to implement extended shepherding.
 
@@ -284,9 +284,9 @@ At this stage, it's usually a matter of making sure that the latest version of t
 
 The tasks for the Shepherd at the Approved by the IESG stage might be as follows:
 
-1.  Work with the Responsible AD to understand what still needs to be addressed.
-2.  Double-check the IANA actions and ask the AD about any RFC Editor notes; follow up on any errors or omissions.
-3.  Make sure the Document Editors and the Responsible AD move the document to the final Approved state.
+1. Work with the Responsible AD to understand what still needs to be addressed.
+1. Double-check the IANA actions and ask the AD about any RFC Editor notes; follow up on any errors or omissions.
+1. Make sure the Document Editors and the Responsible AD move the document to the final Approved state.
 
 ## Stage: In RFC Editor Queue
 
@@ -296,8 +296,7 @@ Watch particularly for states that indicate that IANA is waiting for something, 
 
 Also watch for questions from the RFC Editor, which occasionally come during their editing process, before AUTH48. Make sure the authors give timely responses, and keep the working group informed about anything that seems substantive.
 
-The tasks for the Shepherd at the In RFC Editor Queue stage might be as
-follows:
+The tasks for the Shepherd at the In RFC Editor Queue stage might be as follows:
 
 1.  Sip tea or drink beer or wine, and wait for AUTH48.
 1.  Talk to the Responsible AD if something doesn't look right.
@@ -309,11 +308,11 @@ AUTH48 is an RFC Editor state that occurs when the RFC Editors have done their f
 
 AUTH48 is a critical document state; do not downplay its importance. At this stage, the Shepherd should re-review the document, paying special attention to recent changes. The Document Editors must do the same, and a response from every Author/Editor listed at the top of the document is required before the RFC Editor will finish the publication process. The Document Shepherd needs to make sure that the Editors all respond, and should take the lead in prompting them early and frequently. Remember that "AUTH48" is meant to refer to 48 hours, not 48 days. Don't let this drag on.
 
-The RFC Editor will often have questions that the Authors/Editors need to answer. The Document Editors often have minor changes to insert at this point. The Shepherd should consider those answers, those changes, and the changes the RFC Editor has made leading into AUTH48, and assess, in consultation with the Chairs and the Responsible AD, whether any changes need to be passed back to the working group -- remember that the document has been approved by rough consensus of the working group, and then of the IETF as a whole, and the final, published version must continue to reflect that consensus.
+The RFC Editor will often have questions that the Authors/Editors need to answer. The Document Editors often have minor changes to insert at this point. The Shepherd should consider those answers, those changes, and the changes the RFC Editor has made leading into AUTH48, and assess, in consultation with the Chairs and the Responsible AD, whether any changes need to be passed back to the working group—remember that the document has been approved by rough consensus of the working group, and then of the IETF as a whole, and the final, published version must continue to reflect that consensus.
 
 It's unusual for there to be significant controversy at this stage, but it's been known to happen. Sometimes a change or a question by the RFC Editor will raise a question with the Document Editors that had not come up before. Sometimes, the right answer to one of those questions will be more than just editorial, and sometimes it will involve a significant technical decision. Decisions of that nature should not be made by the Document Editors alone, and the Shepherd should arrange with the Chairs to have those issues discussed by the working group.
 
-If there are changes the RFC Editor thinks the responsible AD needs to approve, they will flag those changes and ask the AD for approval. It's easy for ADs to miss those -- they expect this stage to be pretty routine -- so it's important to make sure the AD is aware that a response is needed. Watch for such items and remind the AD if there's no response within a few days.
+If there are changes the RFC Editor thinks the responsible AD needs to approve, they will flag those changes and ask the AD for approval. It's easy for ADs to miss those—they expect this stage to be pretty routine—so it's important to make sure the AD is aware that a response is needed. Watch for such items and remind the AD if there's no response within a few days.
 
 Most of the time, though, this stage will run smoothly, the Document Editors will respond to the AUTH48 messages with a minimum of prodding, and the RFC Editor will announce their happiness and proceed with the publication process.
 
@@ -321,7 +320,7 @@ See also Section 5 of RFC 4858.
 
 The tasks for the Shepherd at the AUTH48 stage might be as follows:
 
-1. Monitor the AUTH48 process and make sure all questions are answered and all Authors/Editors respond as needed.`  
+1. Monitor the AUTH48 process and make sure all questions are answered and all Authors/Editors respond as needed.
 2. Assess whether any issues that come up are significant enough to  need review by the working group.
 
 ## Stage: Published
