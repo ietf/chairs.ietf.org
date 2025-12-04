@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T18:21:01.991Z
+date: 2025-12-04T18:23:48.225Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -92,11 +92,11 @@ And, of course, a non-chair Shepherd can and should consult with the Responsible
 Communication with the Shepherd is often dependent upon having the correct email address in the datatracker. It would be good, especially if the Shepherd is not a Chair, to check that the Shepherd's email address in the datatracker is correct and current.
 
 Tasks that need to be taken in preparation might be as follows:
-1. Chairs: Confirm that the document falls within the working group's charter.  
-1. Chairs: Select a Responsible Chair to handle the document.
-1. Responsible Chair: Decide on a work/delegation plan.
-1. Responsible Chair: Possibly appoint a non-chair Shepherd; else the Responsible Chair becomes the Shepherd.
-1. Check that the Shepherd's email address in the datatracker is correct.
+1. Chairs: Confirm that the document falls within the working group's charter.
+1. Chairs: Select a Responsible Chair to handle the document.
+1. Responsible Chair: Decide on a work/delegation plan.
+1. Responsible Chair: Possibly appoint a non-chair Shepherd; else the Responsible Chair becomes the Shepherd.
+1. Check that the Shepherd's email address in the datatracker is correct.
 
 ## Stage: Call for Adoption
 
@@ -108,10 +108,10 @@ Assuming that the document was adopted, the Chairs will appoint one or more Edit
 
 In summary, the tasks at the Call for Adoption stage might be as follows:
 
-1. Shepherd: Make the call for adoption; set deadlines and schedule.
-2. Shepherd: Communicate the result to the Chairs;
-3. Chairs: Announce the result and appoint Document Editor(s) for the WG document.
-4. Chairs: Update the datatracker; approve -00 version submission.
+1. Shepherd: Make the call for adoption; set deadlines and schedule.
+1. Shepherd: Communicate the result to the Chairs;
+1. Chairs: Announce the result and appoint Document Editor(s) for the WG document.
+1. Chairs: Update the datatracker; approve -00 version submission.
 
 ## Stage: Working Group Document
 
