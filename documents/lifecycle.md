@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T21:52:44.865Z
+date: 2025-12-04T21:55:30.570Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -133,15 +133,15 @@ The Shepherd will know when the document is moving from this stage into the next
 
 In summary, the tasks for the Shepherd at the Working Group Document stage might be as follows:
 
-1. Work with the Chairs to understand the desired mechanism for managing discussions.
-1. Watch the discussions as they unfold; call out and record specific issues that come up.
-1. Steer the discussion when necessary.
-1. Prod the discussions when necessary.
-1. Prod the Document Editors when necessary.
-1. Use appropriate tools, such as issue trackers and wikis.
-1. Consider early IANA allocation and bring it up for discussion if appropriate.
-1. Determine when it's time to start wrapping things up and moving to Working Group Last Call, and advise the chairs.
-1. Alternatively, determine that it's not possible to move the document forward, and the Chairs need to consider abandoning it.
+1. Work with the Chairs to understand the desired mechanism for managing discussions.
+1. Watch the discussions as they unfold; call out and record specific issues that come up.
+1. Steer the discussion when necessary.
+1. Prod the discussions when necessary.
+1. Prod the Document Editors when necessary.
+1. Use appropriate tools, such as issue trackers and wikis.
+1. Consider early IANA allocation and bring it up for discussion if appropriate.
+1. Determine when it's time to start wrapping things up and moving to Working Group Last Call, and advise the chairs.
+1. Alternatively, determine that it's not possible to move the document forward, and the Chairs need to consider abandoning it.
 
 ## Stage: Working Group Last Call
 
@@ -156,11 +156,11 @@ The [shepherd writeup](http://www.ietf.org/iesg/template/doc-writeup.html), whic
 The tasks for the Shepherd at the Working Group Last Call stage might be
 as follows:
 
-1. Issue an official "Working Group Last Call" message on the list, with a reasonable deadline given.
+1. Issue an official "Working Group Last Call" message on the list, with a reasonable deadline given.
 1. Closely watch the reviews and discussions at this stage, and make sure they are focused on closing final issues and giving the document final review.
-1. Specifically ask (perhaps off list) for key reviews.
-1.  Begin preparing the shepherd writeup, and request any external reviews that will be needed.
-1.  Analyze the results of Working Group Last Call and get final updates from the Document Editors.
+1. Specifically ask (perhaps off list) for key reviews.
+1. Begin preparing the shepherd writeup, and request any external reviews that will be needed.
+1. Analyze the results of Working Group Last Call and get final updates from the Document Editors.
 
 ## Stage: Shepherd Writeup Underway
 
@@ -185,8 +185,8 @@ See also RFC 4858), Section 3.1, but note that the writeup template has changed 
 
 The tasks at the Shepherd Writeup Underway stage might be as follows:
 
-1. Shepherd: Complete the shepherd writeup and send it to the Chairs for approval.
-1. Chairs: Work with the Shepherd to finalize the writeup.
+1. Shepherd: Complete the shepherd writeup and send it to the Chairs for approval.
+1. Chairs: Work with the Shepherd to finalize the writeup.
 1. Chairs: Put the writeup into the datatracker, and change the tracker document state to the appropriate one for requesting publication.
 1. Shepherd: Send the writeup to the working group mailing list and inform the working group that publication has been requested.
 
@@ -271,10 +271,10 @@ The IESG web site has more details about [IESG ballot positions](http://www.ietf
 
 The tasks for the Shepherd at the IESG Evaluation stage might be as follows:
 
-1.  Keep track of the DISCUSS positions and review comments by the IESG.
-1.  Make sure all comments are addressed, and help the discussions of DISCUSS positions reach closure.
-1.  Keep both the Document Editors and the Discussing AD engaged in the resolution of the issues.`  
-1.  See to it that issues are brought back before the working group if they are significant enough to require it.
+1. Keep track of the DISCUSS positions and review comments by the IESG.
+1. Make sure all comments are addressed, and help the discussions of DISCUSS positions reach closure.
+1. Keep both the Document Editors and the Discussing AD engaged in the resolution of the issues.
+1. See to it that issues are brought back before the working group if they are significant enough to require it.
 
 ## Stage: Approved by the IESG
 
@@ -284,8 +284,8 @@ At this stage, it's usually a matter of making sure that the latest version of t
 
 The tasks for the Shepherd at the Approved by the IESG stage might be as follows:
 
-1. Work with the Responsible AD to understand what still needs to be addressed.
-1. Double-check the IANA actions and ask the AD about any RFC Editor notes; follow up on any errors or omissions.
+1. Work with the Responsible AD to understand what still needs to be addressed.
+1. Double-check the IANA actions and ask the AD about any RFC Editor notes; follow up on any errors or omissions.
 1. Make sure the Document Editors and the Responsible AD move the document to the final Approved state.
 
 ## Stage: In RFC Editor Queue
@@ -298,9 +298,9 @@ Also watch for questions from the RFC Editor, which occasionally come during the
 
 The tasks for the Shepherd at the In RFC Editor Queue stage might be as follows:
 
-1.  Sip tea or drink beer or wine, and wait for AUTH48.
-1.  Talk to the Responsible AD if something doesn't look right.
-1.  Watch for questions from the RFC Editor, and track the responses.
+1. Sip tea or drink beer or wine, and wait for AUTH48.
+1. Talk to the Responsible AD if something doesn't look right.
+1. Watch for questions from the RFC Editor, and track the responses.
 
 ## Stage: AUTH48
 
