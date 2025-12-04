@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T18:37:56.376Z
+date: 2025-12-04T21:38:49.482Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -190,7 +190,7 @@ The tasks at the Shepherd Writeup Underway stage might be as follows:
 1. Chairs: Put the writeup into the datatracker, and change the tracker document state to the appropriate one for requesting publication.
 1. Shepherd: Send the writeup to the working group mailing list and inform the working group that publication has been requested.
 
-## Stage: Area Director
+## Stage: Area Director Evaluation
 
 The next stage in the process is up to the Responsible Area Director, and the Document Shepherd has but one easy task: help make this stage as short as possible. The Responsible AD or the IESG Secretary will do some document state changes in the datatracker (to Publication Requested and then to AD Evaluation), and the AD will review the document and either request IETF Last Call or respond to the authors (and, we hope, to the Shepherd as well; here's where it was useful to have put the Shepherd's email address in the tracker) with review comments and suggestedchanges. In the latter case, the document's state might change to "AD Evaluation, Revised I-D Needed".
 
