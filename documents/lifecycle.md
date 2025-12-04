@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T18:31:38.717Z
+date: 2025-12-04T18:32:30.043Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -185,10 +185,10 @@ See also RFC 4858), Section 3.1, but note that the writeup template has changed 
 
 The tasks at the Shepherd Writeup Underway stage might be as follows:
 
-1.  Shepherd: Complete the shepherd writeup and send it to the Chairs for approval.
-2.  Chairs: Work with the Shepherd to finalize the writeup.
-3.  Chairs: Put the writeup into the datatracker, and change the tracker document state to the appropriate one for requesting publication.
-1.  Shepherd: Send the writeup to the working group mailing list and inform the working group that publication has been requested.
+1. Shepherd: Complete the shepherd writeup and send it to the Chairs for approval.
+1. Chairs: Work with the Shepherd to finalize the writeup.
+1. Chairs: Put the writeup into the datatracker, and change the tracker document state to the appropriate one for requesting publication.
+1. Shepherd: Send the writeup to the working group mailing list and inform the working group that publication has been requested.
 
 ## Stage: Area Director
 
