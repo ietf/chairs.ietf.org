@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T18:23:48.225Z
+date: 2025-12-04T18:27:32.948Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -40,7 +40,7 @@ While, ultimately, it is the responsibility of the Working Group Chairs to ensur
 
 > The Working Group Chair is concerned with making forward progress through a fair and open process, and has wide discretion in the conduct of WG business. The Chair must ensure that a number of tasks are performed, either directly or by others assigned to the tasks.
 
-This document proposes an extended set of Document Shepherd tasks, well beyond those covered in RFC 4858. In many cases it will be reasonable to assign the entire Document Shepherd Function to one person (to a Chair or to a non-chair delegate), but in many other cases the Chairs will likely choose to delegate parts of that function and keep other parts for themselves. In any case, the Chairs remain responsible for the management of the working group; they are whom the Area Director will come to if something goes wrong or things fail to make progress.
+This document proposes an extended set of Document Shepherd tasks, well beyond those covered in RFC 4858. In many cases it will be reasonable to assign the entire Document Shepherd Function to one person (to a Chair or to a non-chair delegate), but in many other cases the Chairs will likely choose to delegate parts of that function and keep other parts for themselves. In any case, the Chairs remain responsible for the management of the working group; they are whom the Area Director (AD) will come to if something goes wrong or things fail to make progress.
 
 As we talk, then, about what the "Document Shepherd" does, understand that the individual doing each particular task will be the one assigned that task as the work on a particular document is laid out. When we say that the Shepherd should do a task in consultation with the Chairs, that's automatically true when it's already a Chair who's doing it.
 
@@ -156,15 +156,11 @@ The [shepherd writeup](http://www.ietf.org/iesg/template/doc-writeup.html), whic
 The tasks for the Shepherd at the Working Group Last Call stage might be
 as follows:
 
-`1.  Issue an official "Working Group Last Call" message on the list,`  
-`  with a reasonable deadline given.`  
-`1.  Closely watch the reviews and discussions at this stage, and make`  
-`  sure they are focused on closing final issues and giving the document final review.`  
-`1.  Specifically ask (perhaps off list) for key reviews.`  
-`1.  Begin preparing the shepherd writeup, and request any external`  
-`  reviews that will be needed.`  
-`1.  Analyze the results of Working Group Last Call and get final`  
-`  updates from the Document Editors.`
+1. Issue an official "Working Group Last Call" message on the list, with a reasonable deadline given.
+1. Closely watch the reviews and discussions at this stage, and make sure they are focused on closing final issues and giving the document final review.
+1. Specifically ask (perhaps off list) for key reviews.
+1.  Begin preparing the shepherd writeup, and request any external reviews that will be needed.
+1.  Analyze the results of Working Group Last Call and get final updates from the Document Editors.
 
 ## Stage: Shepherd Writeup Underway
 
