@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T18:28:30.112Z
+date: 2025-12-04T18:31:38.717Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -204,8 +204,7 @@ Many documents spend \*months\* in AD Evaluation state, largely because of lack 
 
 See also RFC 4858, Section 3.2.
 
-The tasks for the Shepherd at the AD Evaluation stage might be as
-follows:
+The tasks for the Shepherd at the AD Evaluation stage might be as follows:
 
 1.  Make sure the AD reviews the document in a timely manner, and send occasional reminders as needed.
 1.  Make sure the Document Editors respond to the review in a timely manner, and poke them as well, as needed.`  
@@ -250,7 +249,7 @@ The tasks for the Shepherd at the Waiting for AD Go-Ahead stage might be as foll
 
 ## Stage: IESG Evaluation
 
-As the ADs do their reviews they will record ballot positions on the document. Ballot positions can be one of "Yes", "No Objection", "Discuss", and "Abstain" (there's also "Recuse" for cases when the AD has a conflict of interest with the document, if, for example, the AD is one of the authors/editors). Any of these ballot positions can be accompanied by non-blocking review comments, and "Discuss" also comes with blocking comments in addition -- these must be resolved to the satisfaction of the Discussing AD before the document can be approved by by the IESG. The document will be scheduled for a bi-weekly "telechat" (at the time of this writing they're on Thursdays), and it will be approved then or left in one of several follow-up states.
+As the ADs do their reviews they will record ballot positions on the document. Ballot positions can be one of "Yes", "No Objection", "Discuss", and "Abstain" (there's also "Recuse" for cases when the AD has a conflict of interest with the document, if, for example, the AD is one of the authors/editors). Any of these ballot positions can be accompanied by non-blocking review comments, and "Discuss" also comes with blocking comments in addition—these must be resolved to the satisfaction of the Discussing AD before the document can be approved by by the IESG. The document will be scheduled for a bi-weekly "telechat" (at the time of this writing they're on Thursdays), and it will be approved then or left in one of several follow-up states.
 
 The IESG Evaluation period is normally somewhere between one and three weeks, though it can be as little as a few days in unusual circumstances. Be aware, though, that there's usually a burst of review activity in the final few days before the telechat, and expect most reviews to come in then.
 
@@ -270,8 +269,7 @@ And, as at other stages, the Shepherd should work with the Chairs to ensure that
 
 The IESG web site has more details about [IESG ballot positions](http://www.ietf.org/iesg/voting-procedures.html) and about [IESG DISCUSS ballots](http://www.ietf.org/iesg/statement/discuss-criteria.html) in particular. And see also RFC 4858, Section 3.3.
 
-The tasks for the Shepherd at the IESG Evaluation stage might be as
-follows:
+The tasks for the Shepherd at the IESG Evaluation stage might be as follows:
 
 1.  Keep track of the DISCUSS positions and review comments by the IESG.
 1.  Make sure all comments are addressed, and help the discussions of DISCUSS positions reach closure.
