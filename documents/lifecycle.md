@@ -2,7 +2,7 @@
 title: Document lifecycle
 description: An extended description of the working group document lifecycle provides an overview of the various stages of a document, how a document progresses from one stage to another, and the roles different individuals and groups play at each stage.
 published: true
-date: 2025-12-04T21:38:49.482Z
+date: 2025-12-04T21:52:44.865Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-10T14:46:37.419Z
@@ -133,15 +133,15 @@ The Shepherd will know when the document is moving from this stage into the next
 
 In summary, the tasks for the Shepherd at the Working Group Document stage might be as follows:
 
-1.  Work with the Chairs to understand the desired mechanism for managing discussions.
-1.  Watch the discussions as they unfold; call out and record specific issues that come up.
-1.  Steer the discussion when necessary.
-1.  Prod the discussions when necessary.
-1.  Prod the Document Editors when necessary.
-1.  Use appropriate tools, such as issue trackers and wikis.
-1.  Consider early IANA allocation and bring it up for discussion if appropriate.
-1.  Determine when it's time to start wrapping things up and moving to Working Group Last Call, and advise the chairs.
-1.  Alternatively, determine that it's not possible to move the document forward, and the Chairs need to consider abandoning it.
+1. Work with the Chairs to understand the desired mechanism for managing discussions.
+1. Watch the discussions as they unfold; call out and record specific issues that come up.
+1. Steer the discussion when necessary.
+1. Prod the discussions when necessary.
+1. Prod the Document Editors when necessary.
+1. Use appropriate tools, such as issue trackers and wikis.
+1. Consider early IANA allocation and bring it up for discussion if appropriate.
+1. Determine when it's time to start wrapping things up and moving to Working Group Last Call, and advise the chairs.
+1. Alternatively, determine that it's not possible to move the document forward, and the Chairs need to consider abandoning it.
 
 ## Stage: Working Group Last Call
 
