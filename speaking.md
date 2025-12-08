@@ -2,22 +2,31 @@
 title: Speaking for or about the IETF
 description: This page discusses good practices and guidelines for speaking for or about the IETF.
 published: true
-date: 2025-10-22T14:09:41.897Z
+date: 2025-12-08T16:02:41.448Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-17T21:44:58.653Z
 ---
 
-### Intended Audience for These Guidelines 
+## Presentation materials
+Some standard materials to use when speaking about the IETF.
 
-These guidelines may be useful for Area Directors speaking about their Areas, and Working Group Chairs speaking about their group. They may also be generally useful for any IETF participant.
+* [Standard IETF overview presentation](https://docs.google.com/presentation/d/1nO973anOW5Qh-CtgmzPPxAnzWRhyku4OW5ZSvlETJDA/edit?slide=id.p2#slide=id.p2) (Updated after each IETF meeting)
+* [IETF Snapshot 2024](https://ietf.photoshelter.com/galleries/G0000UuIwl9_Hy.8/I00005X9jp4ehe_U/IETF-Snapshot-2024-pdf) - 1 page summary document
+* [IETF Annual Report 2024](https://www.ietf.org/blog/annual-report-2024/)
 
-### Resources for press
+## Resources for press contact
 If you are contacted by a member of the press on an issue related to the IETF, you should feel free to direct them to a [dedicated page on the www.ietf.org website](https://www.ietf.org/contact/press/) that provides information about the IETF and resources tailored for members of the press. For further information or to request interviews, you can direct them to:
 
 Greg Wood, IETF LLC Senior Director of Communications and Operations
 via media@ietf.org
 (Messages to this address are generally answered within 24 hours)
+
+## Speaking for or about the IETF guidelines
+
+### Intended Audience for These Guidelines 
+
+These guidelines may be useful for Area Directors speaking about their Areas, and Working Group Chairs speaking about their group. They may also be generally useful for any IETF participant.
 
 ### The Guidelines 
 
