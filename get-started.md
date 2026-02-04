@@ -2,7 +2,7 @@
 title: IETF Chair getting started resource list
 description: This webpage aims to provide a summary of information and resources for chairing.
 published: true
-date: 2025-11-01T12:31:53.198Z
+date: 2026-02-04T23:46:12.498Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-06T20:47:56.645Z
@@ -38,7 +38,7 @@ The working group About page has much of the general information about your grou
 
 - Charter
 - Milestones
- - Links to additional resources (such as Github repositories)
+ - Links to additional resources (such as [Github repositories](/github))
 
 > If your WG plans to use Github, then please contact support@ietf.org to ensure the correct set up.
 {.is-info}
