@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2025-11-25T20:55:43.627Z
+date: 2026-02-20T16:05:06.347Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -75,7 +75,7 @@ Messages can be held in moderaton for a number of reasons, not just because the 
 Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting).
 
 To put an address into moderation:
-1. Find the address, which may mean checking both the members and non-members lists under the **Users** menu
+1. Find the address, which may mean checking both the [members and non-members lists](https://chairs.ietf.org/mailing-lists#global-allowlist-and-members-vs-non-members) under the **Users** menu
 2. Changing its **Moderation** setting to `Hold`.
 
 To unmoderate, change the **Moderation** setting to `Default processing`. 
