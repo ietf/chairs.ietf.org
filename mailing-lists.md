@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2026-02-20T16:14:12.124Z
+date: 2026-02-20T16:39:29.281Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -93,6 +93,14 @@ If you have a problematic spammer that you want to block and you are certain tha
 1. (*optional*) Temporarily add them to the ban list (**Ban list** on the list admin menu) or put them into moderation.
 2. Contact support@ietf.org to have them blocked at the mail server.
 3. (*optional*) If spam messages have made it through to the mail archive and you want those messages not to be visible, then please contact support@ietf.org with links to the messages.
+
+# Other list settings to consider
+
+## Maximum number of recipients
+Found under `Settings->Message Acceptance`, the default value for this is "10". You may consider changing this, for example if there are commonly large numbers of I-D authors to whom messages are individually addressed in messages.
+
+## Maximum message size
+Found under `Settings->Message Acceptance`, the default value for this is "0" which disables any maximum size. You may wish to consider setting a maximum of 10,000 (KB, or 10MB) to avoid large messages being sent.
 
 # Further information
 * Guidance on managing [disruptive posting](/mailing-lists/disruptive-posting)
