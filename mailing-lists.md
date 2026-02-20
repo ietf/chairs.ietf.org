@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2026-02-20T16:39:29.281Z
+date: 2026-02-20T16:39:45.848Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -97,7 +97,7 @@ If you have a problematic spammer that you want to block and you are certain tha
 # Other list settings to consider
 
 ## Maximum number of recipients
-Found under `Settings->Message Acceptance`, the default value for this is "10". You may consider changing this, for example if there are commonly large numbers of I-D authors to whom messages are individually addressed in messages.
+Found under `Settings->Message Acceptance`, the default value for this is "10". You may consider changing this, for example if there are commonly large numbers of I-D authors to whom messages are individually addressed in messages sent to the list.
 
 ## Maximum message size
 Found under `Settings->Message Acceptance`, the default value for this is "0" which disables any maximum size. You may wish to consider setting a maximum of 10,000 (KB, or 10MB) to avoid large messages being sent.
