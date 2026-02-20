@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2026-02-20T16:10:57.449Z
+date: 2026-02-20T16:14:12.124Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -82,8 +82,8 @@ To unmoderate, change the **Moderation** setting to `Default processing`.
 
 ## Putting the whole list into moderation
 From the **Settings** tab for your list, select the **Message Acceptance** sub-tab and on there:
-1. Locate the section titled **Default action to take when a _member_ posts to the list** and from the dropdown menu, select `Hold for moderation`.
-2. Additionally, locate the section **Default action to take when a _non-member_ posts to the list** and from the dropdown menu select `Hold for moderation`.
+1. Locate the section titled **Default action to take when a _member_ posts to the list** and from the radio button options, select `Hold for moderation`.
+2. Additionally, locate the section **Default action to take when a _non-member_ posts to the list** and from the radio button options select `Hold for moderation`.
 3. Click the **Save changes** button at the bottom of the page to apply the new moderation settings.
 
 ## Spam control
