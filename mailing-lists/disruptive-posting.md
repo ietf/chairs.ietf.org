@@ -44,6 +44,6 @@ Independent of any action you take as a list admin to manage your mailing list, 
 
 # Further information
 * Working Groups chairs encountering issues are advised to speak to their Area Director for both a heads-up and guidance. 
-* For examples of what constitutes harassment, see the [IETF Anti-Harassment Policy](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/)
+* For examples of what constitutes harassmemtn, see the [IETF Anti-Harassment Policy](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/)
 * Refer to [RFC 2418 section 6.1](https://www.rfc-editor.org/rfc/rfc2418.html#section-6.1) for details on the chair role.
 * For information on where action may be required by law see the [IESG Statement on restricting access to IETF IT systems](https://datatracker.ietf.org/doc/statement-iesg-statement-on-restricting-access-to-ietf-it-systems-20221031/)
