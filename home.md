@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2025-11-17T13:05:01.062Z
+date: 2026-03-16T05:15:49.459Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
@@ -16,7 +16,7 @@ Welcome to a resource site for chairs and others providing leadership and suppor
 General information and resources for chairing.
 
 ### ["IETF Note Well"](https://www.ietf.org/about/note-well/)
-The Note Well should be shown at the beginning of every IETF WG meeting.
+The Note Well should be shown at the beginning of every IETF WG meeting. ([Google Slides](https://docs.google.com/presentation/d/1dokGVym9NINjI84FRqqZA-4P5c3cCqRm59y3sGI_GPg/edit?usp=sharing) | [PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well.pdf) | [MD](https://www.ietf.org/media/documents/note-well.md))
 
 ### [Working Group roles](https://www.ietf.org/participate/roles/)
 More details on roles related to managing a Working Group, including, Working Group Secretary, Group Session Notetaker, Session Scribe, and Working Group Consultant
