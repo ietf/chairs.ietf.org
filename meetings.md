@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2026-03-16T05:14:48.052Z
+date: 2026-03-16T05:40:07.755Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -86,10 +86,7 @@ Working session scribes help bridge in-person sessions for remote participations
 ## Working Group Consultant
 WG Consultants have specific technical background appropriate to the WG and experience in Internet architecture and IETF process. At the discretion of the responsible Area Director, a Consultant may be assigned to a working group.
 
-
 # Templates and and tools
-
-## Slide templates for chairs
 
 [**IETF 125 Session slide deck**](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1)
 A Google Slides starter deck with Note Well.
@@ -106,11 +103,15 @@ This document provides suggestions about the form and content of Working Group a
 - Meeting agenda template ([MD](https://chairs.ietf.org/en/wg-meeting-agenda-template))
 - Meeting notes template ([MD](https://chairs.ietf.org/en/wg-meeting-notes-template))
 
-**Tips for presenters - Tutorial** ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
-
 **Template deck for presenters**
 + Internet-Draft presentation ([PPTX](https://docs.google.com/presentation/d/1x-oFAwgoZ1cVoYKDktjLtbA3Z2yrsxmt/edit?usp=sharing&ouid=115667381203544462141&rtpof=true&sd=true) | [Google Slides](https://docs.google.com/presentation/d/1-msVgg-PlxS66hTbEv1hZAJLqAvDWYkAkd4_AFeXRhE/edit?usp=sharing) )
 (courtesy of [Orie Steele](https://datatracker.ietf.org/person/orie@transmute.industries))
+
+
+**Tips for presenters - Tutorial** ([Slides](https://www.ietf.org/documents/141/91-PresentationSkills-Howard.pdf) | [Video](https://youtu.be/wlodPLEtplU))
+
+**Automatically generated minutes for IETF meetings**
+[IETFMinutes](https://ietfminutes.org/) provides automatic minutes for IETF sessions. Intended to be an aid for Chairs. Maintained by and courtesy of [Eric Rescorla](https://datatracker.ietf.org/person/ekr@rtfm.com).
 
 # Following up
 **[Submitting meeting materials](meeting-materials)**
