@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2023-11-08T11:35:04.253Z
+date: 2026-03-20T05:42:40.422Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -31,9 +31,6 @@ Arriving at solutions supported by the group, even when they are not in full agr
 ## Promoting contribution
 Encouraging input from meeting participants and ensuring all viewpoints are heard.
 
-### 2023 live class
-coming soon
-
 ### 2022 live class
 + [Promoting Contribution Video Recording](https://youtu.be/9ddD6ltSdqg)
 
@@ -50,9 +47,6 @@ Understand the volunteer leader role and helpful mindsets that create successful
 ## Resolving conflict
 Acknowledging differing views and dealing with differing  perspectives, even when alignment seems impossible.
 
-### 2023 live class
-coming soon
-
 ### 2022 live class
 + [Resolving Conflict Video Recording](https://youtu.be/JY81vbrBk1Q)
 
@@ -67,9 +61,6 @@ coming soon
 
 ## Building consensus
 Arriving at solutions supported by the group, even when they are not in full agreement.
-
-### 2023 live class
-coming soon
 
 ### 2022 live class
 + [Building Consensus Video Recording](https://youtu.be/mN6SBrX9KjI)
