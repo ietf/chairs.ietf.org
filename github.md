@@ -24,8 +24,10 @@ If your Github organization already exists, please do the following:
 * If not already done, please change the name to follow the `ietf-foo-wg` format.
 * Send email to support@ietf.org with a link to the Github. 
 
+## Setting up automatic summaries of GitHub activity
 
-
+A service that generates a summary of various IETF WG GitHub repositories and emails the summary to WG mailing lists is available.
+To add your WG GitHub orangization, or modify the list of repositories summarized, see the [README](https://github.com/ietf-github-services/activity-summary/blob/main/README.md) file for the summary service.
 
 ### Further details
 
