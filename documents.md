@@ -2,7 +2,7 @@
 title: Managing documents
 description: Information, tools, and resources for managing IETF working group documents
 published: true
-date: 2025-10-14T17:51:42.561Z
+date: 2026-04-22T19:37:51.138Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:15:39.427Z
@@ -46,6 +46,7 @@ This site is the central resource site for authors of an I-D, with information o
 
 # Document review and processes
 ## Directorate reviews
+
 
 ## Early codepoint allocation by IANA
 [RFC 7210](https://www.rfc-editor.org/rfc/rfc7120.html) describes the process for documents intended to be published in the RFC IETF Stream for early allocation of code points by IANA from registries  when "Specification Required", "RFC Required", "IETF Review", or "Standards Action" policies apply to alleviate the problem where code point allocation is needed to facilitate desired or required implementation and deployment experience prior to publication of an RFC which would normally trigger code point allocation. 
