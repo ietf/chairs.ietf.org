@@ -2,7 +2,7 @@
 title: Chairs training
 description: Training for current and potential IETF working group and IRTF research group chairs and leadership
 published: true
-date: 2026-03-20T05:42:40.422Z
+date: 2026-06-04T18:27:34.729Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-14T19:37:09.631Z
@@ -11,8 +11,11 @@ dateCreated: 2022-10-14T19:37:09.631Z
 # IETF Chairs Training
 
 
-## On-demand training
-Based on live training classes on-demand editions of live classes are now available:
+## Antitrust for IETF Participants
+This [on-demand "Antitrust for IETF participants" course](https://view.genially.com/6a1e0f799e2aad0aeb858628) is intended to educate IETF participants about how to reduce antitrust risks in connection with IETF activities. Nothing in this course changes existing IETF policies. Nothing in this course constitutes legal advice.
+
+## Improving Working Group effectivness
+(On-demand version)
 
 ### Promoting Contribution
 Encouraging input from participants and ensuring all viewpoints are heard.
