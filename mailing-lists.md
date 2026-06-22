@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2026-04-16T13:41:18.825Z
+date: 2026-06-22T02:12:37.003Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -52,7 +52,11 @@ Datatracker does not record any other information about non-WG lists.
 ## Global allowlist and members vs non-members
 The IETF mailing systems maintains a [global allowlist](/mailing-lists/first-time-subscription#global-allowlist) of addresses that are permitted to send to mailing lists. Any address on that list can send to any mailing list, whether or not it is subscribed to that list.
 
-When a post is sent to a list from an address that it is not a member but this message is accepted because that address is on the global allowlist, that address is then automatically added as a **non-member** of the mailing list.  While non-members can post to a list (unless moderated), only members receive messages sent to the list. 
+Each mailing list has
+* **members**, those who can post and who receive posts; and 
+* **non-members**, those who can post but do not receive.
+
+When a post is sent to a list from an address that it is not a member of the list but is on the global allowlist, the message is accepted and that address is **automatically added** as a **non-member** of the mailing list.  If an address is manually added as a non-member but is not on the global allowlist, then it will still need to go through the [process to be added to that](/mailing-lists/first-time-subscription) before it can post to the list.
 
 If you need to find a specific address to manage on your list then remember to check **both** the list of **members** and **non-members** for your list. 
 
