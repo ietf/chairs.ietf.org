@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2026-03-16T05:40:07.755Z
+date: 2026-07-10T17:55:36.771Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -88,7 +88,7 @@ WG Consultants have specific technical background appropriate to the WG and expe
 
 # Templates and and tools
 
-[**IETF 125 Session slide deck**](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1)
+[**IETF 126 Session slide deck**](https://docs.google.com/presentation/d/1W930i_aYcvliMOO7eGnqlPovxhfrLSw9irbVda2E1G8/edit#slide=id.p1)
 A Google Slides starter deck with Note Well.
 
 **[WG session planning spreadsheet](https://docs.google.com/spreadsheets/d/1YFTZbzljjsNoedGhl4KC-12LqapSg8K34wRv3oLzBtE/edit?usp=sharing)**
