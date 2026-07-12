@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2026-07-10T17:55:36.771Z
+date: 2026-07-12T22:01:15.968Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -36,8 +36,6 @@ See [instructions for using the session request tool](/meetings/session-request-
 
 **[Interim WG meeting session request tool](https://datatracker.ietf.org/meeting/interim/request/)**
 See [instructions for organizing interim meetings](/meetings/interim-meeting-instructions)
-
-**Meeting materials [submission](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi) and [management](https://datatracker.ietf.org/cgi-bin/wg/wg_proceedings.cgi)**
 
 # Note Well
 
