@@ -88,7 +88,7 @@ To unmoderate, change the **Moderation** setting to `Default processing`.
 
 To put a subject into moderation:
 1. Find the **Header filters** menu
-2. Set the Header field to `subject`, set Pattern field to your regex to moderate the , set Action field to "Hold for moderation"
+2. Set the Header field to `subject`, set Pattern field to a regex that matches the subject you want to moderate, set Action field to "Hold for moderation"
 3. Inform the list that you have placed the thread in moderation, e.g.,
 
 ~~~
