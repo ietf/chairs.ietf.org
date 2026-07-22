@@ -84,6 +84,20 @@ To put an address into moderation:
 
 To unmoderate, change the **Moderation** setting to `Default processing`. 
 
+## Moderating threads/subjects
+
+To put a subject into moderation:
+1. Find the **Header filters** menu
+2. Set the Header field to `subject`, set Pattern field to your regex to moderate the , set Action field to "Hold for moderation"
+3. Inform the list that you have placed the thread in moderation, e.g.,
+
+~~~
+   Hi! I'm locking this thread subject, which means that people can start
+   new threads, but their message will be held if it replies to this one.
+   your name
+   (for the chairs)
+~~~
+
 ## Putting the whole list into moderation
 From the **Settings** tab for your list, select the **Message Acceptance** sub-tab and on there:
 1. Locate the section titled **Default action to take when a _member_ posts to the list** and from the radio button options, select `Hold for moderation`.
