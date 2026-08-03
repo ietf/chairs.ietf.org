@@ -2,7 +2,7 @@
 title: Organizing meetings
 description: Information, tools, and resources for organizing IETF working group meetings
 published: true
-date: 2026-07-12T22:01:15.968Z
+date: 2026-08-03T15:39:38.784Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:43.501Z
@@ -18,6 +18,7 @@ This document explains some features of rough consensus, the IETF's process of t
 
 **[Information for chairing WG & BOF sessions at IETF Meetings](https://www.ietf.org/meeting/preparation/#chairs)**
 See the "Information for Session Chairs" section for checklists, slide templates, and details about how to use Meetecho.
+* [preparing remote presenters](/meetings/remote-presenters)
 
 **[Managing meetings training](../managing-meetings/)**
 These on-demand videos help WG Chairs organize and run effective meetings that achieve clear outcomes.
