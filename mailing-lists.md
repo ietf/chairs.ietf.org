@@ -2,7 +2,7 @@
 title: Managing mailing lists
 description: Information, tools, and resources for managing IETF working group mailing lists
 published: true
-date: 2026-06-22T02:12:37.003Z
+date: 2026-08-05T17:43:51.509Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-14T18:14:00.690Z
@@ -69,14 +69,17 @@ Mailing lists have two descriptions that can be found on the **Settings** menu:
 
 List admins should keep both of these descriptions up to date.  This is particularly important when a WG recharters or is closed with the list kept open.
 
-## Handling of moderated messages
-Messages can be held in moderaton for a number of reasons, not just because the address is set to moderation.
+## List moderation
+
+Messages can be held in moderaton for a number of reasons, not just because a specific senders' email address is set to moderation.
 
 1. The moderation queue for a specific list can be found under **Held messages** on the top menu, or by using this direct URL: `https://mailman3.[DOMAIN]/mailman3/lists/[LISTADDRESS]/held_messages`
 2. Select the message and the appropriate action `Accept`, `Reject` (sends a rejection notice) or `Discard` (silently discards).
 
-## Moderating / unmoderating individual addresses
-Before putting an address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting).
+When implementing any moderation action, a message should be sent to the list immediately after the action is taken informing subscribers what steps have been taken.
+
+### Moderating / unmoderating individual addresses
+Before putting a sender's email address into moderation, please make sure you are following the guidance on [disruptive posting](/mailing-lists/disruptive-posting).
 
 To put an address into moderation:
 1. Find the address, which may mean checking both the [members and non-members lists](https://chairs.ietf.org/mailing-lists#global-allowlist-and-members-vs-non-members) under the **Users** menu
@@ -84,21 +87,30 @@ To put an address into moderation:
 
 To unmoderate, change the **Moderation** setting to `Default processing`. 
 
-## Moderating threads/subjects
+### Moderating messages with specific email headers
 
-To put a subject into moderation:
+The [mailing list management web interface](https://mailman3.ietf.org/mailman3/) (Postorius) can use email header fields and regular expressions to moderate matching messages sent to the list. The example below uses the `subject` field to moderate a specific thread. Other filters are possible, for example to avoid [unwanted cross posting](https://mailarchive.ietf.org/arch/msg/ssh/8Rknz5tVgRxGC5cwLKJPb0yIaTU/).
+
+**In all cases, the list should be informed of the moderation put in place.**
+
+#### Example:
+
+To put a subject (e.g. for a specific thread) into moderation:
+0. Login to Postorius and navigate to the list
 1. Find the **Header filters** menu
-2. Set the Header field to `subject`, set Pattern field to a regex that matches the subject you want to moderate, set Action field to "Hold for moderation"
+2. Set the Header field to `subject`, set Pattern field to a regex that matches the subject you want to moderate, set Action field to `Hold for moderation`
 3. Inform the list that you have placed the thread in moderation, e.g.,
 
 ~~~
-   Hi! I'm locking this thread subject, which means that people can start
+   Hi! 
+   I'm locking this thread subject, which means that people can start
    new threads, but their message will be held if it replies to this one.
+
    your name
    (for the chairs)
 ~~~
 
-## Putting the whole list into moderation
+### Putting the whole list into moderation
 From the **Settings** tab for your list, select the **Message Acceptance** sub-tab and on there:
 1. Locate the section titled **Default action to take when a _member_ posts to the list** and from the radio button options, select `Hold for moderation`.
 2. Additionally, locate the section **Default action to take when a _non-member_ posts to the list** and from the radio button options select `Hold for moderation`.
