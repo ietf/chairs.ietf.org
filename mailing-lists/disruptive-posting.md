@@ -2,7 +2,7 @@
 title: Disruptive posting
 description: Guidance for list administrators in managing disruptive posting
 published: true
-date: 2025-11-25T20:49:59.067Z
+date: 2026-08-05T17:44:59.850Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-25T00:17:40.059Z
@@ -25,7 +25,7 @@ WG list admins, normally WG Chairs, are expected to follow the rules set out in 
 
 RG list admins, normally RG Chairs, are expected to follow the rules set out in RFC 9775 IRTF Code of Conduct.
 
-If you need to moderate someone (or put the whole list into moderation) then please see [Managing mailing lists](/mailing-lists) for instructions on how to moderate someone and how to handle moderated messages.
+If you need to moderate someone (or put the whole list into moderation) then please see [Managing mailing lists](/mailing-lists#list-moderation) for instructions on how to moderate someone and how to handle moderated messages.
 
 # Removing/redacting messages from the mail archive
 Messages in the [mail archive](https://mailarchive.ietf.org) can be hidden but not deleted.  They also cannot be redacted but a workaround is available as explained below. 
