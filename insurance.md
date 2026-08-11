@@ -1,14 +1,14 @@
 ---
-title: Insurance for decision-making roles in the IETF
+title: Insurance cover
 description: 
 published: true
-date: 2026-08-11T21:45:58.151Z
+date: 2026-08-11T21:55:51.529Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T21:45:58.151Z
 ---
 
-# Insurance cover
+# Insurance for decision-making roles in the IETF
 The IETF Administration LLC (IETF LLC) has secured insurance coverage for members of duly constituted committees, including boards and steering groups, of the IETF community to protect their personal assets against any liability arising from their fiduciary duties and actions as part of these groups. This document provides general information about this coverage. 
 
 The form of insurance is Directors and Officers (D&O). This is the type of insurance applied to individuals in a position of authority within an organization who make significant decisions on behalf of the organization.
