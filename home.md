@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2026-03-16T05:15:49.459Z
+date: 2026-08-11T23:18:46.789Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
@@ -12,22 +12,22 @@ Welcome to a resource site for chairs and others providing leadership and suppor
 
 ## General resources
 
-### [Getting started as a WG Chair](/get-started)
+[Getting started as a WG Chair](/get-started)
 General information and resources for chairing.
 
-### ["IETF Note Well"](https://www.ietf.org/about/note-well/)
+["IETF Note Well"](https://www.ietf.org/about/note-well/)
 The Note Well should be shown at the beginning of every IETF WG meeting. ([Google Slides](https://docs.google.com/presentation/d/1dokGVym9NINjI84FRqqZA-4P5c3cCqRm59y3sGI_GPg/edit?usp=sharing) | [PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well.pdf) | [MD](https://www.ietf.org/media/documents/note-well.md))
 
-### [Working Group roles](https://www.ietf.org/participate/roles/)
+[Working Group roles](https://www.ietf.org/participate/roles/)
 More details on roles related to managing a Working Group, including, Working Group Secretary, Group Session Notetaker, Session Scribe, and Working Group Consultant
 
-### [WG guidelines & procedures (BCP 25)](https://www.rfc-editor.org/info/bcp25)
+[WG guidelines & procedures (BCP 25)](https://www.rfc-editor.org/info/bcp25)
 The formally documented procedures for IETF working groups.
 
-### [WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
+[WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
 Photos of all current IETF WG chairs. (To add or update your photo, send email with an attachment to support@ietf.org)
 
-### [IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
+[IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
 File disclosures about intellectual property rights (IPR) and find out what IPR disclosures have been filed. RFC 8179, ["Intellectual Property Rights in IETF Technology"](https://www.rfc-editor.org/rfc/rfc8179.html) defines IETF intellectual property rights rules.
 
 [RFC6702](https://www.rfc-editor.org/rfc/rfc6702.html) describes some strategies that may be used by working group chairs and working group secretaries to promote compliance with the IPR disclosure rules, which is essential to the accurate development of community consensus around documents produced within the IETF stream.
