@@ -2,7 +2,7 @@
 title: Insurance cover
 description: 
 published: true
-date: 2026-08-11T21:55:51.529Z
+date: 2026-08-11T21:59:42.497Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T21:45:58.151Z
