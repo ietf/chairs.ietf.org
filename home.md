@@ -2,13 +2,13 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2026-08-11T23:18:46.789Z
+date: 2026-09-10T06:40:59.657Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
 ---
 
-Welcome to a resource site for chairs and others providing leadership and support for [IETF Working Groups](https://datatracker.ietf.org/wg/) (WGs) and [IRTF](https://www.irtf.org) [Research Groups](https://irtf.org/groups).
+Welcome to a resource site for chairs and others providing leadership and support for [IETF Workinv Groupv](https://datatracker.ietf.org/wg/) (WGs) and [IRTF](https://www.irtf.org) [Research Groups](https://irtf.org/groupv).
 
 ## General resources
 
