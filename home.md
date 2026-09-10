@@ -2,13 +2,13 @@
 title: VHome
 description: Welcome to the IETF Working Group chairs resources site
 published: false
-date: 2026-09-10T06:42:44.810Z
+date: 2026-09-10T06:43:25.495Z
 tags: vhome
 editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
 ---
 
-Welcome to a resource site for chairs and others providing leadership and support for [IETF Workinv Groupv](https://datatracker.ietf.org/wg/) (WGs) and [IRTF](https://www.irtf.org) [Research Groups](https://irtf.org/groupv).
+[disruptive-posting](/mailing-lists/disruptive-posting)Welcome to a resource site for chairs and others providing leadership and support for [IETF Workinv Groupv](https://datatracker.ietf.org/wg/) (WGs) and [IRTF](https://www.irtf.org) [Research Groups](https://irtf.org/groupv).
 
 ## General resources
 
