@@ -8,29 +8,31 @@ editor: markdown
 dateCreated: 2022-05-19T18:44:06.132Z
 ---
 
-Welcome to a resource site for chairs and others providing leadership and support for [IETF Working Groups](https://datatracker.ietf.org/wg/) (WGs) and [IRTF](https://www.irtf.org) [Research Groups](https://irtf.org/groups).
+# Resources for IETF Working Group Chairs
 
-## General resources
+This site brings together the guidance, policies, and tools you need to lead an IETF Working Group ([WG](https://www.ietf.org/process/wgs/)). Use it to get oriented as a new chair, prepare for and run WG sessions, handle process questions such as intellectual property disclosures, and connect with other chairs.
 
-[Getting started as a WG Chair](/get-started)
-General information and resources for chairing.
+The resources are also useful for WG secretaries and others who support WG leadership. Chairs of [IRTF](https://www.irtf.org) (Internet Research Task Force) [Research Groups](https://irtf.org/groups) will find much of it relevant, though some IETF procedures differ for the IRTF.
 
-["IETF Note Well"](https://www.ietf.org/about/note-well/)
-The Note Well should be shown at the beginning of every IETF WG meeting. ([Google Slides](https://docs.google.com/presentation/d/1dokGVym9NINjI84FRqqZA-4P5c3cCqRm59y3sGI_GPg/edit?usp=sharing) | [PPT](https://www.ietf.org/media/documents/note-well.pptx) | [PDF](https://www.ietf.org/media/documents/note-well.pdf) | [MD](https://www.ietf.org/media/documents/note-well.md))
+The side menu of this site is organized by common Chair tasks and responsibilities.  This site links to the authoritative sources for IETF policy and procedure; where there's any difference, those sources take precedence.
 
-[Working Group roles](https://www.ietf.org/participate/roles/)
-More details on roles related to managing a Working Group, including, Working Group Secretary, Group Session Notetaker, Session Scribe, and Working Group Consultant
+**New chair?** Start with [Getting started as a WG Chair](https://chairs.ietf.org/get-started).
+**Need help?** Email [support@ietf.org](mailto:support@ietf.org).
 
-[WG guidelines & procedures (BCP 25)](https://www.rfc-editor.org/info/bcp25)
-The formally documented procedures for IETF working groups.
+## Connecting to other Chairs
 
-[WG Chairs photo directory](https://datatracker.ietf.org/wg/photos/)
-Photos of all current IETF WG chairs. (To add or update your photo, send email with an attachment to support@ietf.org)
+- **[WG chairs mailing list](https://www.ietf.org/mailman/listinfo/wgchairs)**
+  Subscribe to the discussion list for WG chairs, secretaries and leaders of other IETF-related groups.
+- **[WG chairs mailing list archive](https://mailarchive.ietf.org/arch/browse/wgchairs/)**
+  Browse or search past discussions. The archive is public.
+- **[WG chairs photo directory](https://datatracker.ietf.org/wg/photos/)**
+  Photos of all current IETF WG chairs. To add or update your photo, email it as an attachment to [support@ietf.org](mailto:support@ietf.org).
 
-[IPR policy and disclosures](https://datatracker.ietf.org/ipr/about/)
-File disclosures about intellectual property rights (IPR) and find out what IPR disclosures have been filed. RFC 8179, ["Intellectual Property Rights in IETF Technology"](https://www.rfc-editor.org/rfc/rfc8179.html) defines IETF intellectual property rights rules.
+## Getting help
 
-[RFC6702](https://www.rfc-editor.org/rfc/rfc6702.html) describes some strategies that may be used by working group chairs and working group secretaries to promote compliance with the IPR disclosure rules, which is essential to the accurate development of community consensus around documents produced within the IETF stream.
+- **Tools and Datatracker questions:** email [support@ietf.org](mailto:support@ietf.org).
+- **Process questions about your WG:** contact your WG's responsible Area Director, listed on your WG's page in the [Datatracker](https://datatracker.ietf.org/wg/).
+- **Questions for other chairs:** ask on the [WG chairs mailing list](https://www.ietf.org/mailman/listinfo/wgchairs).
 
 ## IETF Datatracker resources
 
