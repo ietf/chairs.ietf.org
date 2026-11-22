@@ -2,7 +2,7 @@
 title: Insurance cover
 description: 
 published: true
-date: 2026-08-12T09:49:52.074Z
+date: 2026-11-22T02:45:22.627Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T21:45:58.151Z
@@ -20,8 +20,7 @@ The coverage applies to members of decision making groups, including the Interne
 The insurance secured by the IETF LLC covers all actions taken by individuals in the groups and roles listed above that can reasonably be considered to be part of their work in those groups and roles. As with any insurance, the Insurer will determine coverage for specific situations once a claim is submitted. 
 
 ## Continuing coverage after leaving the role
-
-The insurance cover continues after leaving the role for actions taken while acting in that role. This is a standard feature of D\&O insurance.
+The IETF LLC maintains continuous insurance cover, allowing for claims to be made after leaving a role for actions taken while acting in that role.
 
 ## Making use of the insurance
 If you become aware of legal action taken against yourself related to your  role in the IETF,  you should inform the IETF LLC and IETF counsel by email to [legal@ietf.org](mailto:legal@ietf.org). The IETF LLC will coordinate with the insurers to determine how the coverage is applied.
