@@ -1,11 +1,13 @@
 ---
 title: First-time subscription
-description: Explanation of what happens when someone sends for the first time or subscribes to an IETF mailing list
+description: >-
+  Explanation of what happens when someone sends for the first time or
+  subscribes to an IETF mailing list
 published: true
-date: 2025-11-25T21:16:26.392Z
-tags: 
+date: '2025-11-25T21:16:27.582Z'
+tags: []
 editor: markdown
-dateCreated: 2025-11-25T00:48:58.838Z
+dateCreated: '2025-11-25T00:48:58.838Z'
 ---
 
 # First time sending to IETF/IRTF/IAB/RFC Editor mailing lists
@@ -133,3 +135,4 @@ This serves the following purposes:
 3. Explains how to manage the subscription.
 4. Includes the full Note Well as a reminder of the policies.
 5. Provides a support path for problems/queries.
+

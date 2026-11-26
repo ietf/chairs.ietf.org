@@ -1,11 +1,13 @@
 ---
 title: Managing mailing lists
-description: Information, tools, and resources for managing IETF working group mailing lists
+description: >-
+  Information, tools, and resources for managing IETF working group mailing
+  lists
 published: true
-date: 2026-08-05T17:43:51.509Z
-tags: 
+date: '2026-08-05T17:43:52.849Z'
+tags: []
 editor: markdown
-dateCreated: 2021-12-14T18:14:00.690Z
+dateCreated: '2021-12-14T18:14:00.690Z'
 ---
 
 # Key background information for list admins
@@ -137,3 +139,4 @@ Found under `Settings->Message Acceptance`, the default value for this is "0" wh
 * Explanation of [First-time subscription](/mailing-lists/first-time-subscription) and the global allowlist
 * For information on where action may be required by law see the [IESG Statement on restricting access to IETF IT systems](https://datatracker.ietf.org/doc/statement-iesg-statement-on-restricting-access-to-ietf-it-systems-20221031/)
 * For futher support related to Mailman mailing lists or the Postorius administrative interface, send email to: [support@ietf.org](mailto:support@ietf.org)
+

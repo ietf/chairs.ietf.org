@@ -1,11 +1,11 @@
 ---
 title: Derivative Rights in IETF documents
-description: 
+description: ''
 published: true
-date: 2026-09-11T03:07:22.721Z
-tags: 
+date: '2026-09-11T03:07:24.101Z'
+tags: []
 editor: markdown
-dateCreated: 2026-09-11T03:07:22.721Z
+dateCreated: '2026-09-11T03:07:22.721Z'
 ---
 
 > This page is still undergoing review and should not be relied on so long as this notice is in place.

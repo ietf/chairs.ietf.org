@@ -2,10 +2,10 @@
 title: wg-meeting-notes-template
 description: A template for wg meeting notes that works with IETF Datatracker
 published: true
-date: 2021-12-15T00:50:43.551Z
-tags: 
+date: '2021-12-15T00:50:45.247Z'
+tags: []
 editor: markdown
-dateCreated: 2021-12-15T00:08:11.891Z
+dateCreated: '2021-12-15T00:08:11.891Z'
 ---
 
 # WGNAME IETF NNN Session Agenda Template
@@ -73,3 +73,4 @@ SCRIBE NAMES
 
 ### AOB or As Time Permits
 ___
+

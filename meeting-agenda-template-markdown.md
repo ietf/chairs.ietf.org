@@ -2,10 +2,10 @@
 title: WG meeting agenda template
 description: WG meeting agenda template in markdown
 published: true
-date: 2021-12-14T00:02:22.012Z
-tags: 
+date: '2021-12-14T00:02:22.012Z'
+tags: []
 editor: markdown
-dateCreated: 2021-12-14T00:02:20.229Z
+dateCreated: '2021-12-14T00:02:20.229Z'
 ---
 
 > Notes about using this template
@@ -122,3 +122,4 @@ ___
 
 ### As Time Permits
 ___
+

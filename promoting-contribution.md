@@ -1,11 +1,13 @@
 ---
 title: Promoting contribution
-description: Encouraging input from meeting participants and ensuring all viewpoints are heard.
+description: >-
+  Encouraging input from meeting participants and ensuring all viewpoints are
+  heard.
 published: true
-date: 2022-08-08T23:12:33.457Z
-tags: 
+date: '2022-08-08T23:12:36.724Z'
+tags: []
 editor: markdown
-dateCreated: 2021-09-15T16:35:27.373Z
+dateCreated: '2021-09-15T16:35:27.373Z'
 ---
 
 # Promoting contribution

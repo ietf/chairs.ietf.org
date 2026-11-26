@@ -1,11 +1,13 @@
 ---
 title: Chairs training
-description: Training for current and potential IETF working group and IRTF research group chairs and leadership
+description: >-
+  Training for current and potential IETF working group and IRTF research group
+  chairs and leadership
 published: true
-date: 2026-06-04T18:27:34.729Z
-tags: 
+date: '2026-06-04T18:27:36.277Z'
+tags: []
 editor: markdown
-dateCreated: 2022-10-14T19:37:09.631Z
+dateCreated: '2022-10-14T19:37:09.631Z'
 ---
 
 # IETF Chairs Training

@@ -1,11 +1,11 @@
 ---
-title: Quick Guide: Initiating WGLC and requesting IESG publication
+title: 'Quick Guide: Initiating WGLC and requesting IESG publication'
 description: How to requests publication of a Working Group Internet-Draft
 published: true
-date: 2023-07-12T16:37:08.336Z
-tags: 
+date: '2023-07-12T16:37:12.982Z'
+tags: []
 editor: markdown
-dateCreated: 2023-07-10T19:24:55.289Z
+dateCreated: '2023-07-10T19:24:55.289Z'
 ---
 
 This quick guide was created by [Mirja Kühlewind](https://datatracker.ietf.org/person/mirja.kuehlewind@ericsson.com)
@@ -58,10 +58,10 @@ Review all information on the next page and click “send”
 
 '10. If you have a milestone that indicates submission of this document to the IESG, mark the milestone as done. On the working group page, click on “Edit milestones”
 
-![screenshot_2023-07-10_at_16.40.26.png](/screenshot_2023-07-10_at_16.40.26.png)
+![screenshot_2023-07-10_at_16.40.26.png](/screenshot-2023-07-10-at-16.40.26.png)
 
 - Click on the milestone you want to change and tick the “Resolved” box, then click “Review changes”
-![screenshot_2023-07-10_at_16.41.04.png](/screenshot_2023-07-10_at_16.41.04.png)
+![screenshot_2023-07-10_at_16.41.04.png](/screenshot-2023-07-10-at-16.41.04.png)
 - On the next page you can review your changes again before you save them. Don’t forget to click the save button! -> This will trigger a mail to the chairs, AD, and WGmailing list.
 
 And in only 10 steps (which may take multiple weeks) you have submitted your WG I-D to the IESG for publication! Read this [IESG statement to understand what happens as the IESG considers the document](https://www.ietf.org/about/groups/iesg/statements/handling-ballot-positions/).

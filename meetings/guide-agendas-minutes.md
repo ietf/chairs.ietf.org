@@ -1,11 +1,13 @@
 ---
 title: Formatting and Content of IETF Working Group Agendas and Minutes
-description: This document provides suggestions about the form and content of Working Group agendas and minutes.
+description: >-
+  This document provides suggestions about the form and content of Working Group
+  agendas and minutes.
 published: true
-date: 2021-12-16T15:40:11.334Z
-tags: 
+date: '2021-12-16T15:40:13.974Z'
+tags: []
 editor: markdown
-dateCreated: 2021-12-16T15:29:24.352Z
+dateCreated: '2021-12-16T15:29:24.352Z'
 ---
 
 [RFC 2418](http://rfc-editor.org/rfc/rfc2418.html) outlines the procedures for IETF Session operation. However, it contains little information about post-IETF meeting working group chair responsibilities. In particular, it provides little guidance with respect to either form or submission deadlines for the artifacts of the meeting, namely, session minutes and presentation materials. This document addresses these issues and provides suggestions about the form and content of Working Group agendas and minutes. The use of the templates is not mandatory and the guidance herein may be safely ignored.

@@ -1,11 +1,14 @@
 ---
 title: Meeting materials
-description: IETF meeting materials include agendas, minutes, and presentation slides. Meeting materials may be submitted by using the The IETF Meeting Materials Management Tool, or by email to the Secretariat.
+description: >-
+  IETF meeting materials include agendas, minutes, and presentation slides.
+  Meeting materials may be submitted by using the The IETF Meeting Materials
+  Management Tool, or by email to the Secretariat.
 published: true
-date: 2022-07-23T23:48:10.285Z
-tags: 
+date: '2022-07-23T23:48:14.840Z'
+tags: []
 editor: markdown
-dateCreated: 2021-12-17T17:41:30.456Z
+dateCreated: '2021-12-17T17:41:30.456Z'
 ---
 
 # Submitting Agendas

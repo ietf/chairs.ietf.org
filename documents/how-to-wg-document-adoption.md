@@ -1,11 +1,13 @@
 ---
-title: How to: Document call for adoption
-description: How to initiate a call for adoption of a document by a working group in Datatracker
+title: 'How to: Document call for adoption'
+description: >-
+  How to initiate a call for adoption of a document by a working group in
+  Datatracker
 published: true
-date: 2022-11-06T11:32:45.619Z
-tags: 
+date: '2022-11-06T11:32:48.824Z'
+tags: []
 editor: markdown
-dateCreated: 2022-11-06T11:32:45.619Z
+dateCreated: '2022-11-06T11:32:45.619Z'
 ---
 
 1. Start an adoption call on the working group mailing list. After that you can indicate that an adoption call has been issued. 
@@ -29,3 +31,4 @@ Approve the document.
 Make sure that “replaced by” is set.
 
 Once the updated revision of the document has been submitted, set the state to “WG Document”.
+

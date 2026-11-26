@@ -2,10 +2,10 @@
 title: Home
 description: Welcome to the IETF Working Group chairs resources site
 published: true
-date: 2026-09-10T23:04:39.824Z
-tags: 
+date: '2026-11-25T21:06:09.660Z'
+tags: []
 editor: markdown
-dateCreated: 2022-05-19T18:44:06.132Z
+dateCreated: '2022-05-19T18:44:06.132Z'
 ---
 
 # Resources for IETF Working Group Chairs
@@ -63,3 +63,4 @@ Github is used by some IETF WGs. A [Github Use for Working Groups](github) is av
 
 ### Webex 
 [Webex](https://www.webex.com) is used by many IETF groups. Webex provides a [quick guide](https://help.webex.com/en-US/article/nhww3xz/Host-a-Webex-Meeting-or-Event---Quick-Reference-Tasks) and [How-to videos](https://www.youtube.com/playlist?list=PL_YnWo4XhzTfhkcwB6M1a-wJ9dTlz58yz). Some [Webex tips](webex-tips) have been developed based on IETF experience.
+

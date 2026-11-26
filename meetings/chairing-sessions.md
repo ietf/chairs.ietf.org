@@ -1,11 +1,13 @@
 ---
 title: Information for chairing WG & BOF sessions
-description: This page provides a guide to chairing IETF Working Group or Birds-of-a-Feather sessions.
+description: >-
+  This page provides a guide to chairing IETF Working Group or
+  Birds-of-a-Feather sessions.
 published: true
-date: 2022-11-28T21:00:53.129Z
-tags: 
+date: '2022-11-28T21:00:56.703Z'
+tags: []
 editor: markdown
-dateCreated: 2021-12-21T01:18:30.229Z
+dateCreated: '2021-12-21T01:18:30.229Z'
 ---
 
 > This page provides guidance for conducting in person Working Group sessions supported by the IETF Secretariat and will be updated before the next IETF meeting with an in-person component.

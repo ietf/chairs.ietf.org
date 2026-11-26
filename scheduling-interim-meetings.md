@@ -1,11 +1,14 @@
 ---
 title: Scheduling a Virtual Interim Meeting
-description: This is a step-by-step guide to scheduling virtual interim working group meetings. 
+description: >-
+  This is a step-by-step guide to scheduling virtual interim working group
+  meetings.
 published: true
-date: 2021-10-21T23:04:04.510Z
-tags: chairs
+date: '2022-04-25T18:31:21.380Z'
+tags:
+  - chairs
 editor: markdown
-dateCreated: 2021-10-21T17:49:09.814Z
+dateCreated: '2021-10-21T17:49:09.814Z'
 ---
 
 ## Summary
@@ -91,3 +94,4 @@ At any time, if you run into difficulty or have questions, please send email to:
 ## Further background:
 [IESG Statement: Guidance on Face-to-Face and Interim Virtual Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance-2016-01-16/)
 [RFC 2418: IETF Working Group Guidelines and Procedures](https://datatracker.ietf.org/doc/html/rfc2418)
+

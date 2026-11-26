@@ -1,11 +1,13 @@
 ---
 title: Supporting participants
-description: Resources for working group participants, especially those new to the IETF, may find useful
+description: >-
+  Resources for working group participants, especially those new to the IETF,
+  may find useful
 published: true
-date: 2025-10-14T17:55:56.592Z
-tags: 
+date: '2025-10-14T17:55:57.819Z'
+tags: []
 editor: markdown
-dateCreated: 2022-05-10T16:06:15.787Z
+dateCreated: '2022-05-10T16:06:15.787Z'
 ---
 
 # Supporting participants

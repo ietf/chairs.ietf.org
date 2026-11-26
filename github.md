@@ -2,10 +2,10 @@
 title: IETF Chairs Github resources
 description: Some Github-related resources for IETF Chairs
 published: true
-date: 2026-02-04T23:27:45.835Z
-tags: 
+date: '2026-03-28T18:05:06.704Z'
+tags: []
 editor: markdown
-dateCreated: 2026-02-04T22:39:20.150Z
+dateCreated: '2026-02-04T22:39:20.150Z'
 ---
 
 # Setting up a new GitHub for your WG
@@ -32,3 +32,4 @@ To add your WG GitHub orangization, or modify the list of repositories summarize
 ### Further details
 
 RFC 8874 and RFC 8875 outline more details about how to use GitHub for IETF work. Questions can be sent to support@ietf.org.
+

@@ -1,11 +1,13 @@
 ---
 title: IETF Chair getting started resource list
-description: This webpage aims to provide a summary of information and resources for chairing.
+description: >-
+  This webpage aims to provide a summary of information and resources for
+  chairing.
 published: true
-date: 2026-02-04T23:46:26.613Z
-tags: 
+date: '2026-02-04T23:46:28.432Z'
+tags: []
 editor: markdown
-dateCreated: 2024-08-06T20:47:56.645Z
+dateCreated: '2024-08-06T20:47:56.645Z'
 ---
 
 If this is your first time chairing a working group—or even if you have chaired a working group previously—the tips, information, and resources below can help make chairing easier and more effective.
@@ -49,3 +51,4 @@ As a working group chair, it is helpful if your Datatracker profile biography–
 
 **Ask questions**
 No one has all the answers so you should always feel free to ask questions of your Area Director or co-chair. For just about any IETF-related tool, resource, or activity, you can send email to: [support@ietf.org](mailto:support@ietf.org) and the query will be routed to someone who can help.
+

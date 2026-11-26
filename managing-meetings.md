@@ -2,10 +2,11 @@
 title: Managing meetings
 description: How to organize and run effective meetings that achieve clear outcomes.
 published: true
-date: 2021-12-14T18:37:16.121Z
-tags: meetings
+date: '2021-12-14T18:37:17.711Z'
+tags:
+  - meetings
 editor: markdown
-dateCreated: 2021-12-14T18:37:16.121Z
+dateCreated: '2021-12-14T18:37:16.121Z'
 ---
 
 # Managing meetings training

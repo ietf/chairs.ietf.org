@@ -1,11 +1,13 @@
 ---
 title: Speaking for or about the IETF
-description: This page discusses good practices and guidelines for speaking for or about the IETF.
+description: >-
+  This page discusses good practices and guidelines for speaking for or about
+  the IETF.
 published: true
-date: 2025-12-08T16:02:41.448Z
-tags: 
+date: '2025-12-08T16:02:43.240Z'
+tags: []
 editor: markdown
-dateCreated: 2025-09-17T21:44:58.653Z
+dateCreated: '2025-09-17T21:44:58.653Z'
 ---
 
 ## Presentation materials

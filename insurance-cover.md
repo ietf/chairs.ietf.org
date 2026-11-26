@@ -1,11 +1,11 @@
 ---
 title: Insurance cover
-description: 
+description: ''
 published: true
-date: 2026-11-22T02:45:22.627Z
-tags: 
+date: '2026-11-22T02:45:23.949Z'
+tags: []
 editor: markdown
-dateCreated: 2026-08-11T21:45:58.151Z
+dateCreated: '2026-08-11T21:45:58.151Z'
 ---
 
 # Insurance for decision-making roles in the IETF
@@ -27,4 +27,5 @@ If you become aware of legal action taken against yourself related to your  role
 
 ## Further information
 For more information contact the [IETF Executive Director](mailto:exec-director@ietf.org).
+
 

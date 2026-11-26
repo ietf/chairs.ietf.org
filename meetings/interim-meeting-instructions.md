@@ -1,11 +1,11 @@
 ---
 title: Scheduling virtual interim meetings
-description: A step-by-step guide to scheduling virtual interim working group meetings. 
+description: 'A step-by-step guide to scheduling virtual interim working group meetings. '
 published: true
-date: 2022-09-23T17:38:14.973Z
-tags: 
+date: '2022-09-23T17:38:18.224Z'
+tags: []
 editor: markdown
-dateCreated: 2021-12-17T15:02:53.271Z
+dateCreated: '2021-12-17T15:02:53.271Z'
 ---
 
 # Setting the time and date
@@ -77,3 +77,4 @@ At any time, if you run into difficulty or have questions, please send email to:
 # Further background
 [IESG Statement: Guidance on Face-to-Face and Interim Virtual Meetings](https://www.ietf.org/about/groups/iesg/statements/interim-meetings-guidance-2016-01-16/)
 [RFC 2418: IETF Working Group Guidelines and Procedures](https://datatracker.ietf.org/doc/html/rfc2418)
+

@@ -2,10 +2,10 @@
 title: Presentations
 description: Tips on presentations at an IETF session
 published: true
-date: 2021-10-05T14:40:08.495Z
-tags: 
+date: '2021-10-05T14:40:08.495Z'
+tags: []
 editor: markdown
-dateCreated: 2021-10-04T09:47:20.136Z
+dateCreated: '2021-10-04T09:47:20.136Z'
 ---
 
 ## General tips
@@ -30,3 +30,4 @@ Creating captions is difficult. Tools like Zoom can auto-generated .vtt files th
 A good quality external microphone is essential. The Blue Yeti or the Elgato Wave:1 seem to be the top recommendations here.
 
 There are also easier-to-use tools emerging that provide some of these capabilities (e.g. [mmhmm](https://www.mmhmm.app).)
+

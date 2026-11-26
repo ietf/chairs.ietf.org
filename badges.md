@@ -1,11 +1,13 @@
 ---
 title: IETF protocol badges
-description: Badges developed with the support of the IETF Administration LLC are made available for use via the IETF website.
+description: >-
+  Badges developed with the support of the IETF Administration LLC are made
+  available for use via the IETF website.
 published: true
-date: 2025-10-14T17:58:34.101Z
-tags: 
+date: '2025-10-14T17:58:35.523Z'
+tags: []
 editor: markdown
-dateCreated: 2024-01-23T03:00:49.366Z
+dateCreated: '2024-01-23T03:00:49.366Z'
 ---
 
 # IETF Protocol Badges

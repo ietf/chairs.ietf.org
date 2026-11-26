@@ -1,11 +1,14 @@
 ---
 title: Building consensus
-description: Arriving at solutions supported by the group, even when they are not in full agreement.
+description: >-
+  Arriving at solutions supported by the group, even when they are not in full
+  agreement.
 published: true
-date: 2022-08-08T23:13:37.604Z
-tags: training
+date: '2022-08-08T23:13:40.829Z'
+tags:
+  - training
 editor: markdown
-dateCreated: 2021-09-15T16:37:14.768Z
+dateCreated: '2021-09-15T16:37:14.768Z'
 ---
 
 # Building consensus

@@ -1,11 +1,13 @@
 ---
 title: Frequently Asked Questions about Liaisons and the IETF
-description: These are common questions, tailored for chairs of IETF Working Groups, about the liaison relationships the IETF has with other organizations.
+description: >-
+  These are common questions, tailored for chairs of IETF Working Groups, about
+  the liaison relationships the IETF has with other organizations.
 published: true
-date: 2025-11-17T13:02:20.671Z
-tags: 
+date: '2025-11-17T13:02:22.232Z'
+tags: []
 editor: markdown
-dateCreated: 2025-11-17T12:37:48.883Z
+dateCreated: '2025-11-17T12:37:48.883Z'
 ---
 
 ### When and Why do we need a formal liaison relationship?

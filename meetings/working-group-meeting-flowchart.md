@@ -1,11 +1,13 @@
 ---
 title: Working Group Session Flowchart
-description: This flowchart provides an overview of the process for organizing, holding, and following up on IETF working group meetings.
+description: >-
+  This flowchart provides an overview of the process for organizing, holding,
+  and following up on IETF working group meetings.
 published: true
-date: 2026-09-10T06:47:39.617Z
-tags: 
+date: '2026-09-10T06:47:40.989Z'
+tags: []
 editor: markdown
-dateCreated: 2021-12-17T18:01:25.182Z
+dateCreated: '2021-12-17T18:01:25.182Z'
 ---
 
 ```diagram
